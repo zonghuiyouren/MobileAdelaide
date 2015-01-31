@@ -38,7 +38,7 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-    <div class="container">
+<div class="container">
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-6">
@@ -52,8 +52,8 @@ Here's a sample "posts list".
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
        </div>
        </div>
-    </div>
-    
+</div>
+
 ## To-Do
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
