@@ -6,7 +6,6 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 
-here
 <div class="container-fluid">
       <!-- Example row of columns -->
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
