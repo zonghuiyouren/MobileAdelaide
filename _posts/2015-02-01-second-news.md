@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello world"
+title: "second news"
 description: ""
 category: 
 tags: [news]
@@ -8,12 +8,6 @@ tags: [news]
 {% include JB/setup %}
 
 
-#this is the first title
 
-## second title
-
-
-* 1
-* 2
-* 3
-
+## this is the second news 
+hello i am the second news

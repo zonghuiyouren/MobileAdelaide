@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "Contact Us"
 description: ""
 group: navigation
 ---

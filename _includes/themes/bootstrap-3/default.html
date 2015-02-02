@@ -21,6 +21,14 @@
     <!-- Custom styles -->
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
+    <style>
+      body {
+        background-image: url('http://www.freebiesgallery.com/wp-content/uploads/2013/08/light-blue-background-1.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+      }
+    </style>
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -53,26 +61,31 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <ul class="nav nav-justified">
+          <a class="navbar-brand " href="{{ HOME_PATH }}">{{site.title}}</a>
+          </ul>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
+          <ul class="nav navbar-nav pull-right">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
+          <!--
           <form class="navbar-form navbar-right" role="search">
             <div class="form-group">
               <input type="text" class="form-control" placeholder="Search">
             </div>
             <button type="submit" class="btn btn-default">Submit</button>
           </form>
+        -->
         </div><!-- /.navbar-collapse -->
+
       </nav>
 
-      <div class="container">
+      <div class="container-fluid">
         {{ content }}
       </div>
 
