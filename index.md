@@ -14,17 +14,17 @@ tagline: Supporting tagline
     <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
   </ol>
   <div class="carousel-inner" role="listbox">
-    <div class="item active" style="background-image: url('title.jpg'); background-size: cover; background-repeat:no-repeat; background-position: top; background-attachment: fixed;">
+    <div class="item active" style="background-image: url('{{ HOME_PATH }}assets/images/carousel1.jpg'); background-size: cover; background-repeat:no-repeat; background-position: top; background-attachment: fixed;">
       <div class="carousel-caption">
         <p lingdex="133">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
       </div>
     </div>
-    <div class="item" style="background-image: url('dance2.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+    <div class="item" style="background-image: url('{{ HOME_PATH }}assets/images/carousel2.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
       <div class="carousel-caption">
         <p lingdex="133">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
       </div>
     </div>
-    <div class="item" style="background-image: url('dance3.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+    <div class="item" style="background-image: url('{{ HOME_PATH }}assets/images/carousel3.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
       <div class="carousel-caption">
         <p lingdex="133">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
       </div>
@@ -52,19 +52,19 @@ tagline: Supporting tagline
   <!-- Three columns of text below the carousel -->
   <div class="row">
     <div class="col-lg-4">
-      <img class="img-circle" src="download.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+      <img class="img-circle" src="{{ HOME_PATH }}assets/images/head1.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
       <h2>Heading</h2>
       <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
-      <img class="img-circle" src="kfc.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+      <img class="img-circle" src="{{ HOME_PATH }}assets/images/head2.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
       <h2>Heading</h2>
       <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
-      <img class="img-circle" src="qiewala.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+      <img class="img-circle" src="{{ HOME_PATH }}assets/images/head3.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
       <h2>Heading</h2>
       <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
