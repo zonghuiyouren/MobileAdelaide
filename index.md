@@ -14,19 +14,25 @@ tagline: Supporting tagline
     <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
   </ol>
   <div class="carousel-inner" role="listbox">
-    <div class="item active" style="background-image: url('{{ HOME_PATH }}assets/images/carousel1.jpg'); background-size: cover; background-repeat:no-repeat; background-position: top; background-attachment: fixed;">
-      <div class="carousel-caption">
-        <p lingdex="133">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    <div class="item active">
+      <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel1.jpg'); background-position:center;">
+        <div class="carousel-caption">
+          <p lingdex="133">First slide description</p>
+        </div>
       </div>
     </div>
-    <div class="item" style="background-image: url('{{ HOME_PATH }}assets/images/carousel2.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+    <div class="item">
+      <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel2.jpg');">
       <div class="carousel-caption">
-        <p lingdex="133">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <p lingdex="133">Second slide description</p>
+      </div>
       </div>
     </div>
-    <div class="item" style="background-image: url('{{ HOME_PATH }}assets/images/carousel3.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+    <div class="item">
+      <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel3.jpg');">
       <div class="carousel-caption">
-        <p lingdex="133">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <p lingdex="133">Third slide description</p>
+      </div>
       </div>
     </div>
   </div>
