@@ -22,7 +22,6 @@ h1, h2, h3, h4 {
 #footer {
   padding-top: 20px;
   background-color: #ffffff;
-  padding-bottom: 20px;
 }
 
 #footer .cp {
@@ -164,7 +163,7 @@ Only Needed in Multi-Coloured Variation
 .social-fb:hover {
   color: #3B5998;
 }
-.social-tw:hover {
+.social-ph:hover {
   color: #4099FF;
 }
 .social-wb:hover {
