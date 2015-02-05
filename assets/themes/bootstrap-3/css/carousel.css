@@ -97,13 +97,37 @@ body {
   margin-bottom: 20px;
   text-align: center;
 }
-.marketing h2 {
-  font-weight: normal;
-}
+
 .marketing .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
 }
+
+.marketing h2 {
+  font-weight: normal;
+}
+
+
+.marketing .col-md-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.marketing .col-md-4 p {
+  margin-right: 10px;
+  margin-left: 10px;  
+}
+
+.marketing .col-sm-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.marketing .col-sm-4 p {
+  margin-right: 10px;
+  margin-left: 10px;  
+}
+
 
 
 /* Featurettes
@@ -164,3 +188,9 @@ body {
     margin-top: 120px;
   }
 }
+
+
+
+
+/* background for contact us */
+

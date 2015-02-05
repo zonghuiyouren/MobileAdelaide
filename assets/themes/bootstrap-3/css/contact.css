@@ -1,0 +1,181 @@
+#hero {
+    background-color: #E8605E;
+    background-image: url('//assets.edmodo.com/images_v2/marketing/careers-bg.png');
+    color: #c2d8f1;
+    background-repeat: repeat-x;
+    background-size: 1px 540px;
+    height: 540px;
+    text-align: center;
+    font-size: 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+#hero h1 {
+    color: #ffffff;
+    font-size: 65px;
+    font-weight: 200;
+}
+
+#hero h5 {
+    text-align: right;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+#hero h6 {
+    text-align: left;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+#hero a{
+    color: #ffffff;
+}
+
+.hero-illustration {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+
+}
+
+.contact-slider {
+    margin-left: 0;
+    position: relative;
+    top: 10%; 
+}
+
+.contact-line {
+    float: left;
+    background: #666666;
+    width: 1px;
+    height: 130px;
+}
+
+#hero-illustration1 {margin-left: -610px; bottom: 70px;}
+#hero-illustration2 {margin-left: -460px; bottom: 0;}
+#hero-illustration3 {margin-left: 250px; bottom: 0;}
+#hero-illustration4 {margin-left: 465px; bottom: 80px;}
+
+
+#contact {
+    text-align: center;
+    padding: 70px 0 40px;
+}
+
+#contact h4 {
+    font-size: 20px;
+    color: #3784d3;
+}
+
+#contact a {
+    color: #4e5565;
+}
+
+#contact .row {
+    padding-bottom: 50px;
+}
+
+#map-container {
+    height: 360px;
+    position: relative;
+    overflow: hidden;
+}
+
+#map {
+    height: 100%;
+    background-color: #eae6dc;
+}
+
+#map-container i {
+    position: absolute;
+    display: block;
+    box-shadow: 0 0 6px rgba(0,0,0,0.2);
+}
+
+.map-top { top: -5px; left: 0; right: 0; height: 5px; }
+.map-right { right: -5px; top: 0; bottom: 0; width: 5px; }
+.map-bottom { bottom: -5px; left: 0; right: 0; height: 5px; }
+.map-left { left: -5px; top: 0; bottom: 0; width: 5px; }
+
+#connect {
+    padding-bottom: 90px;
+}
+
+#connect h3 {
+    margin-top: 80px;
+}
+
+.contact-social {
+    color: #8890a2;
+    display: inline-block;
+    background-position: center top;
+    background-size: 48px 48px;
+    background-repeat: no-repeat;
+    padding-top: 64px;
+    text-align: center;
+}
+
+#connect .row {
+    margin-top: 60px;
+}
+
+#connect .col-xs-3 {
+    text-align: center;
+}
+
+.infoBox {
+    background-color: rgba(56,61,72,0.85);
+    border-radius: 5px;
+    color: white;
+    padding: 15px 0 0 30px;
+    font-size: 15px;
+    width: 240px;
+    height: 130px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.infoBox:after {
+    content: "";
+    display: block;
+    position: absolute;
+    right: -8px;
+    top: 50%;
+    height: 16px;
+    margin-top: -8px;
+    width: 8px;
+    background-size: 8px 16px;
+    background-repeat: no-repeat;
+    background-image: url('//assets.edmodo.com/images_v2/marketing/contact-arrow.png');
+}
+
+.infoBox img {
+    display: none !important;
+}
+
+#footer {border-top: none;}
+
+
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){ 
+    .infoBox:after {background-image: url('//assets.edmodo.com/images_v2/marketing/contact-arrow@2x.png');}
+}
+
+@media (min-width:768px) {
+    #nav li a, #nav .nav-account a:hover {
+        color: #c2d8f1;
+    } 
+
+
+} 
+
+@media (max-width:768px) {
+  #hero h2 {
+    margin-top:60px;
+  }
+
+    #hero h5 , #hero h6 {
+        font-size: 15px;
+    }
+}
+

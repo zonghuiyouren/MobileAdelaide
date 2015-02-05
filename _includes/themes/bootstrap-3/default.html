@@ -17,9 +17,12 @@
   <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
   <!-- Sticky Footer -->
   <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <!-- Include Font Awesome Stylesheet in Header -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <!-- Custom styles -->
   <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
 
   <style>
   body {
@@ -51,6 +54,7 @@
 
     <!-- Custom styles for this template -->
     <link href="{{ ASSET_PATH }}/css/carousel.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/contact.css" rel="stylesheet">
 
   </head>
 
@@ -98,12 +102,24 @@
   ================================================== -->
   <div id="footer">
     <div class="container">
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-        with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-        and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-      </p>
+          <img class="img-responsive" style="height:30px; width:30px" src="{{ HOME_PATH }}assets/images/qr.png" alt="Web QR Code">
+    </div>
+
+    
+    <div class="container">
+      <div class="text-center center-block">
+        <a href="https://www.facebook.com/qian.minming"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+        <a href="https://twitter.com/bootsnipp"><i id="social" class="fa fa-twitter-square fa-3x social-tw"></i></a>
+        <a href="https://plus.google.com/+Bootsnipp-page"><i id="social" class="fa fa-google-plus-square fa-3x social-gp"></i></a>
+        <a href="mailto:dynamismdance@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em"></i></a>
+      </div>
+    </div>
+
+    <div class="container cp">
+      <p>&copy 2015 Dynamism Dance, All Rights Reserved</p>
     </div>
   </div>
+
 
   {% include JB/analytics %}
 
