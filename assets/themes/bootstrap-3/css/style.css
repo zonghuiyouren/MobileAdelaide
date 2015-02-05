@@ -22,7 +22,7 @@ h1, h2, h3, h4 {
 #footer {
   padding-top: 20px;
   background-color: #ffffff;
-  height: 200px;
+  padding-bottom: 20px;
 }
 
 #footer .cp {
@@ -102,7 +102,62 @@ h1, h2, h3, h4 {
   -webkit-transition-duration: 0.5s; 
   -moz-transition-duration: 0.5s;
   -o-transition-duration: 0.5s;
-}           
+}    
+
+
+/* Footer */
+
+.footerhead{
+  font-size: 21px;
+  line-height: 1.2;
+  font-family: "dapifer", Georgia, serif;
+    font-weight: 400;
+  margin-top: -5px;
+  margin-bottom: 25px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.footerinfo{
+  font-family:  "nimbus-sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.428571429;
+  letter-spacing: 0.02em;
+  margin-top: 10px;
+  margin-right:80px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.footerinfosmall{
+  font-family:  "nimbus-sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.428571429;
+  letter-spacing: 0.02em;
+  margin-top: 10px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.addresstext{
+   font-size: 16px;
+  line-height: 1.3;
+  font-family: "dapifer", Georgia, serif;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+.addressitalic {
+    font-size: 16px;
+  line-height: 1.2;
+  font-family: "dapifer", Georgia, serif;
+    font-weight: 400;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+    -webkit-font-smoothing: antialiased;
+}
+
+
 /* 
 Only Needed in Multi-Coloured Variation 
                                                */
@@ -112,9 +167,45 @@ Only Needed in Multi-Coloured Variation
 .social-tw:hover {
   color: #4099FF;
 }
-.social-gp:hover {
+.social-wb:hover {
   color: #d34836;
 }
 .social-em:hover {
   color: #f39c12;
+}
+
+
+.wechat {
+  color: #63A52E;
+}
+
+
+
+.projectcredithead{
+  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size:12px;
+  line-height: -1.428571429;
+  letter-spacing: 0.12em;
+  -webkit-font-smoothing: antialiased;
+  
+}
+
+
+
+@media (max-width: 992px) {
+  #footer {
+    text-align: center;
+  }
+
+  #footer img{
+    width: 120px;
+    height: 120px;
+  }
+}
+
+.img-responsive {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
 }
