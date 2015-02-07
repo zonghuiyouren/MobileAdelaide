@@ -113,6 +113,19 @@
                 <li><a href="/">Photographs</a></li>          <!-- here should be the flickr address -->
                 <li><a href="/contact/">Contact Us</a></li>
               </ul>
+
+              <ul class="nav navbar-nav navbar-right">
+                <li><a role="button" aria-expanded="false">Language(English)<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    {% for language in site.languages%}
+                      {% if language != page.language %}
+                        <li><a href="/cn/{{page.url}}">中文</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </li>
+              </ul>
+
             </div>
       </div>
     </nav>
@@ -166,6 +179,19 @@
                 <li><a href="/cn/">相册</a></li>          <!-- here should be the flickr address -->
                 <li><a href="/cn/contact/">联系我们</a></li>
               </ul>
+
+              <ul class="nav navbar-nav navbar-right">
+                <li><a role="button"  aria-expanded="false">中文(language)<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    {% for language in site.languages%}
+                      {% if language != page.language %}
+                        <li><a href="{{page.url_no_language}}">English</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </li>
+              </ul>
+
             </div>
       </div>
     </nav> 
