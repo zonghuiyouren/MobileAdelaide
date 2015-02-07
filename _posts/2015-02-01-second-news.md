@@ -3,6 +3,7 @@ layout: post
 title: "second news"
 description: ""
 category: 
+image: "/assets/images/carousel2.jpg"
 tags: [news]
 ---
 {% include JB/setup %}

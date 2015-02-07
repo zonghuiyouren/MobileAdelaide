@@ -5,22 +5,20 @@ description: ""
 ---
 {% include JB/setup %}
 
+<div class="space"></div>
 
+{% for post in site.tags.class reversed %}
+  <ul class="classlist">
+    <li>
+      <a href="{{post.url}}">
 
-{% for tag in site.tags %} 
- {% if tag[0] == "news" %}
-  <p>
-  	{% assign pages_list = tag[1] %}
-  	{% for page in pages_list %}
-  		<div class="panel panel-default">
-  			<div class="panel-body">
-    			{{page.content}}
-          {{page.defined}}
-    		</div>
-  		</div>
-  	{% endfor %}
-  </p>
+      <h1>{{post.title}}</h1>
+      <div class="meta">By Dynamism Dance on {{ post.date | date:"%Y-%m-%d" }}</div>
+      <span class="thumb" style="background-image:url({{post.image}});"></span>
+      <h2></h2>
+      </a>
+      {{ post.content | strip_html | truncatewords: 50 }}
 
-
-  {% endif %}
+    </li>
+  </ul>
 {% endfor %}

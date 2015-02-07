@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Hello world"
+title: "First news"
 description: ""
 category: 
 tags: [news]
 image: "/assets/images/carousel1.jpg"
 ---
+
 {% include JB/setup %}
 
 
@@ -14,7 +15,9 @@ image: "/assets/images/carousel1.jpg"
 ## second title
 
 
+
 * 1
 * 2
 * 3
 
+this is my content

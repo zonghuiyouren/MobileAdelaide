@@ -215,10 +215,6 @@ Only Needed in Multi-Coloured Variation
 
 
 
-
-
-
-
 /*news*/
 .newslist {
   list-style: none;
@@ -248,6 +244,21 @@ li .thumb {
 
 .newslist li{
 border-bottom: 1px #ddd solid;
+}
+
+.meta {
+  color:#888;
+}
+
+/*to accomplish the hover color when move the mouse onto any part of the post*/
+/*very strange behavior, need to discuss*/
+.newslist h1 {
+  color: inherit;
+}
+
+.newslist a:hover, .newslist a h1:hover {
+  color:#d40;
+  text-decoration:none;
 }
 
 

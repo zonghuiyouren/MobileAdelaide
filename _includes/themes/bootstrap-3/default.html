@@ -79,7 +79,22 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li><a href="/">Home</a></li>
-                <li><a href="/about/">About Us</a></li>
+
+                <li><a href="/about/" data-toggle="dropdown" role="button" aria-expanded="false">About Us <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li class="dropdown-header"> Groups </li>
+                    {% for post in site.tags.group reversed%}
+                      <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                    {% endfor %}
+
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Dancers</li>
+                    {% for post in site.tags.dancer reversed%}
+                      <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+                
                 <li><a href="/news/">News</a></li>
                 <li><a href="/classes/">Classes</a></li>
                 <li><a href="/">Photographs</a></li>          <!-- here should be the flickr address -->
