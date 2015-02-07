@@ -5,21 +5,27 @@ description: ""
 ---
 {% include JB/setup %}
 
-<div class="space"></div>
+<style type="text/css">
+    .featurette-divider {
+        border: 0px; /* Space out the Bootstrap <hr> more */
+    }
+</style>
+
 
 <!-- change the format, don't need to filter, use the global variable can get all the posts with tag news. -->
 <ul class="newslist">
-{% for post in site.tags.news %}
-		<li>
-			<a href="{{post.url}}">
+    {% for post in site.tags.news %}
+    <li>
+        <a href="{{post.url}}">
+            <h1>{{post.title}}</h1>
+            <div class="meta">By Dynamism Dance on {{ post.date | date:"%Y-%m-%d" }}</div>
+            
+            <span class="thumb" style="background-image:url({{post.image}});"></span>
+            <h2></h2>
+        </a>
+        {{ post.excerpt }}
 
-			<h1>{{post.title}}</h1>
-			<div class="meta">By Dynamism Dance on {{ post.date | date:"%Y-%m-%d" }}</div>
-			<span class="thumb" style="background-image:url({{post.image}});"></span>
-			<h2></h2>
-			</a>
-			{{ post.excerpt }}
-
-		</li>
-{% endfor %}	
+    </li>
+    {% endfor %}
 </ul>
+
