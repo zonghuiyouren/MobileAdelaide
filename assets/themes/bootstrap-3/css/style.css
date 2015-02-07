@@ -236,3 +236,12 @@ li .thumb {
     height: 40px;
     display: block;
 }
+
+
+
+
+
+
+.navbar .nav > li:hover .dropdown-menu {
+    display: block;
+}

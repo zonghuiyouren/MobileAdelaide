@@ -145,3 +145,6 @@ body {
 
 /* background for contact us */
 
+.navbar .nav > li:hover .dropdown-menu {
+  display: block;
+}
