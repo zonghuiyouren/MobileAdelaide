@@ -44,7 +44,7 @@ group: navigation
             <div class="container-fluid">
 
             	{% for tag in site.tags%} 
- 		{% if tag[0] == "news" %}
+ 		{% if tag[0] == "group" %}
   		<p>
   		{% assign pages_list = tag[1] %}
   		{% for page in pages_list reversed%}
