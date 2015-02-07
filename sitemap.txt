@@ -1,8 +1,47 @@
----
-# Remember to set production_url in your _config.yml file!
-title : Sitemap
----
-{% for page in site.pages %}
-{{site.production_url}}{{ page.url }}{% endfor %}
-{% for post in site.posts %}
-{{site.production_url}}{{ post.url }}{% endfor %}
+
+http://username.github.io/archive.html
+http://username.github.io/atom.xml
+http://username.github.io/categories.html
+http://username.github.io/classes/index.html
+http://username.github.io/about/index.html
+http://username.github.io/news/index.html
+http://username.github.io/contact/index.html
+http://username.github.io/index.html
+http://username.github.io/pages.html
+http://username.github.io/rss.xml
+http://username.github.io/sitemap.txt
+http://username.github.io/cn/archive.html
+http://username.github.io/cn/atom.xml
+http://username.github.io/cn/categories.html
+http://username.github.io/cn/classes/index.html
+http://username.github.io/cn/about/index.html
+http://username.github.io/cn/news/index.html
+http://username.github.io/cn/contact/index.html
+http://username.github.io/cn/index.html
+http://username.github.io/cn/pages.html
+http://username.github.io/cn/rss.xml
+http://username.github.io/cn/sitemap.txt
+
+http://username.github.io/cn/2015/02/07/dancer2
+http://username.github.io/2015/02/07/dancer2
+http://username.github.io/cn/2015/02/07/dancer1
+http://username.github.io/2015/02/07/dancer1
+http://username.github.io/cn/2015/02/07/class2
+http://username.github.io/2015/02/07/class2
+http://username.github.io/cn/2015/02/07/class1
+http://username.github.io/2015/02/07/class1
+http://username.github.io/2015/02/03/group3
+http://username.github.io/cn/2015/02/03/group3
+http://username.github.io/2015/02/03/group2
+http://username.github.io/cn/2015/02/03/group2
+http://username.github.io/cn/2015/02/03/group
+http://username.github.io/2015/02/03/group
+http://username.github.io/2015/02/03/group
+http://username.github.io/2015/02/01/third-news
+http://username.github.io/cn/2015/02/01/third-news
+http://username.github.io/cn/2015/02/01/second-news
+http://username.github.io/2015/02/01/second-news
+http://username.github.io/cn/2015/02/01/new-post
+http://username.github.io/2015/02/01/new-post
+http://username.github.io/cn/2015/01/31/hello-world
+http://username.github.io/2015/01/31/hello-world

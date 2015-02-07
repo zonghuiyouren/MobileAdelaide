@@ -1,28 +1,508 @@
----
-layout: null
-title : RSS Feed
----
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>{{ site.title }}</title>
-        <description>{{ site.title }} - {{ site.author.name }}</description>
-        <link>{{ site.production_url }}{{ site.rss_path }}</link>
-        <link>{{ site.production_url }}</link>
-        <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
-        <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+        <title>Dynamism Dance</title>
+        <description>Dynamism Dance - Name Lastname</description>
+        <link>http://username.github.io</link>
+        <link>http://username.github.io</link>
+        <lastBuildDate>2015-02-07T23:51:20+10:30</lastBuildDate>
+        <pubDate>2015-02-07T23:51:20+10:30</pubDate>
         <ttl>1800</ttl>
 
-{% for post in site.posts %}
+
         <item>
-                <title>{{ post.title }}</title>
-                <description>{{ post.content | xml_escape }}</description>
-                <link>{{ site.production_url }}{{ post.url }}</link>
-                <guid>{{ site.production_url }}{{ post.id }}</guid>
-                <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+                <title>dancer2</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/07/dancer2</link>
+                <guid>http://username.github.io/cn/2015/02/07/dancer2</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
         </item>
-{% endfor %}
+
+        <item>
+                <title>dancer2</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/07/dancer2</link>
+                <guid>http://username.github.io/2015/02/07/dancer2</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>dancer1</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/07/dancer1</link>
+                <guid>http://username.github.io/cn/2015/02/07/dancer1</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>dancer1</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/07/dancer1</link>
+                <guid>http://username.github.io/2015/02/07/dancer1</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>class2</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/07/class2</link>
+                <guid>http://username.github.io/cn/2015/02/07/class2</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>class2</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/07/class2</link>
+                <guid>http://username.github.io/2015/02/07/class2</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>class1</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/07/class1</link>
+                <guid>http://username.github.io/cn/2015/02/07/class1</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>class1</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/07/class1</link>
+                <guid>http://username.github.io/2015/02/07/class1</guid>
+                <pubDate>2015-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dancer3</title>
+                <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+		     &lt;div id=&quot;Han Meimei&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Han Meimei&lt;/h1&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+                &lt;div class=&quot;col-lg-12&quot;&gt;
+                  &lt;div class=&quot;col-lg-3&quot;&gt;
+                  &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 200px; height: 200px;&quot; /&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&quot;col-lg-9&quot;&gt;
+                     &lt;h1 style=&quot;position: relative&quot;&gt;Introduction:&lt;/h1&gt;
+                     Han meimei is the leader of the China Royal Art Group! Han meimei is the leader of the China Royal Art Group! Han meimei is the leader of the China Royal Art Group!
+               &lt;/div&gt;
+                &lt;/div&gt;
+
+               
+
+	     &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+                <link>http://username.github.io/2015/02/03/group3</link>
+                <guid>http://username.github.io/2015/02/03/group3</guid>
+                <pubDate>2015-02-03T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dancer3</title>
+                <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+		     &lt;div id=&quot;Han Meimei&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Han Meimei&lt;/h1&gt;&lt;/div&gt;
+
+		&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+                &lt;div class=&quot;col-lg-12&quot;&gt;
+                  &lt;div class=&quot;col-lg-3&quot;&gt;
+                  &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 200px; height: 200px;&quot; /&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&quot;col-lg-9&quot;&gt;
+                     &lt;h1 style=&quot;position: relative&quot;&gt;Introduction:&lt;/h1&gt;
+                     Han meimei is the leader of the China Royal Art Group! Han meimei is the leader of the China Royal Art Group! Han meimei is the leader of the China Royal Art Group!
+               &lt;/div&gt;
+                &lt;/div&gt;
+
+               
+
+	     &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+                <link>http://username.github.io/cn/2015/02/03/group3</link>
+                <guid>http://username.github.io/cn/2015/02/03/group3</guid>
+                <pubDate>2015-02-03T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>Group2</title>
+                <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+      &lt;div id=&quot;Group2&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;
+        &lt;h1&gt;Art Group2&lt;/h1&gt;
+      &lt;/div&gt;
+                        
+&lt;div id=&quot;divContainer&quot; class=&quot;content&quot;&gt;
+  &lt;div class=&quot;img&quot; style=&quot;width:150px; height:150px; background:url(&#39;/touxiang.jpg&#39;) center;&quot;&gt;
+    &lt;h2&gt;&lt;div class=&quot;h2c&quot;&gt;A Movie in the Park:&lt;br /&gt;Kung Fu Panda&lt;/div&gt;&lt;/h2&gt;
+
+  &lt;/div&gt;
+   
+                      &lt;img class=&quot;img&quot; src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt; 
+                      &lt;img class=&quot;img&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+
+
+      &lt;div class=&quot;.image&quot;&gt;
+
+      &lt;img class=&quot;img&quot; src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+        
+      &lt;/div&gt;
+
+
+
+      &lt;div class=&quot;img&quot;&gt;
+          &lt;img src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+
+                          &lt;span style=&quot;position:absolute; top:0; left:0; width:150px; height:150px; &quot;&gt;This is big bond!
+                            &lt;a href=&quot;#&quot;&gt;Click for more information! &lt;/a&gt;
+                          &lt;/span&gt;
+
+         
+      &lt;/div&gt;
+&lt;/div&gt;
+                       
+&lt;/div&gt;
+
+</description>
+                <link>http://username.github.io/2015/02/03/group2</link>
+                <guid>http://username.github.io/2015/02/03/group2</guid>
+                <pubDate>2015-02-03T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>艺术团1</title>
+                <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+      &lt;div id=&quot;Group2&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;
+        &lt;h1&gt;Art Group2&lt;/h1&gt;
+      &lt;/div&gt;
+                        
+&lt;div id=&quot;divContainer&quot; class=&quot;content&quot;&gt;
+  &lt;div class=&quot;img&quot; style=&quot;width:150px; height:150px; background:url(&#39;/touxiang.jpg&#39;) center;&quot;&gt;
+    &lt;h2&gt;&lt;div class=&quot;h2c&quot;&gt;A Movie in the Park:&lt;br /&gt;Kung Fu Panda&lt;/div&gt;&lt;/h2&gt;
+
+  &lt;/div&gt;
+   
+                      &lt;img class=&quot;img&quot; src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt; 
+                      &lt;img class=&quot;img&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+
+
+      &lt;div class=&quot;.image&quot;&gt;
+
+      &lt;img class=&quot;img&quot; src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+        
+      &lt;/div&gt;
+
+
+
+      &lt;div class=&quot;img&quot;&gt;
+          &lt;img src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+
+                          &lt;span style=&quot;position:absolute; top:0; left:0; width:150px; height:150px; &quot;&gt;This is big bond!
+                            &lt;a href=&quot;#&quot;&gt;Click for more information! &lt;/a&gt;
+                          &lt;/span&gt;
+
+         
+      &lt;/div&gt;
+&lt;/div&gt;
+                       
+&lt;/div&gt;
+
+</description>
+                <link>http://username.github.io/cn/2015/02/03/group2</link>
+                <guid>http://username.github.io/cn/2015/02/03/group2</guid>
+                <pubDate>2015-02-03T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>Group1</title>
+                <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+         &lt;div id=&quot;Group1&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Art Group1&lt;/h1&gt;&lt;/div&gt;
+
+    &lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+
+          &lt;div class=&quot;col-lg-4&quot;&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;h3&gt;Leifeng&lt;/h3&gt;
+           &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+            &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+           &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+
+            &lt;div class=&quot;col-lg-4&quot;&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;h3&gt;Wala&lt;/h3&gt;
+           &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+            &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+           &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+
+           &lt;div class=&quot;col-lg-4&quot;&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;h3&gt;Wala&lt;/h3&gt;
+           &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+            &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+           &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+                <link>http://username.github.io/cn/2015/02/03/group</link>
+                <guid>http://username.github.io/cn/2015/02/03/group</guid>
+                <pubDate>2015-02-03T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>Group1</title>
+                <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+         &lt;div id=&quot;Group1&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Art Group1&lt;/h1&gt;&lt;/div&gt;
+
+    &lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+
+          &lt;div class=&quot;col-lg-4&quot;&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;h3&gt;Leifeng&lt;/h3&gt;
+           &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+            &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+           &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+
+            &lt;div class=&quot;col-lg-4&quot;&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;h3&gt;Wala&lt;/h3&gt;
+           &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+            &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+           &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+
+           &lt;div class=&quot;col-lg-4&quot;&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;h3&gt;Wala&lt;/h3&gt;
+           &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+            &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+           &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+                <link>http://username.github.io/2015/02/03/group</link>
+                <guid>http://username.github.io/2015/02/03/group</guid>
+                <pubDate>2015-02-03T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>Group1</title>
+                <description>
+
+
+&lt;div class=&quot;content-wrapper&quot;&gt;
+    &lt;div id=&quot;Group1&quot; class=&quot;col-lg-12&quot;&gt;
+        &lt;h1&gt;Art Group1&lt;/h1&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;col-lg-12&quot;&gt;
+        &lt;h1&gt;Group Introduction:&lt;/h1&gt;Russia Royal Art Group
+
+    &lt;/div&gt;
+
+    &lt;div class=&quot;col-lg-12&quot;&gt;
+        &lt;h1&gt;Members Gallery:&lt;/h1&gt;
+    &lt;/div&gt;
+&lt;div id=&quot;divContainer&quot; class=&quot;content&quot; style=&quot;padding-left: 3%&quot;&gt;
+  &lt;div class=&quot;img&quot; style=&quot;width:150px; height:150px; background:url(&#39;/assets/images//touxiang.jpg&#39;) center;&quot;&gt;
+    &lt;h2&gt;&lt;div class=&quot;h2c&quot;&gt;A Movie in the Park:&lt;br /&gt;Kung Fu Panda&lt;/div&gt;&lt;/h2&gt;
+
+  &lt;/div&gt;
+   
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt; 
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+
+
+      &lt;div class=&quot;.image&quot;&gt;
+
+      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot;/&gt;
+        
+      &lt;/div&gt;
+
+
+
+      &lt;div class=&quot;img&quot;&gt;
+          &lt;img  src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+
+                          &lt;span style=&quot;position:absolute; top:0; left:0; width:150px; height:150px; &quot;&gt;This is big bond!
+                            &lt;a href=&quot;#&quot;&gt;Click for more information! &lt;/a&gt;
+                          &lt;/span&gt;
+
+         
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+                <link>http://username.github.io/2015/02/03/group</link>
+                <guid>http://username.github.io/2015/02/03/group</guid>
+                <pubDate>2015-02-03T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>last news</title>
+                <description>&lt;h2 id=&quot;this-is-the-third-pages&quot;&gt;this is the third pages&lt;/h2&gt;
+
+&lt;p&gt;here is the iamge&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;	aa
+
+	bb
+
+	cc
+
+
+
+	aa
+
+	bb
+
+	cc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is my first paragraph, show me the contents.
+what this did not work for .
+&lt;!--more--&gt;&lt;/p&gt;
+</description>
+                <link>http://username.github.io/2015/02/01/third-news</link>
+                <guid>http://username.github.io/2015/02/01/third-news</guid>
+                <pubDate>2015-02-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>last news</title>
+                <description>&lt;h2 id=&quot;this-is-the-third-pages&quot;&gt;this is the third pages&lt;/h2&gt;
+
+&lt;p&gt;here is the iamge&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;	aa
+
+	bb
+
+	cc
+
+
+
+	aa
+
+	bb
+
+	cc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is my first paragraph, show me the contents.
+what this did not work for .
+&lt;!--more--&gt;&lt;/p&gt;
+</description>
+                <link>http://username.github.io/cn/2015/02/01/third-news</link>
+                <guid>http://username.github.io/cn/2015/02/01/third-news</guid>
+                <pubDate>2015-02-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>second news</title>
+                <description>
+&lt;h2 id=&quot;this-is-the-second-news&quot;&gt;this is the second news&lt;/h2&gt;
+&lt;p&gt;hello i am the second news&lt;/p&gt;
+</description>
+                <link>http://username.github.io/cn/2015/02/01/second-news</link>
+                <guid>http://username.github.io/cn/2015/02/01/second-news</guid>
+                <pubDate>2015-02-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>second news</title>
+                <description>
+&lt;h2 id=&quot;this-is-the-second-news&quot;&gt;this is the second news&lt;/h2&gt;
+&lt;p&gt;hello i am the second news&lt;/p&gt;
+</description>
+                <link>http://username.github.io/2015/02/01/second-news</link>
+                <guid>http://username.github.io/2015/02/01/second-news</guid>
+                <pubDate>2015-02-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>new post</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/01/new-post</link>
+                <guid>http://username.github.io/cn/2015/02/01/new-post</guid>
+                <pubDate>2015-02-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>new post</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/01/new-post</link>
+                <guid>http://username.github.io/2015/02/01/new-post</guid>
+                <pubDate>2015-02-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>First news</title>
+                <description>
+&lt;h1 id=&quot;this-is-the-first-title&quot;&gt;this is the first title&lt;/h1&gt;
+
+&lt;h2 id=&quot;second-title&quot;&gt;second title&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1&lt;/li&gt;
+  &lt;li&gt;2&lt;/li&gt;
+  &lt;li&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;this is my content&lt;/p&gt;
+</description>
+                <link>http://username.github.io/cn/2015/01/31/hello-world</link>
+                <guid>http://username.github.io/cn/2015/01/31/hello-world</guid>
+                <pubDate>2015-01-31T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>First news</title>
+                <description>
+&lt;h1 id=&quot;this-is-the-first-title&quot;&gt;this is the first title&lt;/h1&gt;
+
+&lt;h2 id=&quot;second-title&quot;&gt;second title&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1&lt;/li&gt;
+  &lt;li&gt;2&lt;/li&gt;
+  &lt;li&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;this is my content&lt;/p&gt;
+</description>
+                <link>http://username.github.io/2015/01/31/hello-world</link>
+                <guid>http://username.github.io/2015/01/31/hello-world</guid>
+                <pubDate>2015-01-31T00:00:00+10:30</pubDate>
+        </item>
+
 
 </channel>
 </rss>
