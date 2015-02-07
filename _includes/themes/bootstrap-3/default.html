@@ -62,7 +62,8 @@
 <!-- NAVBAR
   ================================================== -->
   <body>
-    <!-- Static navbar -->
+     <!-- Static navbar -->
+    {% if page.language == "en" %}
     <nav class="navbar navbar-default navbar-static-top">
       <div class="container">
         <div class="navbar-header">
@@ -82,13 +83,17 @@
                   <ul class="dropdown-menu" role="menu">
                     <li class="dropdown-header"> Groups </li>
                     {% for post in site.tags.group reversed%}
-                        <li><a href="/about/#{{post.title}}">{{post.title}} {{site.language }}</a></li>
+                      {% if post.language == page.language %}
+                        <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                      {% endif %}
                     {% endfor %}
 
                     <li class="divider"></li>
                     <li class="dropdown-header">Dancers</li>
                     {% for post in site.tags.dancer reversed%}
-                      <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                      {% if post.language == page.language %}
+                        <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                      {% endif %}
                     {% endfor %}
                   </ul>
                 </li>
@@ -98,7 +103,9 @@
                 <li><a href="/classes/" role="button" aria-expanded="false">Classes<span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     {% for post in site.tags.class reversed%}
-                      <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                      {% if post.language == page.language %}
+                        <li><a href="/classes/#{{post.title}}">{{post.title}}</a></li>
+                      {% endif %}
                     {% endfor %}
                   </ul>
                 </li>
@@ -109,6 +116,60 @@
             </div>
       </div>
     </nav>
+    {% else %}       <!-- for Chinese version nav bar -->
+      <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/cn/">华夏君之梅</a>
+        </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="/cn/">首页</a></li>
+
+                <li><a href="/cn/about/" role="button" aria-expanded="false">关于我们 <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li class="dropdown-header"> 艺术团 </li>
+                    {% for post in site.tags.group reversed%}
+                       {% if post.language == page.language %}
+                        <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                      {% endif %}
+                    {% endfor %}
+
+                    <li class="divider"></li>
+                    <li class="dropdown-header">舞蹈家</li>
+                    {% for post in site.tags.dancer reversed%}
+                       {% if post.language == page.language %}
+                        <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </li>
+                
+                <li><a href="/cn/news/">新闻</a></li>
+
+                <li><a href="/cn/classes/" role="button" aria-expanded="false">课程<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    {% for post in site.tags.class reversed%}
+                      {% if post.language == page.language %}
+                        <li><a href="/classes/#{{post.title}}">{{post.title}}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </li>
+
+                <li><a href="/cn/">相册</a></li>          <!-- here should be the flickr address -->
+                <li><a href="/cn/contact/">联系我们</a></li>
+              </ul>
+            </div>
+      </div>
+    </nav> 
+    {% endif %}
 
 
 
@@ -118,8 +179,10 @@
 
 
 <hr class="featurette-divider">
+
 <!-- FOOTER
   ================================================== -->
+  {% if page.language == "en" %}
   <div id="footer">
     <div class="container" style="padding-bottom:10px;">
       <div class="row ">
@@ -167,6 +230,55 @@
           <p style="margin:0px;">&copy; 2015 Dynamism Dance, All Rights Reserved</p>
         </div>
     </div>   <!-- footer -->
+  {% else %}
+    <div id="footer">
+    <div class="container" style="padding-bottom:10px;">
+      <div class="row ">
+        <div class="col-md-7">
+          <p class="footerhead">华夏君之梅</p>
+          <p class="footerinfo">我们致力于古典和当代舞蹈的教学和展示,吸收了来自中国和西方的文化精髓。为大家提供一个有趣的、友好的活力空间。</p>
+          <p class="footerinfo">这里是展现你们活力舞蹈的空间！</p>
+          <a href="/cn/contact/">联系我们</a>
+          <a style="padding-left:10%;" href="/cn/about/">关于我们</a>
+        </div>
+
+        <div class="col-md-3 ">
+          <div>
+            <a href="https://www.facebook.com/qian.minming"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+            <a href="https://minmingqian.github.io"><i id="social" class="fa fa-weibo fa-3x social-wb"></i></a>
+            <a href="mailto:dynamismdance@gmail.com" title="dynamismdance@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em"></i></a>
+            <a href="tel:+61 469 880 699" title="+61 469 880 699"><i id="social" class="fa fa-phone-square fa-3x social-ph"></i></a>
+          </div>
+
+          
+            <!-- timer -->
+            <a href="http://time.is/Adelaide" id="time_is_link" rel="nofollow" style="font-size:15">阿德莱德时间:</a>
+            <span id="Adelaide_z600" style="font-size:15"></span>
+            <script src="http://widget.time.is/t.js"></script>
+            <script>
+            time_is_widget.init({Adelaide_z600:{}});
+            </script>
+
+            
+          </div>
+
+          
+
+          <div class="col-md-2 center-block">
+            <div class="projectcredithead" title="wechat">&nbsp;&nbsp;&nbsp;&nbsp; 通过微信联系 <i class="fa fa-wechat fa-2x wechat"></i></div>
+
+            <img class="img-responsive"  src="{{ HOME_PATH }}assets/images/qr.png" alt="Web QR Code">
+          </div>
+        </div>  <!-- row -->
+
+        
+      </div>  <!-- container -->
+
+      <div class="container-fluid text-center" style="background-color:#428BCA;" > 
+          <p style="margin:0px;">&copy; 2015 Dynamism Dance, All Rights Reserved</p>
+        </div>
+    </div>   <!-- footer -->
+    {% endif %}
 
 
   {% include JB/analytics %}
