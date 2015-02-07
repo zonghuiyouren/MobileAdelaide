@@ -27,6 +27,16 @@ author :
 #
 production_url : http://username.github.io
 
+
+
+# languages : 所有的语言
+# language_default : 默认语言，如果没有指定，使用languages数组中的第一个语言。
+# fill_default_content:如果这个值设置成 ture，当一个默认语言页面对应的其他语言的页面不存在的时候，会用默认语言页面生成其他语言的页面。
+gems : ['jekyll-multiple-languages']
+languages : ["en", "cn"]
+language_default : 'en'
+fill_default_content : ture
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -132,3 +142,5 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+
+

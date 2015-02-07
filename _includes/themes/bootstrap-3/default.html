@@ -82,7 +82,7 @@
                   <ul class="dropdown-menu" role="menu">
                     <li class="dropdown-header"> Groups </li>
                     {% for post in site.tags.group reversed%}
-                      <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                        <li><a href="/about/#{{post.title}}">{{post.title}} {{site.language }}</a></li>
                     {% endfor %}
 
                     <li class="divider"></li>
