@@ -15,15 +15,12 @@
   <!-- Bootstrap styles -->
   <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Optional theme -->
-  <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+  <link href="/assets/themes/bootstrap-3/css/custom.css" rel="stylesheet">
   <!-- Sticky Footer -->
   <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
-  <!-- Include Font Awesome Stylesheet in Header -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <!-- Custom styles -->
   <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-
 
   <style>
   body {
@@ -55,7 +52,8 @@
 
     <!-- Custom styles for this template -->
     <link href="/assets/themes/bootstrap-3/css/carousel.css" rel="stylesheet">
-    <link href="/assets/themes/bootstrap-3/css/contact.css" rel="stylesheet">
+
+        <link href="/assets/themes/bootstrap-3/css/sidebar.css" rel="stylesheet">
 
   </head>
 
@@ -63,240 +61,175 @@
 <!-- NAVBAR
   ================================================== -->
   <body>
-     <!-- Static navbar -->
-           <!-- for Chinese version nav bar -->
-      <nav class="navbar navbar-default navbar-static-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/cn/">华夏君之梅</a>
-        </div>
-            <div id="navbar" class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li><a href="/cn/">首页</a></li>
-
-                <li><a href="/cn/about/" role="button" aria-expanded="false">关于我们 <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li class="dropdown-header"> 艺术团 </li>
-                    
-                       
-                    
-                       
-                    
-                       
-                        <li><a href="/about/#Group1">Group1</a></li>
-                      
-                    
-                       
-                        <li><a href="/about/#艺术团1">艺术团1</a></li>
-                      
-                    
-                       
-                    
-
-                    <li class="divider"></li>
-                    <li class="dropdown-header">舞蹈家</li>
-                    
-                       
-                    
-                       
-                        <li><a href="/about/#Dancer3">Dancer3</a></li>
-                      
-                    
-                       
-                        <li><a href="/about/#dancer1">dancer1</a></li>
-                      
-                    
-                       
-                    
-                       
-                    
-                       
-                        <li><a href="/about/#dancer2">dancer2</a></li>
-                      
-                    
-                  </ul>
-                </li>
-                
-                <li><a href="/cn/news/">新闻</a></li>
-
-                <li><a href="/cn/classes/" role="button" aria-expanded="false">课程<span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    
-                      
-                    
-                      
-                        <li><a href="/classes/#class1">class1</a></li>
-                      
-                    
-                      
-                    
-                      
-                        <li><a href="/classes/#class2">class2</a></li>
-                      
-                    
-                  </ul>
-                </li>
-
-                <li><a href="/cn/">相册</a></li>          <!-- here should be the flickr address -->
-                <li><a href="/cn/contact/">联系我们</a></li>
-              </ul>
-
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="#"role="button"  aria-expanded="false">中文(language)<span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    
-                      
-                        <li><a href="/classes/index.html">English</a></li>
-                      
-                    
-                      
-                    
-                  </ul>
-                </li>
-              </ul>
-
-            </div>
-      </div>
-    </nav> 
-    
-
-
-
 <!-- CONTENT: don't use the container, add container in each page
   ================================================== -->
   
 
 
-    
-
-<div class="space"></div>
-
-
-  <ul class="classlist">
-    <li>
-      <a href="/2015/02/07/class1">
-
-      <h1>class1</h1>
-      <div class="meta">By Dynamism Dance on 2015-02-07</div>
-      <span class="thumb" style="background-image:url();"></span>
-      <h2></h2>
-      </a>
-      
-
-
-    </li>
-  </ul>
-
-  <ul class="classlist">
-    <li>
-      <a href="/cn/2015/02/07/class1">
-
-      <h1>class1</h1>
-      <div class="meta">By Dynamism Dance on 2015-02-07</div>
-      <span class="thumb" style="background-image:url();"></span>
-      <h2></h2>
-      </a>
-      
-
-
-    </li>
-  </ul>
-
-  <ul class="classlist">
-    <li>
-      <a href="/2015/02/07/class2">
-
-      <h1>class2</h1>
-      <div class="meta">By Dynamism Dance on 2015-02-07</div>
-      <span class="thumb" style="background-image:url();"></span>
-      <h2></h2>
-      </a>
-      
-
-
-    </li>
-  </ul>
-
-  <ul class="classlist">
-    <li>
-      <a href="/cn/2015/02/07/class2">
-
-      <h1>class2</h1>
-      <div class="meta">By Dynamism Dance on 2015-02-07</div>
-      <span class="thumb" style="background-image:url();"></span>
-      <h2></h2>
-      </a>
-      
-
-
-    </li>
-  </ul>
+<div id="wrapper">
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="/">
+                        <img src="/assets/images/logo.gif" alt="Generic placeholder image" style="height: 50%;width: 50%;">
+                    </a>
+                </li>
+                <li style="background-color:#832641">
+                    <a href="#Group1">Dance Classes</a>
+                    <li>
+                        
+                        <a href="#Group1">Hip-Hop</a> 
+                        <a href="#Group1">Hip-Hop</a> 
+                        <a href="#Group1">Fork Dance</a> 
+                        <a href="#Group1">Fork Dance</a> 
+                        <a href="#">1</a>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#">4</a>
+                        <a href="#">5</a>
+                        <a href="#">6</a>
+                        <a href="#">7</a>
+                        <a href="#">8</a>
+                        <a href="#">9</a>
+                        <a href="#">10</a>
+                        <a href="#">11</a>
+                        <a href="#">12</a>
+                        <a href="#">13</a>
+                        <a href="#">14</a>
+                        <a href="#">15</a>
+                        <a href="#">16</a>
+                        <a href="#">17</a>
+                        <a href="#">18</a>
+                        <a href="#">19</a>
+                        <a href="#">20</a>
+                        <a href="#">21</a>
+                    </li>
+                </li>
+            </ul>
+    </div>
 
 
 
 
 
 
-<hr class="featurette-divider">
+
+<div id="page-content-wrapper">
+    <div class="container-fluid">
+
+
+        
+        <div class="panel panel-default">
+            <div class="panel-body">
+                
+<div class="content-wrapper">
+	<div class="row" style="padding-left: 15px">
+		<h1>Hip-Hop</h1>
+		<span style="font-weight: 500; font-size: 20px;">Introduction:</span>
+		<div class="col-lg-12">
+		<div class="col-lg-9" style="float:left; padding-top: 7%;">
+			This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!
+		</div>
+		<div class="col-lg-3">
+			<img class="img-rounded" src="/assets/images/touxiang.jpg" alt="Generic placeholder image" style="margin-bottom: 7%; float: right; width: 200px; height: 200px;" />
+		</div></div>
+
+	</div>
+</div>
+
+            </div>
+        </div>
+        
+        <div class="panel panel-default">
+            <div class="panel-body">
+                
+<div class="content-wrapper">
+	<div class="row" style="padding-left: 15px">
+		<h1>Hip-Hop</h1>
+		<span style="font-weight: 500; font-size: 20px;">Introduction:</span>
+		<div class="col-lg-12">
+		<div class="col-lg-9" style="float:left; padding-top: 7%;">
+			This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!
+		</div>
+		<div class="col-lg-3">
+			<img class="img-rounded" src="/assets/images/touxiang.jpg" alt="Generic placeholder image" style="margin-bottom: 7%; float: right; width: 200px; height: 200px;" />
+		</div></div>
+
+	</div>
+</div>
+
+            </div>
+        </div>
+        
+        <div class="panel panel-default">
+            <div class="panel-body">
+                
+<div class="content-wrapper">
+	<div class="row" style="padding-left: 15px">
+		<h1>Fork Dance</h1>
+		<span style="font-weight: 500; font-size: 20px;">Introduction:</span>
+		<div class="col-lg-12">
+		<div class="col-lg-9" style="float:left; padding-top: 7%;">
+			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
+		</div>
+		<div class="col-lg-3">
+			<img class="img-rounded" src="/assets/images/touxiang2.jpg" alt="Generic placeholder image" style="margin-bottom: 7%; float: right; width: 200px; height: 200px;" />
+		</div></div>
+
+	</div>
+</div>
+
+            </div>
+        </div>
+        
+        <div class="panel panel-default">
+            <div class="panel-body">
+                
+<div class="content-wrapper">
+	<div class="row" style="padding-left: 15px">
+		<h1>Fork Dance</h1>
+		<span style="font-weight: 500; font-size: 20px;">Introduction:</span>
+		<div class="col-lg-12">
+		<div class="col-lg-9" style="float:left; padding-top: 7%;">
+			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
+		</div>
+		<div class="col-lg-3">
+			<img class="img-rounded" src="/assets/images/touxiang2.jpg" alt="Generic placeholder image" style="margin-bottom: 7%; float: right; width: 200px; height: 200px;" />
+		</div></div>
+
+	</div>
+</div>
+
+            </div>
+        </div>
+        
+
+
+
+        <!-- <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Simple Sidebar</h1>
+                        <p>This template has a responsive menu toggling system. The menu will appear collapsed on smaller screens, and will appear non-collapsed on larger screens. When toggled using the button below, the menu will appear/disappear. On small screens, the page content will be pushed off canvas.</p>
+                        <p>Make sure to keep all page content within the <code>#page-content-wrapper</code>.</p>
+                        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+                    </div>
+                </div> -->
+    </div>
+</div>
+</div>
+
 
 <!-- FOOTER
   ================================================== -->
-  
-    <div id="footer">
-    <div class="container" style="padding-bottom:10px;">
-      <div class="row ">
-        <div class="col-md-7">
-          <p class="footerhead">华夏君之梅</p>
-          <p class="footerinfo">我们致力于古典和当代舞蹈的教学和展示,吸收了来自中国和西方的文化精髓。为大家提供一个有趣的、友好的活力空间。</p>
-          <p class="footerinfo">这里是展现你们活力舞蹈的空间！</p>
-          <a href="/cn/contact/">联系我们</a>
-          <a style="padding-left:10%;" href="/cn/about/">关于我们</a>
-        </div>
-
-        <div class="col-md-3 ">
-          <div>
-            <a href="https://www.facebook.com/qian.minming"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
-            <a href="https://minmingqian.github.io"><i id="social" class="fa fa-weibo fa-3x social-wb"></i></a>
-            <a href="mailto:dynamismdance@gmail.com" title="dynamismdance@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em"></i></a>
-            <a href="tel:+61 469 880 699" title="+61 469 880 699"><i id="social" class="fa fa-phone-square fa-3x social-ph"></i></a>
-          </div>
-
-          
-            <!-- timer -->
-            <a href="http://time.is/Adelaide" id="time_is_link" rel="nofollow" style="font-size:15">阿德莱德时间:</a>
-            <span id="Adelaide_z600" style="font-size:15"></span>
-            <script src="http://widget.time.is/t.js"></script>
-            <script>
-            time_is_widget.init({Adelaide_z600:{}});
-            </script>
-
-            
-          </div>
-
-          
-
-          <div class="col-md-2 center-block">
-            <div class="projectcredithead" title="wechat">&nbsp;&nbsp;&nbsp;&nbsp; 通过微信联系 <i class="fa fa-wechat fa-2x wechat"></i></div>
-
-            <img class="img-responsive"  src="/assets/images/qr.png" alt="Web QR Code">
-          </div>
-        </div>  <!-- row -->
-
-        
-      </div>  <!-- container -->
-
-      <div class="container-fluid text-center" style="background-color:#428BCA;" > 
-          <p style="margin:0px;">&copy; 2015 Dynamism Dance, All Rights Reserved</p>
-        </div>
-    </div>   <!-- footer -->
-    
-
+<!--   <div id="footer">
+    <div class="container">
+      <p>&copy; 2015 Name Lastname
+        with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+        and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+      </p>
+    </div>
+  </div> -->
 
   
 
@@ -305,6 +238,22 @@
   <!-- Placed at the end of the document so the pages load faster -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+
+      <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+    <script type="text/javascript">
+  for(var i =1;i<=20;i++)
+{
+$("#divContainer").append("<div class=\"img\"><img src=\"\/assets\/images\/touxiang.jpg\" style=\"width: 150px; height: 150px;\"/></div>");//divContainer为添加容器div的id
+}
+
+    </script>
+
 </body>
 </html>
 

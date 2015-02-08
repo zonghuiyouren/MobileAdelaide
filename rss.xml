@@ -5,13 +5,13 @@
         <description>Dynamism Dance - Name Lastname</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2015-02-08T09:03:37+10:30</lastBuildDate>
-        <pubDate>2015-02-08T09:03:37+10:30</pubDate>
+        <lastBuildDate>2015-02-08T18:56:56+10:30</lastBuildDate>
+        <pubDate>2015-02-08T18:56:56+10:30</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>dancer2</title>
+                <title>Hobe</title>
                 <description>
 </description>
                 <link>http://username.github.io/cn/2015/02/07/dancer2</link>
@@ -20,7 +20,7 @@
         </item>
 
         <item>
-                <title>dancer2</title>
+                <title>Hobe</title>
                 <description>
 </description>
                 <link>http://username.github.io/2015/02/07/dancer2</link>
@@ -29,7 +29,7 @@
         </item>
 
         <item>
-                <title>dancer1</title>
+                <title>Li Lei</title>
                 <description>
 </description>
                 <link>http://username.github.io/cn/2015/02/07/dancer1</link>
@@ -38,7 +38,7 @@
         </item>
 
         <item>
-                <title>dancer1</title>
+                <title>Li Lei</title>
                 <description>
 </description>
                 <link>http://username.github.io/2015/02/07/dancer1</link>
@@ -47,8 +47,22 @@
         </item>
 
         <item>
-                <title>class2</title>
+                <title>Hip-Hop</title>
                 <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+		&lt;h1&gt;Hip-Hop&lt;/h1&gt;
+		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
+			This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!
+		&lt;/div&gt;
+		&lt;div class=&quot;col-lg-3&quot;&gt;
+			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
+		&lt;/div&gt;&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
 </description>
                 <link>http://username.github.io/cn/2015/02/07/class2</link>
                 <guid>http://username.github.io/cn/2015/02/07/class2</guid>
@@ -56,8 +70,22 @@
         </item>
 
         <item>
-                <title>class2</title>
+                <title>Hip-Hop</title>
                 <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+		&lt;h1&gt;Hip-Hop&lt;/h1&gt;
+		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
+			This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!This is the hip-hop class!
+		&lt;/div&gt;
+		&lt;div class=&quot;col-lg-3&quot;&gt;
+			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
+		&lt;/div&gt;&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
 </description>
                 <link>http://username.github.io/2015/02/07/class2</link>
                 <guid>http://username.github.io/2015/02/07/class2</guid>
@@ -65,8 +93,22 @@
         </item>
 
         <item>
-                <title>class1</title>
+                <title>Fork Dance</title>
                 <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+		&lt;h1&gt;Fork Dance&lt;/h1&gt;
+		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
+			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
+		&lt;/div&gt;
+		&lt;div class=&quot;col-lg-3&quot;&gt;
+			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
+		&lt;/div&gt;&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
 </description>
                 <link>http://username.github.io/cn/2015/02/07/class1</link>
                 <guid>http://username.github.io/cn/2015/02/07/class1</guid>
@@ -74,8 +116,22 @@
         </item>
 
         <item>
-                <title>class1</title>
+                <title>Fork Dance</title>
                 <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+		&lt;h1&gt;Fork Dance&lt;/h1&gt;
+		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
+			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
+		&lt;/div&gt;
+		&lt;div class=&quot;col-lg-3&quot;&gt;
+			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
+		&lt;/div&gt;&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
 </description>
                 <link>http://username.github.io/2015/02/07/class1</link>
                 <guid>http://username.github.io/2015/02/07/class1</guid>
@@ -83,7 +139,7 @@
         </item>
 
         <item>
-                <title>Dancer3</title>
+                <title>Han Meimei</title>
                 <description>
 &lt;div class=&quot;content-wrapper&quot;&gt;
 		     &lt;div id=&quot;Han Meimei&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Han Meimei&lt;/h1&gt;&lt;/div&gt;
@@ -91,7 +147,7 @@
 		&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
                 &lt;div class=&quot;col-lg-12&quot;&gt;
                   &lt;div class=&quot;col-lg-3&quot;&gt;
-                  &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 200px; height: 200px;&quot; /&gt;
+                  &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 200px; height: 200px;&quot; /&gt;
                   &lt;/div&gt;
                   &lt;div class=&quot;col-lg-9&quot;&gt;
                      &lt;h1 style=&quot;position: relative&quot;&gt;Introduction:&lt;/h1&gt;
@@ -111,7 +167,7 @@
         </item>
 
         <item>
-                <title>Dancer3</title>
+                <title>Han Meimei</title>
                 <description>
 &lt;div class=&quot;content-wrapper&quot;&gt;
 		     &lt;div id=&quot;Han Meimei&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Han Meimei&lt;/h1&gt;&lt;/div&gt;
@@ -119,7 +175,7 @@
 		&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
                 &lt;div class=&quot;col-lg-12&quot;&gt;
                   &lt;div class=&quot;col-lg-3&quot;&gt;
-                  &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 200px; height: 200px;&quot; /&gt;
+                  &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 200px; height: 200px;&quot; /&gt;
                   &lt;/div&gt;
                   &lt;div class=&quot;col-lg-9&quot;&gt;
                      &lt;h1 style=&quot;position: relative&quot;&gt;Introduction:&lt;/h1&gt;
@@ -139,39 +195,43 @@
         </item>
 
         <item>
-                <title>Group2</title>
+                <title>Australia Art Group</title>
                 <description>
 &lt;div class=&quot;content-wrapper&quot;&gt;
-      &lt;div id=&quot;Group2&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;
-        &lt;h1&gt;Art Group2&lt;/h1&gt;
+      &lt;div id=&quot;Group3&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;
+        &lt;h1&gt;Australia Art Group&lt;/h1&gt;
       &lt;/div&gt;
                         
 &lt;div id=&quot;divContainer&quot; class=&quot;content&quot;&gt;
-  &lt;div class=&quot;img&quot; style=&quot;width:150px; height:150px; background:url(&#39;/touxiang.jpg&#39;) center;&quot;&gt;
+  &lt;div class=&quot;img&quot; style=&quot;width:150px; height:150px; background:url(&#39;/assets/images/touxiang.jpg&#39;) center;&quot;&gt;
     &lt;h2&gt;&lt;div class=&quot;h2c&quot;&gt;A Movie in the Park:&lt;br /&gt;Kung Fu Panda&lt;/div&gt;&lt;/h2&gt;
 
   &lt;/div&gt;
    
-                      &lt;img class=&quot;img&quot; src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
-                      &lt;img class=&quot;img&quot; src=&quot;/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
-                      &lt;img class=&quot;img&quot; src=&quot;/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt; 
-                      &lt;img class=&quot;img&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
-                      &lt;img class=&quot;img&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt; 
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
 
 
       &lt;div class=&quot;.image&quot;&gt;
 
-      &lt;img class=&quot;img&quot; src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
         
       &lt;/div&gt;
 
 
 
       &lt;div class=&quot;img&quot;&gt;
-          &lt;img src=&quot;/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+          &lt;img src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
 
-                          &lt;span style=&quot;position:absolute; top:0; left:0; width:150px; height:150px; &quot;&gt;This is big bond!
-                            &lt;a href=&quot;#&quot;&gt;Click for more information! &lt;/a&gt;
+                          &lt;span style=&quot;position:absolute; top:0; left:0; width:150px; height:150px; &quot;&gt;This is big pond!
+                            &lt;a href=&quot;#&quot;&gt;
+                              &lt;div class=&quot;hover&quot;&gt;
+                                Click for more information!
+                              &lt;/div&gt;
+                             &lt;/a&gt;
                           &lt;/span&gt;
 
          
@@ -235,29 +295,29 @@
         </item>
 
         <item>
-                <title>Group1</title>
+                <title>India Art Group</title>
                 <description>
 &lt;div class=&quot;content-wrapper&quot;&gt;
-         &lt;div id=&quot;Group1&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Art Group1&lt;/h1&gt;&lt;/div&gt;
+         &lt;div id=&quot;Group2&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;India Art Group&lt;/h1&gt;&lt;/div&gt;
 
     &lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
 
           &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
             &lt;h3&gt;Leifeng&lt;/h3&gt;
            &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
             &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
            &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
 
             &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
             &lt;h3&gt;Wala&lt;/h3&gt;
            &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
             &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
            &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
 
            &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
             &lt;h3&gt;Wala&lt;/h3&gt;
            &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
             &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -272,29 +332,29 @@
         </item>
 
         <item>
-                <title>Group1</title>
+                <title>India Art Group</title>
                 <description>
 &lt;div class=&quot;content-wrapper&quot;&gt;
-         &lt;div id=&quot;Group1&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;Art Group1&lt;/h1&gt;&lt;/div&gt;
+         &lt;div id=&quot;Group2&quot; class=&quot;col-lg-12&quot; style=&quot;padding-bottom: 3%&quot;&gt;&lt;h1&gt;India Art Group&lt;/h1&gt;&lt;/div&gt;
 
     &lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
 
           &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
             &lt;h3&gt;Leifeng&lt;/h3&gt;
            &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
             &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
            &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
 
             &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
             &lt;h3&gt;Wala&lt;/h3&gt;
            &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
             &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
            &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
 
            &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;/assets/images/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 100px; height: 100px;&quot; /&gt;
             &lt;h3&gt;Wala&lt;/h3&gt;
            &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
             &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -335,8 +395,8 @@
                       &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
                       &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
                       &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang3.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt; 
-                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/kfc.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
-                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/qiewala.jpeg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
+                      &lt;img class=&quot;img&quot; src=&quot;/assets/images/touxiang.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 150px; height: 150px;&quot; /&gt;
 
 
       &lt;div class=&quot;.image&quot;&gt;
@@ -388,8 +448,8 @@
 what this did not work for .
 &lt;!--more--&gt;&lt;/p&gt;
 </description>
-                <link>http://username.github.io/2015/02/01/third-news</link>
-                <guid>http://username.github.io/2015/02/01/third-news</guid>
+                <link>http://username.github.io/cn/2015/02/01/third-news</link>
+                <guid>http://username.github.io/cn/2015/02/01/third-news</guid>
                 <pubDate>2015-02-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -418,8 +478,8 @@ what this did not work for .
 what this did not work for .
 &lt;!--more--&gt;&lt;/p&gt;
 </description>
-                <link>http://username.github.io/cn/2015/02/01/third-news</link>
-                <guid>http://username.github.io/cn/2015/02/01/third-news</guid>
+                <link>http://username.github.io/2015/02/01/third-news</link>
+                <guid>http://username.github.io/2015/02/01/third-news</guid>
                 <pubDate>2015-02-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -446,20 +506,11 @@ what this did not work for .
         </item>
 
         <item>
-                <title>new post</title>
+                <title>中文新闻第一篇</title>
                 <description>
 </description>
                 <link>http://username.github.io/cn/2015/02/01/new-post</link>
                 <guid>http://username.github.io/cn/2015/02/01/new-post</guid>
-                <pubDate>2015-02-01T00:00:00+10:30</pubDate>
-        </item>
-
-        <item>
-                <title>new post</title>
-                <description>
-</description>
-                <link>http://username.github.io/2015/02/01/new-post</link>
-                <guid>http://username.github.io/2015/02/01/new-post</guid>
                 <pubDate>2015-02-01T00:00:00+10:30</pubDate>
         </item>
 

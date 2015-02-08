@@ -23,13 +23,13 @@
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
+    overflow-x: hidden;
     background: #000;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
-        background-image:-webkit-linear-gradient(top,#BC0A11 0,#87000A 50%);
-      background-image:linear-gradient(to bottom,#BC0A11 0,#87000A 50%);
+    background-image: -webkit-linear-gradient(top, #ED6F71 0, #CB3E49 100%);
 }
 #wrapper.toggled #sidebar-wrapper {
     width: 250px;
@@ -45,9 +45,15 @@
 }
 /* Sidebar Styles */
 
+#logoc {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1003;
+    background-image: -webkit-linear-gradient(top, #87000A 0, #871111 50%);
+    background-image: linear-gradient(to bottom, #87000A 0, #871111 50%);
+}
 .sidebar-nav {
-
-
     position: absolute;
     top: 0;
     width: 250px;
@@ -64,7 +70,7 @@
     text-decoration: none;
     color: #fff;
     opacity: 0.8;
-         -webkit-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
@@ -72,15 +78,16 @@
 .sidebar-nav li a:hover {
     text-decoration: none;
     color: #fff;
-    background: rgba(232, 95, 127, 0.7);
-    opacity: 1 !important;
-
+    background: #8C2641 opacity: 1 !important;
 }
 .sidebar-nav li a:active, .sidebar-nav li a:focus {
     text-decoration: none;
 }
 .sidebar-nav > .sidebar-brand {
-    height: 65px;
+    height: 100%;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
     font-size: 18px;
     line-height: 60px;
 }
@@ -91,12 +98,11 @@
     color: #fff;
     background: none;
 }
-
 .img {
     background-color: black;
     position: relative;
-   width: 150px;
-   height: 150px;
+    width: 150px;
+    height: 150px;
     opacity: 0.9;
     float: left;
     -webkit-transition: all 0.5s ease;
@@ -108,7 +114,6 @@
     opacity: 0.7 !important;
     background-color: black;
 }
-
 .h2c {
     opacity: 0;
     text-align: center;
@@ -118,39 +123,29 @@
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
-
-.img:hover span{
+.img:hover span {
     background: #000;
     opacity: 0.8;
-
 }
-
-
-.img span{
+.img span {
     opacity: 0;
-            -webkit-transition: all 0.5s ease-out;
+    -webkit-transition: all 0.5s ease-out;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
-    word-wrap:break-word;
+    word-wrap: break-word;
     text-align: center;
 }
-
-.panel{
-  box-shadow: 0px 0px 10px #cdd;
+.panel {
+    box-shadow: 0px 0px 10px #cdd;
 }
-
-
 .h2c:hover {
     opacity: 1 !important;
 }
-
-h1{
+h1 {
     font-weight: 200;
     color: #000;
 }
-
-
 @media(min-width:768px) {
     #wrapper {
         padding-left: 250px;
@@ -172,4 +167,8 @@ h1{
         position: relative;
         margin-right: 0;
     }
+}
+.hover {
+    color: white;
+    opacity: 1;
 }

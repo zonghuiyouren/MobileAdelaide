@@ -37,11 +37,10 @@ http://username.github.io/cn/2015/02/03/group2
 http://username.github.io/cn/2015/02/03/group
 http://username.github.io/2015/02/03/group
 http://username.github.io/2015/02/03/group
-http://username.github.io/2015/02/01/third-news
 http://username.github.io/cn/2015/02/01/third-news
+http://username.github.io/2015/02/01/third-news
 http://username.github.io/cn/2015/02/01/second-news
 http://username.github.io/2015/02/01/second-news
 http://username.github.io/cn/2015/02/01/new-post
-http://username.github.io/2015/02/01/new-post
 http://username.github.io/cn/2015/01/31/hello-world
 http://username.github.io/2015/01/31/hello-world

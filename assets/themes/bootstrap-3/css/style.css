@@ -192,7 +192,7 @@ Only Needed in Multi-Coloured Variation
 
 .newslist {
     list-style: none;
-    padding: 0 20px;
+    padding: 0px;
 }
 li .thumb {
     width: 100%;
@@ -244,4 +244,28 @@ li .thumb {
 
 .navbar .nav > li:hover .dropdown-menu {
     display: block;
+}
+
+
+
+
+.contacticon {
+    color: #428bca;
+}
+
+
+#contacticon:hover {
+    -webkit-transform: scale(1.3);
+    -moz-transform: scale(1.3);
+    -o-transform: scale(1.3);
+}
+#contacticon {
+    -webkit-transform: scale(1);
+    /* Browser Variations: */
+    
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
 }
