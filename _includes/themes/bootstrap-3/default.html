@@ -119,7 +119,7 @@
                   <ul class="dropdown-menu" role="menu">
                     {% for language in site.languages%}
                       {% if language != page.language %}
-                        <li><a href="/cn/{{page.url}}">中文</a></li>
+                        <li><a href="/{{language}}/{{page.url_no_language}}">中文</a></li>
                       {% endif %}
                     {% endfor %}
                   </ul>
@@ -205,6 +205,8 @@
 
 
 <hr class="featurette-divider">
+
+
 
 <!-- FOOTER
   ================================================== -->
