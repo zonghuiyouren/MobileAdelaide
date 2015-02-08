@@ -20,18 +20,17 @@ group: navigation
                 <li style="background-color:#832641">
                     <a href="#Group1">Art Group A</a>
                     <li>
-                        <a href="#Group1">China Royal Art Group</a>
-                        <a href="#Group1">Russia Royal Art Group</a>
-                        <a href="#Group1">Australia Royal Art Group</a>
-                        <a href="#Group1">England Royal Art Group</a>
-                        <a href="#Group1">America Royal Art Group</a>
+                        {% for page in site.tags.group %}
+                               <a href="#Group1">{{page.title}}</a>
+                        {% endfor %}               
                     </li>
                 </li>
                 <li style="background-color:#B35656">
                     <a>People</a>
                     <li>
-                        <a href="#Han Meimei">Han Meimei</a>
-                        <a href="#Group1">Li Lei</a>
+                        {% for page in site.tags.dancer %}
+                               <a href="#Group1">{{page.title}}</a>
+                        {% endfor %}     
                     </li>
                 </li>
 
@@ -43,20 +42,23 @@ group: navigation
         <div id="page-content-wrapper">
             <div class="container-fluid">
 
-            	{% for tag in site.tags%} 
- 		{% if tag[0] == "group" %}
-  		<p>
-  		{% assign pages_list = tag[1] %}
-  		{% for page in pages_list reversed%}
+            	
+  		{% for page in site.tags.group %}
   		<div class="panel panel-default">
   			<div class="panel-body">
     			{{page.content}}
     			</div>
   		</div>
   		{% endfor %}
-  		</p>
-		{% endif %}
-		{% endfor %}
+  		
+                    {% for page in site.tags.dancer %}
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            {{page.content}}
+                            </div>
+                    </div>
+                    {% endfor %}
+		
 
                 <!-- <div class="row">
                     <div class="col-lg-12">
