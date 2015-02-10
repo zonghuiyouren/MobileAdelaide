@@ -126,7 +126,3 @@ tagline: Supporting tagline
 </div>
 <!-- /END THE FEATURETTES -->
 
-
-
-
-
