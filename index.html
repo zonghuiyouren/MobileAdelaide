@@ -16,6 +16,11 @@
   <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Optional theme -->
   <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+  <!-- gallary theme blueimg -->
+  <link href="/assets/themes/bootstrap-3/bootstrap/css/blueimp-gallery.min.css" rel="stylesheet">  
+  <!-- gallary theme -->
+  <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-image-gallery.min.css" rel="stylesheet">
+
   <!-- Sticky Footer -->
   <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
   <!-- Include Font Awesome Stylesheet in Header -->
@@ -24,15 +29,6 @@
   <!-- Custom styles -->
   <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
-
-  <style>
-  body {
-    /*background-image: url('http://www.psdgraphics.com/file/colorful-triangles-background.jpg');*/
-    background-size: ;
-    background-position: center;
-    background-attachment: fixed;
-  }
-  </style>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -157,7 +153,7 @@
                   </ul>
                 </li>
 
-                <li><a href="/">Photographs</a></li>          <!-- here should be the flickr address -->
+                <li><a href="/photographs/">Photographs</a></li>          <!-- here should be the flickr address -->
                 <li><a href="/contact/">Contact Us</a></li>
               </ul>
 
@@ -188,6 +184,14 @@
 
 
     
+<style>
+  body {
+    background-image: url('/assets/images/background_home.jpg');
+    background-position: center;
+    background-attachment: fixed;
+  }
+</style>
+
 <!-- Example row of columns -->
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -278,14 +282,7 @@
   <hr class="featurette-divider" />
 
   <div class="row featurette">
-    <div class="container">
-      <div class="col-md-8">
-        <img class="featurette-image img-responsive" src="/assets/images/feature1.jpg" alt="Generic placeholder image" />
-      </div>
-      <div class="col-md-4">
-        <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-        <p class="lead">Donec ullamcorper.</p>
-      </div>
+    <div class="container" style="height:300px;">
     </div>
   </div>
 
@@ -375,6 +372,8 @@
   <!-- Placed at the end of the document so the pages load faster -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
+  <script src="/assets/themes/bootstrap-3/bootstrap/js/jquery.blueimp-gallery.min.js"></script>
+  <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap-image-gallery.min.js"></script>
 </body>
 </html>
 
