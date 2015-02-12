@@ -144,3 +144,14 @@ JB :
   
 
 
+##generate thumbnails
+mini_magick:
+    thumbnail:
+        source: assets/images/still
+        destination: assets/images/still/thumbnail
+        resize: "150x150"
+    medium:
+        source: assets/images/still
+        destination: assets/images/still/medium
+        resize: "600x400"
+

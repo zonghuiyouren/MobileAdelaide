@@ -6,6 +6,14 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 
+<style>
+  body {
+    background-image: url('/assets/images/background_home.jpg');
+    background-position: center;
+    background-attachment: fixed;
+  }
+</style>
+
 <!-- Example row of columns -->
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -99,14 +107,7 @@ tagline: Supporting tagline
   <hr class="featurette-divider">
 
   <div class="row featurette">
-    <div class="container">
-      <div class="col-md-8">
-        <img class="featurette-image img-responsive" src="{{ HOME_PATH }}assets/images/feature1.jpg" alt="Generic placeholder image">
-      </div>
-      <div class="col-md-4">
-        <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-        <p class="lead">Donec ullamcorper.</p>
-      </div>
+    <div class="container" style="height:300px;">
     </div>
   </div>
 
