@@ -25,7 +25,7 @@ tagline: Supporting tagline
     <div class="item active">
       <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel1.jpg'); background-position:center;">
         <div class="carousel-caption">
-          <p lingdex="133">First slide description</p>
+          <p lingdex="133"> Not First slide description</p>
         </div>
       </div>
     </div>

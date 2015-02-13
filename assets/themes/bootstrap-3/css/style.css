@@ -268,3 +268,14 @@ li .thumb {
     -moz-transition-duration: 0.5s;
     -o-transition-duration: 0.5s;
 }
+
+
+
+.my-gallery {
+    height:150px;
+    width:150px;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    display:inline-block;
+}
