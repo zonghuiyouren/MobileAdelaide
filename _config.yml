@@ -146,12 +146,17 @@ JB :
 
 ##generate thumbnails
 mini_magick:
-    thumbnail:
-        source: assets/images/still
-        destination: assets/images/still/thumbnail
-        resize: "150x150"
     medium:
         source: assets/images/still
-        destination: assets/images/still/medium
-        resize: "600x400"
+        destination: assets/images/thumbnail/still
+        resize: "450x300"
+    newthumb:
+        source: assets/images/chinagroup
+        destination: assets/images/thumbnail/chinagroup
+        resize: "300x300"
+    licheng:
+        source: assets/images/licheng
+        destination: assets/images/thumbnail/licheng
+        resize: "450x300"
+
 
