@@ -44,8 +44,13 @@ description: ""
 
 
 <div class="container-fluid" style="background-color: #E6E6E0;">
+
+    <div class="container gallery-title">
+        <h2>华夏君之梅舞蹈艺术团剧照</h2>
+    </div>
+
+
 <div class="container galcontainer" >
-    <h2>华夏君之梅舞蹈艺术团剧照</h2>
     <ul class="img-list">
     <div id="links">
         {% directory path: assets/images/still %}
@@ -63,8 +68,12 @@ description: ""
 
 
 <div class="container-fluid" style="background-color: #dcdcd6;">
-<div class="container galcontainer">
+
+    <div class="container gallery-title">
     <h2>华夏君之梅舞蹈艺术团中国分部：历城区文化区青少年艺术培训中心</h2>
+    </div>
+
+<div class="container galcontainer">
     <div id="links">
     <ul class="img-list">
         {% directory path: assets/images/licheng %}
@@ -81,39 +90,44 @@ description: ""
 </div>
 
 <div class="container-fluid" style="background-color: #E6E6E0;">
-<div class="container galcontainer" >
-    <h2>中国舞蹈团团员照片</h2>
-    <div id="links">
-    <ul class="img-list">
-        {% directory path: assets/images/chinagroup %}
-            <li>
-            <a href="/assets/images/chinagroup/{{file.name}}" title="{{file.slug}}" data-gallery >
-                <img   class="my-gallery" style=" background-image:url(/assets/images/chinagroup/{{file.name}});">
-                <span class="text-content"><span>{{file.slug}} </span></span>
-            </a>
-            </li>
-        {% enddirectory %}
-    </ul>
+    <div class="container gallery-title">
+        <h2>中国舞蹈团团员照片</h2>
     </div>
-</div>
+
+    <div class="container galcontainer" >
+        <div id="links">
+        <ul class="img-list">
+            {% directory path: assets/images/chinagroup %}
+                <li>
+                <a href="/assets/images/chinagroup/{{file.name}}" title="{{file.slug}}" data-gallery >
+                    <img  class="my-gallery" style=" background-image:url(/assets/images/chinagroup/{{file.name}});">
+                    <span class="text-content"><span>{{file.slug}} </span></span>
+                </a>
+                </li>
+            {% enddirectory %}
+        </ul>
+        </div>
+    </div>
 </div>
 
 
 <div class="container-fluid" style="background-color: #dcdcd6;">
-<div class="container" >
+<div class="container gallery-title" >
     <h2>活力青少年舞蹈团演出:欢乐中国年</h2>
 </div>
 <div class="container videos">
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/tEfDDzgSq2M" frameborder="0" allowfullscreen></iframe>
+    <iframe width="840" height="630" src="https://www.youtube.com/embed/tEfDDzgSq2M" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="container-fluid" style="background-color: #E6E6E0;">
-<div class="container" >
+<div class="container gallery-title" >
     <h2>活力青少年舞蹈团演出:草原小伙伴</h2>
 </div>
 <div class="container videos">
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/BRZc8rXR-YM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="840" height="630" src="https://www.youtube.com/embed/BRZc8rXR-YM" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
+
+
 
