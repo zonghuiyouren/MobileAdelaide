@@ -158,5 +158,8 @@ mini_magick:
         source: assets/images/licheng
         destination: assets/images/thumbnail/licheng
         resize: "450x300"
-
+    shandong:
+        source: assets/images/shandongyishu
+        destination: assets/images/thumbnail/shandongyishu
+        resize: "450x300"
 

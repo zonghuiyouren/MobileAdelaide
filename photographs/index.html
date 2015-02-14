@@ -66,6 +66,27 @@ description: ""
 </div>
 </div>
 
+<div class="container-fluid" style="background-color: #f1f1ea;">
+    <div class="container gallery-title">
+    <h2>耿惠君山东艺术学院成人教育学院舞蹈作品</h2>
+    </div>
+
+    <div class="container galcontainer">
+        <div id="links">
+        <ul class="img-list">
+            {% directory path: assets/images/shandongyishu %}
+            <li>
+                <a href="/assets/images/shandongyishu/{{file.name}}" data-gallery >
+                    <img  class="my-gallery" style=" background-image:url(/assets/images/thumbnail/shandongyishu/{{file.name}});">
+                    <span class="text-content"><span>{{file.slug}} </span></span>
+                </a>
+            </li>
+            {% enddirectory %}
+        </ul>
+        </div>
+    </div>
+</div>
+
 
 <div class="container-fluid" style="background-color: #dcdcd6;">
 
@@ -73,21 +94,24 @@ description: ""
     <h2>华夏君之梅舞蹈艺术团中国分部：历城区文化区青少年艺术培训中心</h2>
     </div>
 
-<div class="container galcontainer">
-    <div id="links">
-    <ul class="img-list">
-        {% directory path: assets/images/licheng %}
-        <li>
-            <a href="/assets/images/licheng/{{file.name}}" data-gallery >
-                <img  class="my-gallery" style=" background-image:url(/assets/images/thumbnail/licheng/{{file.name}});">
-                <span class="text-content"><span>{{file.slug}} </span></span>
-            </a>
-        </li>
-        {% enddirectory %}
-    </ul>
+    <div class="container galcontainer">
+        <div id="links">
+        <ul class="img-list">
+            {% directory path: assets/images/licheng %}
+            <li>
+                <a href="/assets/images/licheng/{{file.name}}" data-gallery >
+                    <img  class="my-gallery" style=" background-image:url(/assets/images/thumbnail/licheng/{{file.name}});">
+                    <span class="text-content"><span>{{file.slug}} </span></span>
+                </a>
+            </li>
+            {% enddirectory %}
+        </ul>
+        </div>
     </div>
 </div>
-</div>
+
+
+
 
 <div class="container-fluid" style="background-color: #E6E6E0;">
     <div class="container gallery-title">
