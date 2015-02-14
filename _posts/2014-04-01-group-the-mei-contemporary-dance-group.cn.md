@@ -3,7 +3,7 @@ layout: post
 title: "The Mei* Contemporary Dance Group"
 description: ""
 category: 
-tags: [class]
+tags: [group]
 ---
 {% include JB/setup %}
 

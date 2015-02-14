@@ -3,7 +3,7 @@ layout: post
 title: "The Dynamism Youth Dance Group"
 description: ""
 category: 
-tags: [class]
+tags: [group]
 ---
 {% include JB/setup %}
 ##{{page.title}}
