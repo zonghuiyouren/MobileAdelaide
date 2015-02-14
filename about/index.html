@@ -6,15 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
-
+{% if page.language == "en" %}
 <div id="wrapper">
-
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
                     <a href="/">
-                        Dynamism Dance
+                        <img src="/assets/images/logo.gif" alt="Generic placeholder image" style="height: 50%;width: 50%;">
                     </a>
                 </li>
                 <li style="background-color:#832641">
@@ -42,15 +41,15 @@ group: navigation
         <div id="page-content-wrapper">
             <div class="container-fluid">
 
-            	
-  		{% for page in site.tags.group %}
-  		<div class="panel panel-default">
-  			<div class="panel-body">
-    			{{page.content}}
-    			</div>
-  		</div>
-  		{% endfor %}
-  		
+                
+        {% for page in site.tags.group %}
+        <div class="panel panel-default">
+            <div class="panel-body">
+                {{page.content}}
+                </div>
+        </div>
+        {% endfor %}
+        
                     {% for page in site.tags.dancer %}
                     <div class="panel panel-default">
                         <div class="panel-body">
@@ -58,7 +57,7 @@ group: navigation
                             </div>
                     </div>
                     {% endfor %}
-		
+        
 
                 <!-- <div class="row">
                     <div class="col-lg-12">
@@ -74,3 +73,62 @@ group: navigation
 
     </div>
     <!-- /#wrapper -->
+{% else %}
+    <div id="wrapper">
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="/">
+                        <img src="/assets/images/logo.gif" alt="Generic placeholder image" style="height: 50%;width: 50%;">
+                    </a>
+                </li>
+                <li style="background-color:#832641">
+                    <a href="#Group1">艺术团</a>
+                    <li>
+                        {% for page in site.tags.group %}
+                               <a href="#Group1">{{page.title}}</a>
+                        {% endfor %}               
+                    </li>
+                </li>
+                <li style="background-color:#B35656">
+                    <a>舞蹈艺术家</a>
+                    <li>
+                        {% for page in site.tags.dancer %}
+                               <a href="#Group1">{{page.title}}</a>
+                        {% endfor %}     
+                    </li>
+                </li>
+
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+
+                
+        {% for page in site.tags.group %}
+        <div class="panel panel-default">
+            <div class="panel-body">
+                {{page.content}}
+                </div>
+        </div>
+        {% endfor %}
+        
+                    {% for page in site.tags.dancer %}
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            {{page.content}}
+                            </div>
+                    </div>
+                    {% endfor %}
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+
+
+{% endif %}

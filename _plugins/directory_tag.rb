@@ -54,7 +54,7 @@ module Jekyll
       context.registers[:directory] ||= Hash.new(0)
 
       source_dir = context.registers[:site].source
-      directory_files = File.join(source_dir, @path, "*")
+      directory_files = File.join(source_dir, @path, "*.*")
 
       files = Dir.glob(directory_files).reject{|f| f =~ @exclude }
       files.sort! {|x,y| @rev ? x <=> y : y <=> x }
@@ -78,7 +78,7 @@ module Jekyll
             slug = slug
           else
             date = File.ctime(filename)
-            ext = basename[/\.[a-z]+$/, 0]
+            ext = basename[/\.[A-Za-z]+$/, 0]
             slug = basename.sub(ext, '')
           end
 
