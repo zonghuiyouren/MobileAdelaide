@@ -44,6 +44,15 @@
     margin-right: -250px;
 }
 /* Sidebar Styles */
+.h3c{
+    color: black;
+}
+ 
+
+col-sm-3{
+    text-align: center;
+}
+
 
 #logoc {
     position: absolute;
@@ -98,11 +107,19 @@
     color: #fff;
     background: none;
 }
+.imgstyle{
+    width: 140px;
+    height: 140px;
+    margin: 3%;
+    float: left;
+}
+
+
 .img {
     background-color: black;
     position: relative;
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
     opacity: 0.9;
     float: left;
     -webkit-transition: all 0.5s ease;
@@ -145,6 +162,10 @@
 h1 {
     font-weight: 200;
     color: #000;
+}
+h3 {
+    font-weight: 200;
+    color: black;
 }
 @media(min-width:768px) {
     #wrapper {
