@@ -282,13 +282,21 @@ li .thumb {
 }
 
 
+.gallery-title{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
 .videos{
     text-align: center;
+    padding-bottom: 60px;
+    padding-top: 20px;
 }
 
 .galcontainer{
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
 }
 
 
