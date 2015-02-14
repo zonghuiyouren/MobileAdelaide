@@ -44,15 +44,6 @@
     margin-right: -250px;
 }
 /* Sidebar Styles */
-.h3c{
-    color: black;
-}
- 
-
-col-sm-3{
-    text-align: center;
-}
-
 
 #logoc {
     position: absolute;
@@ -107,19 +98,11 @@ col-sm-3{
     color: #fff;
     background: none;
 }
-.imgstyle{
-    width: 140px;
-    height: 140px;
-    margin: 3%;
-    float: left;
-}
-
-
 .img {
     background-color: black;
     position: relative;
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
     opacity: 0.9;
     float: left;
     -webkit-transition: all 0.5s ease;
@@ -162,10 +145,6 @@ col-sm-3{
 h1 {
     font-weight: 200;
     color: #000;
-}
-h3 {
-    font-weight: 200;
-    color: black;
 }
 @media(min-width:768px) {
     #wrapper {
