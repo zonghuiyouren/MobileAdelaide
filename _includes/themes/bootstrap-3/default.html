@@ -85,8 +85,8 @@
                     {% endfor %}
 
                     <li class="divider"></li>
-                    <li class="dropdown-header">Dancers</li>
-                    {% for post in site.tags.dancer reversed%}
+                    <li class="dropdown-header">People</li>
+                    {% for post in site.tags.people reversed%}
                       {% if post.language == page.language %}
                         <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}

@@ -28,7 +28,7 @@ group: navigation
                 <li style="background-color:#B35656">
                     <a>People</a>
                     <li>
-                        {% for page in site.tags.dancer %}
+                        {% for page in site.tags.people %}
                                <a href="#Group1">{{page.title}}</a>
                         {% endfor %}     
                     </li>
@@ -51,13 +51,13 @@ group: navigation
   		</div>
   		{% endfor %}
   		
-                    {% for page in site.tags.dancer %}
-                    <div class="panel panel-default">
-                        <div class="panel-body">
-                            {{page.content}}
-                            </div>
-                    </div>
-                    {% endfor %}
+        {% for page in site.tags.people %}
+        <div class="panel panel-default">
+            <div class="panel-body">
+                {{page.content}}
+                </div>
+        </div>
+        {% endfor %}
 		
 
                 <!-- <div class="row">
