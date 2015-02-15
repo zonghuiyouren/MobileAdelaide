@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yan Guo"
+title: "郭燕"
 description: ""
 category: 
 tags: [people]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mobo Gao"
+title: "高默波"
 description: ""
 category: 
 tags: [people]

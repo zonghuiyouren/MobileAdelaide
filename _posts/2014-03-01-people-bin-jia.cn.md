@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bin Jia"
+title: "贾彬"
 description: ""
 category: 
 tags: [people]

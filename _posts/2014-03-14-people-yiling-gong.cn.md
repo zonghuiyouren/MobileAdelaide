@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yiling Gong"
+title: "龚伊翎"
 description: ""
 category: 
 tags: [people]
