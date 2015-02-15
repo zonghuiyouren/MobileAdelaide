@@ -4,7 +4,7 @@
  <title>Dynamism Dance</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-02-15T19:12:07+10:30</updated>
+ <updated>2015-02-15T19:19:04+10:30</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Name Lastname</name>
@@ -164,18 +164,6 @@ what this did not work for .
  </entry>
  
  <entry>
-   <title>The Dynamism Contemporary Folk Orchestra</title>
-   <link href="http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
-   <updated>2014-04-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra</id>
-   <content type="html">
-&lt;p&gt;The Dynamism Contemporary Folk Orchestra is a Chinese-Western fusion ensemble combining Chinese traditional musical instruments and standard modern orchestral instruments, founded in February 2014. It is Adelaide’s youngest, largest, most complete contemporary folk musical ensemble. Our members are experienced hobbyists from all walks of life, including students, makeup artists, company directors and accountants, brought together by a mutual love of music. The orchestra has been known for its unique originality, the symphonic characteristics of repertoire choice, and high level of proficiency since its establishment. Most notably, the ensemble fuses local musical culture, Chinese traditional music, as well as sounds from different eras, regions and styles around the world, which serves as a dazzling proof of the musicians’ capability. Orchestra members utilise rest time to compose and rehearse a range of new works drawing strong influences from the local cultural, social and artistic atmosphere that shine through their superb performance techniques, and of course, their tireless pursuit for musical excellency.&lt;/p&gt;
-
-&lt;p&gt;The orchestra’s aims are to promote folk music culture and to explore contemporary music composition. The orchestra’s future plans include continued rehearsal of classical and contemporary works by Chinese and Western composers, while members will also write new pieces in which they present brave ideas and individual expression, combining elements of traditional Chinese culture, folk culture and a global vision in the context of composition, restructuring the modern perspective of unification of multiculturalism. Composition techniques are inventively modified and innovated from the traditional chamber music format, breaking the barriers between the traditional and the modern, the elegant and the down-to-earth, the east and the west. The musical styles of minority ethnic groups, folk art and contemporary sounds are combined perfectly in rich expressions of cultural character.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>活力现代民族乐团</title>
    <link href="http://username.github.io/cn/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
@@ -186,6 +174,18 @@ what this did not work for .
 &lt;p&gt;本乐团目前是阿德莱德最年轻、编制最齐全、以中西音乐为创作基础、规模最大的一支自由组织的现代民族乐团，乐团由二十几位具有丰富表演经验的优秀中青年爱好者组成，他们当中有学生、化妆师、老板、会计师等等，乐团的队员们因为音乐走到了一起，乐团自成立以來始终立足于风格上的独具匠心性、作品曲目上的交响性和演奏技术的高超性。同时将本土音乐文化和中国民族音乐与世界不同时代、不同地区、不同风格的音乐融为一体，以此展示该团強大的活力与潜力。成员们利用休息时间创作和排练了许多具有该区浓郁的民族特色和地域风情的新作品，凭借精湛的演奏技法和对音乐艺术孜孜不倦的追求，使这些新作品焕发出旺盛的艺术生命力。&lt;/p&gt;
 
 &lt;p&gt;乐团的宗旨是：弘扬民族音乐文化，探索现代音乐创作。乐团未来的计划会相继排练部分中西作曲家创作的传统和现代作品，而且乐团的成员也会创作一些新作品，这些作品构思大胆自由，彰显独特个性。在创作理念上，将中国传统文化、民族文化与国际化视野相融合，重构了多元文化为一体的现代观念；在创作技法上，对传统室内音乐创作模式进行了创新，冲破了传统与现代、高雅与流行、东方与西方的隔阂，充满创新精神；在作品风格上，将少数民族、民间音乐元素与现代音乐表现手法完美结合，具有浓郁的民族特色和地域风情。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Dynamism Contemporary Folk Orchestra</title>
+   <link href="http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
+   <updated>2014-04-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra</id>
+   <content type="html">
+&lt;p&gt;The Dynamism Contemporary Folk Orchestra is a Chinese-Western fusion ensemble combining Chinese traditional musical instruments and standard modern orchestral instruments, founded in February 2014. It is Adelaide’s youngest, largest, most complete contemporary folk musical ensemble. Our members are experienced hobbyists from all walks of life, including students, makeup artists, company directors and accountants, brought together by a mutual love of music. The orchestra has been known for its unique originality, the symphonic characteristics of repertoire choice, and high level of proficiency since its establishment. Most notably, the ensemble fuses local musical culture, Chinese traditional music, as well as sounds from different eras, regions and styles around the world, which serves as a dazzling proof of the musicians’ capability. Orchestra members utilise rest time to compose and rehearse a range of new works drawing strong influences from the local cultural, social and artistic atmosphere that shine through their superb performance techniques, and of course, their tireless pursuit for musical excellency.&lt;/p&gt;
+
+&lt;p&gt;The orchestra’s aims are to promote folk music culture and to explore contemporary music composition. The orchestra’s future plans include continued rehearsal of classical and contemporary works by Chinese and Western composers, while members will also write new pieces in which they present brave ideas and individual expression, combining elements of traditional Chinese culture, folk culture and a global vision in the context of composition, restructuring the modern perspective of unification of multiculturalism. Composition techniques are inventively modified and innovated from the traditional chamber music format, breaking the barriers between the traditional and the modern, the elegant and the down-to-earth, the east and the west. The musical styles of minority ethnic groups, folk art and contemporary sounds are combined perfectly in rich expressions of cultural character.&lt;/p&gt;
 </content>
  </entry>
  
@@ -220,35 +220,6 @@ what this did not work for .
  </entry>
  
  <entry>
-   <title>龚伊翎</title>
-   <link href="http://username.github.io/cn/2014/03/14/people-yiling-gong"/>
-   <updated>2014-03-14T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/14/people-yiling-gong</id>
-   <content type="html">
-&lt;p&gt;艺术团团长秘书
-代理办公室主任&lt;/p&gt;
-
-&lt;p&gt;联系方式
-办公号码：（08）70739237
-手机号码:  0451 960 321
-Email: dynamismdance@gmail.com
-地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
-
-&lt;p&gt;学历
-2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
-
-&lt;p&gt;语言
-能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
-
-&lt;p&gt;电脑技能
-能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
-
-&lt;p&gt;兴趣爱好
-音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Yiling Gong</title>
    <link href="http://username.github.io/2014/03/14/people-yiling-gong"/>
    <updated>2014-03-14T00:00:00+10:30</updated>
@@ -279,15 +250,31 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
  </entry>
  
  <entry>
-   <title>郭燕</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-yan-guo"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-yan-guo</id>
+   <title>龚伊翎</title>
+   <link href="http://username.github.io/cn/2014/03/14/people-yiling-gong"/>
+   <updated>2014-03-14T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/14/people-yiling-gong</id>
    <content type="html">
-&lt;p&gt;（华夏君梅艺术团宣传策划主管）
-毕业于南京师范学院中文系及阿德莱德大学亚洲中心，分别获汉语言文学学士学位及亚洲研究荣誉学位。
-出版有小说及散文集若干。
-有多年从事文化活动宣传策划的经历，曾参与组织各种文艺演出、语言比赛及文化宣传活动，有丰富的组织策划各类文化活动的经验。&lt;/p&gt;
+&lt;p&gt;艺术团团长秘书
+代理办公室主任&lt;/p&gt;
+
+&lt;p&gt;联系方式
+办公号码：（08）70739237
+手机号码:  0451 960 321
+Email: dynamismdance@gmail.com
+地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
+
+&lt;p&gt;学历
+2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
+
+&lt;p&gt;语言
+能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
+
+&lt;p&gt;电脑技能
+能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
+
+&lt;p&gt;兴趣爱好
+音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
 </content>
  </entry>
  
@@ -302,6 +289,19 @@ Graduated from Nanjing Normal University and the Centre for Asian Studies at the
 Published novels and prose.
 Has many years of experience in promotion of cultural activities. Participated in the organizations of various performances, language competitions and cultural promotion events, with strong expertise in the field of cultural event organization and planning.
 Guo’s position in the group is of no relation to her position at her current workplace, and was in accordance with her own will.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>郭燕</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-yan-guo"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/people-yan-guo</id>
+   <content type="html">
+&lt;p&gt;（华夏君梅艺术团宣传策划主管）
+毕业于南京师范学院中文系及阿德莱德大学亚洲中心，分别获汉语言文学学士学位及亚洲研究荣誉学位。
+出版有小说及散文集若干。
+有多年从事文化活动宣传策划的经历，曾参与组织各种文艺演出、语言比赛及文化宣传活动，有丰富的组织策划各类文化活动的经验。&lt;/p&gt;
 </content>
  </entry>
  
@@ -505,6 +505,46 @@ See is honoured to be a part of the troupe, honoured to be able to work for the 
  </entry>
  
  <entry>
+   <title>Huijun Geng</title>
+   <link href="http://username.github.io/home/2014/03/01/people-huijun-geng"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/home/2014/03/01/people-huijun-geng</id>
+   <content type="html">
+&lt;p&gt;Huijun Geng
+Honorary Artistic Director/Choreographer&lt;/p&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
+&lt;p&gt;Huijun Geng has an exceptionally enthusiastic and persistent attitude towards her dance career. Meticulous and dedicated in her creative work, she is honest, kind, and humorous in her personal life. Having been professionally trained and embracing her love for dance since a young age, the evidence is apparent through her determined pursuit and diligent research into the dance programs she has choreographed. From performer to choreographer, the 40 years of her career has been inundated with an entire life of experience and effort, and has given outstanding contributions to Shandong’s dance and cultural enterprises.&lt;/p&gt;
+
+&lt;h3 id=&quot;achievements&quot;&gt;Achievements:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1985 - received invitation from Caixiang Dance School in Hong Kong to teach Xinjiang folk dance. The dance routines “Osaka City Girl” and Russian tap dance “Soar” she choreographed won gold and silver respectively at the local art festival.&lt;/li&gt;
+  &lt;li&gt;1988 - was general director of large group folk gymnastic routine “Dragons Fly and Tigers Leap”, performed at the 1st Shandong Peasants’ Games.&lt;/li&gt;
+  &lt;li&gt;1989 - adult dance routine “The Hawthorn Is Red” was awarded first prize for creativity at the folk dance performance organised by the Provincial Department of Culture and the Provincial Dance Association.&lt;/li&gt;
+  &lt;li&gt;1990 - “The Foal With the Silver Bell” and “The Hawthorn Is Red” were arranged for children’s dance groups and selected as part of Shandong children’s troupe tour to Beijing, receiving high praise for their performance at Zhongnanhai and the Great Hall.&lt;/li&gt;
+  &lt;li&gt;1992 - solo dance “Mrs Li’s Remarriage” won gold at the professional skills competition organised by the Department of Culture.&lt;/li&gt;
+  &lt;li&gt;1994 - “Shandong Sister’s Journey to the Northeast” won first prize at provincial performance.&lt;/li&gt;
+  &lt;li&gt;1995 - “The Jubilant Orchard” won first prize at the Shandong Peasants’ Art Festival.&lt;/li&gt;
+  &lt;li&gt;1997 - choreographed “The Excavators of Black Gold” which was awarded top ten at provincial workers’ performance.&lt;/li&gt;
+  &lt;li&gt;1997 - “Three Brave Sisters” won first prize for creativity at the Shandong Provincial Association’s youth acting competition.&lt;/li&gt;
+  &lt;li&gt;1998 - “Song of the Field”, led by performers from the Shandong Dancers Association, received high praise from overseas expert for its performance at the France-Belgium International Folk Art Festival.&lt;/li&gt;
+  &lt;li&gt;1999 - “The Yellow River Bank Is Green” awarded first prize at youth dance competition.&lt;/li&gt;
+  &lt;li&gt;November 2000 - “The Mother River Is Green” was entered for the Tenth National Qunxing Dance Competition organised by the National Department of Culture and awarded first prize for the Shandong region, and third prize at the national competition.&lt;/li&gt;
+  &lt;li&gt;2000 - duet “The Story of Rewapu” won second prize in the Shandong region at the Tenth National Qunxing Dance Competition.&lt;/li&gt;
+  &lt;li&gt;July 2001 - works “The Mother River Is Green” and “The Story of Rewapu” won second prizes at the 1st National Universities Dance Competition organised by the China Cultural Association and the China Dancers Association. The work “Red Flag Flying” also won second prize.&lt;/li&gt;
+  &lt;li&gt;November 2002 - created the folk dance routine which won gold at the China New Yangge Competition, organised by the China Dancers Association and co-hosted by the Shandong Cultural Association and Weihai People’s Council.&lt;/li&gt;
+  &lt;li&gt;2002 - the three works “The Mother River Is Green” “Red Flag Flying” and “The Story of Rewapu” performed at the Universities Dance Competition were recorded on VCD by the Dancers Association and sold nationwide along with all award winning works.&lt;/li&gt;
+  &lt;li&gt;2007 - Xinjiang folk dance “Sounds of Bells and Drums” was awarded gold at the 7th National Schools Spring Festival Gala hosted by China Central Television, China Education Television and China Arts Newspaper. It was performed by members of the Shandong Art Academy and continuing education.&lt;/li&gt;
+  &lt;li&gt;2007 - group dance routine “Sounds of the Spring” awarded gold at the 1st Rural Art Festival’s folk dance competition hosted by the Shandong Provincial Department of Promotion and Department of Culture.&lt;/li&gt;
+  &lt;li&gt;September 2007 - “Sounds of the Spring” nominated by the Jinan City Department of Cultural Affairs to participate in the National Qunxing Awards Shandong area competition and won first prize, as well as being elected for appraisal by comparison.&lt;/li&gt;
+  &lt;li&gt;February 2009 - “Sounds of the Spring” won second prize at the National University Students Art Showcase hosted by the People’s Republic of China Ministry of Education, performed by China Women’s University performing arts students.&lt;/li&gt;
+  &lt;li&gt;2010 - “Sounds of Bells and Drums” won gold at China Art Education’s 5th National Schools Art Showcase and the 10th National Schools Spring Festival Gala.&lt;/li&gt;
+  &lt;li&gt;2012 - choreographed “Proud Child of the Red Flag” which won second prize at the 3rd University Students Art Festival hosted by the Ministry of Education.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>耿惠君</title>
    <link href="http://username.github.io/cn/home/2014/03/01/people-huijun-geng"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -547,46 +587,6 @@ See is honoured to be a part of the troupe, honoured to be able to work for the 
  </entry>
  
  <entry>
-   <title>Huijun Geng</title>
-   <link href="http://username.github.io/home/2014/03/01/people-huijun-geng"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/home/2014/03/01/people-huijun-geng</id>
-   <content type="html">
-&lt;p&gt;Huijun Geng
-Honorary Artistic Director/Choreographer&lt;/p&gt;
-
-&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
-&lt;p&gt;Huijun Geng has an exceptionally enthusiastic and persistent attitude towards her dance career. Meticulous and dedicated in her creative work, she is honest, kind, and humorous in her personal life. Having been professionally trained and embracing her love for dance since a young age, the evidence is apparent through her determined pursuit and diligent research into the dance programs she has choreographed. From performer to choreographer, the 40 years of her career has been inundated with an entire life of experience and effort, and has given outstanding contributions to Shandong’s dance and cultural enterprises.&lt;/p&gt;
-
-&lt;h3 id=&quot;achievements&quot;&gt;Achievements:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;1985 - received invitation from Caixiang Dance School in Hong Kong to teach Xinjiang folk dance. The dance routines “Osaka City Girl” and Russian tap dance “Soar” she choreographed won gold and silver respectively at the local art festival.&lt;/li&gt;
-  &lt;li&gt;1988 - was general director of large group folk gymnastic routine “Dragons Fly and Tigers Leap”, performed at the 1st Shandong Peasants’ Games.&lt;/li&gt;
-  &lt;li&gt;1989 - adult dance routine “The Hawthorn Is Red” was awarded first prize for creativity at the folk dance performance organised by the Provincial Department of Culture and the Provincial Dance Association.&lt;/li&gt;
-  &lt;li&gt;1990 - “The Foal With the Silver Bell” and “The Hawthorn Is Red” were arranged for children’s dance groups and selected as part of Shandong children’s troupe tour to Beijing, receiving high praise for their performance at Zhongnanhai and the Great Hall.&lt;/li&gt;
-  &lt;li&gt;1992 - solo dance “Mrs Li’s Remarriage” won gold at the professional skills competition organised by the Department of Culture.&lt;/li&gt;
-  &lt;li&gt;1994 - “Shandong Sister’s Journey to the Northeast” won first prize at provincial performance.&lt;/li&gt;
-  &lt;li&gt;1995 - “The Jubilant Orchard” won first prize at the Shandong Peasants’ Art Festival.&lt;/li&gt;
-  &lt;li&gt;1997 - choreographed “The Excavators of Black Gold” which was awarded top ten at provincial workers’ performance.&lt;/li&gt;
-  &lt;li&gt;1997 - “Three Brave Sisters” won first prize for creativity at the Shandong Provincial Association’s youth acting competition.&lt;/li&gt;
-  &lt;li&gt;1998 - “Song of the Field”, led by performers from the Shandong Dancers Association, received high praise from overseas expert for its performance at the France-Belgium International Folk Art Festival.&lt;/li&gt;
-  &lt;li&gt;1999 - “The Yellow River Bank Is Green” awarded first prize at youth dance competition.&lt;/li&gt;
-  &lt;li&gt;November 2000 - “The Mother River Is Green” was entered for the Tenth National Qunxing Dance Competition organised by the National Department of Culture and awarded first prize for the Shandong region, and third prize at the national competition.&lt;/li&gt;
-  &lt;li&gt;2000 - duet “The Story of Rewapu” won second prize in the Shandong region at the Tenth National Qunxing Dance Competition.&lt;/li&gt;
-  &lt;li&gt;July 2001 - works “The Mother River Is Green” and “The Story of Rewapu” won second prizes at the 1st National Universities Dance Competition organised by the China Cultural Association and the China Dancers Association. The work “Red Flag Flying” also won second prize.&lt;/li&gt;
-  &lt;li&gt;November 2002 - created the folk dance routine which won gold at the China New Yangge Competition, organised by the China Dancers Association and co-hosted by the Shandong Cultural Association and Weihai People’s Council.&lt;/li&gt;
-  &lt;li&gt;2002 - the three works “The Mother River Is Green” “Red Flag Flying” and “The Story of Rewapu” performed at the Universities Dance Competition were recorded on VCD by the Dancers Association and sold nationwide along with all award winning works.&lt;/li&gt;
-  &lt;li&gt;2007 - Xinjiang folk dance “Sounds of Bells and Drums” was awarded gold at the 7th National Schools Spring Festival Gala hosted by China Central Television, China Education Television and China Arts Newspaper. It was performed by members of the Shandong Art Academy and continuing education.&lt;/li&gt;
-  &lt;li&gt;2007 - group dance routine “Sounds of the Spring” awarded gold at the 1st Rural Art Festival’s folk dance competition hosted by the Shandong Provincial Department of Promotion and Department of Culture.&lt;/li&gt;
-  &lt;li&gt;September 2007 - “Sounds of the Spring” nominated by the Jinan City Department of Cultural Affairs to participate in the National Qunxing Awards Shandong area competition and won first prize, as well as being elected for appraisal by comparison.&lt;/li&gt;
-  &lt;li&gt;February 2009 - “Sounds of the Spring” won second prize at the National University Students Art Showcase hosted by the People’s Republic of China Ministry of Education, performed by China Women’s University performing arts students.&lt;/li&gt;
-  &lt;li&gt;2010 - “Sounds of Bells and Drums” won gold at China Art Education’s 5th National Schools Art Showcase and the 10th National Schools Spring Festival Gala.&lt;/li&gt;
-  &lt;li&gt;2012 - choreographed “Proud Child of the Red Flag” which won second prize at the 3rd University Students Art Festival hosted by the Ministry of Education.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Bin Jia</title>
    <link href="http://username.github.io/2014/03/01/people-bin-jia"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -615,19 +615,6 @@ Honorary Artistic Director/Choreographer&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Abbee</title>
-   <link href="http://username.github.io/2014/03/01/people-abbee"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-abbee</id>
-   <content type="html">
-&lt;p&gt;Zhong Yuting (Abbee) Hua Xia Junmei Troupe Resident makeup artist 
-Graduated from Media Makeup Institute, working in bridal makeup, love-themed micro-filming make-up artist, as well as a variety of banquet makeup styling and makeup for advertising, striving to deliver the most unique and suitable makeup and styling for each and every Asian and Western model alike. Abbee’s career path in makeup is not yet long, but her professional insight and creativity in this field enables her full freedom in the expression of her special style, easily and gracefully transitioning between avant-garde and classical.
-Abbee also commenced studies in the guzheng during her sixth year in primary school, acquiring a Grade 8 certificate in the instrument during her second year in high school, reaching completion of Grade 10 level studies by the time she graduated junior high. 
-You will have the chance to see her makeup style in this group’s future performances and works.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>钟玉婷（Abbee）</title>
    <link href="http://username.github.io/cn/2014/03/01/people-abbee"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -642,25 +629,15 @@ You will have the chance to see her makeup style in this group’s future perfor
  </entry>
  
  <entry>
-   <title>Fork Dance</title>
-   <link href="http://username.github.io/2014/02/07/class-name"/>
-   <updated>2014-02-07T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/02/07/class-name</id>
+   <title>Abbee</title>
+   <link href="http://username.github.io/2014/03/01/people-abbee"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/03/01/people-abbee</id>
    <content type="html">
-&lt;div class=&quot;content-wrapper&quot;&gt;
-	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
-		&lt;h1&gt;Fork Dance&lt;/h1&gt;
-		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
-		&lt;div class=&quot;col-lg-12&quot;&gt;
-		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
-			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
-		&lt;/div&gt;
-		&lt;div class=&quot;col-lg-3&quot;&gt;
-			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
-		&lt;/div&gt;&lt;/div&gt;
-
-	&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;Zhong Yuting (Abbee) Hua Xia Junmei Troupe Resident makeup artist 
+Graduated from Media Makeup Institute, working in bridal makeup, love-themed micro-filming make-up artist, as well as a variety of banquet makeup styling and makeup for advertising, striving to deliver the most unique and suitable makeup and styling for each and every Asian and Western model alike. Abbee’s career path in makeup is not yet long, but her professional insight and creativity in this field enables her full freedom in the expression of her special style, easily and gracefully transitioning between avant-garde and classical.
+Abbee also commenced studies in the guzheng during her sixth year in primary school, acquiring a Grade 8 certificate in the instrument during her second year in high school, reaching completion of Grade 10 level studies by the time she graduated junior high. 
+You will have the chance to see her makeup style in this group’s future performances and works.&lt;/p&gt;
 </content>
  </entry>
  
@@ -677,6 +654,29 @@ You will have the chance to see her makeup style in this group’s future perfor
 		&lt;div class=&quot;col-lg-12&quot;&gt;
 		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
 			这是中文页面。
+		&lt;/div&gt;
+		&lt;div class=&quot;col-lg-3&quot;&gt;
+			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
+		&lt;/div&gt;&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fork Dance</title>
+   <link href="http://username.github.io/2014/02/07/class-name"/>
+   <updated>2014-02-07T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/02/07/class-name</id>
+   <content type="html">
+&lt;div class=&quot;content-wrapper&quot;&gt;
+	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+		&lt;h1&gt;Fork Dance&lt;/h1&gt;
+		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
+			This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!This is the Fork Dance!
 		&lt;/div&gt;
 		&lt;div class=&quot;col-lg-3&quot;&gt;
 			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
