@@ -13,7 +13,7 @@
 /* Jekyll Bootstrap Colors */
 
 h1, h2, h3, h4 {
-    color: #3784d3;
+    color: #CA3B44;
 }
 #footer {
     padding-top: 20px;
@@ -346,3 +346,42 @@ span.text-content {
 }
 
 
+
+span.text-class {
+  color: black;
+  cursor: pointer;
+  display: table;
+  height: 150px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 130px;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
+
+span.text-class span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+
+.homeclasses{
+    height:150px;
+    width:150px;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    display:inline-block;
+    border: 5px solid #ffffff;
+    vertical-align: middle;
+}
+
+
+.homeclasses:hover{
+    background-color: red;
+} 
