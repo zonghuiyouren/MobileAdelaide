@@ -62,28 +62,32 @@ tagline: Supporting tagline
 <!-- Wrap the rest of the page in another container to center all the content. -->
 
 <div class="container-fluid marketing">
-
   <!-- Three columns of text below the carousel -->
-  <div class="container-fluid" >
+  <div class="container-fluid" style="background-color:rgba(255,255,255,0.8); padding-top: 60px;">
     <div class="container" >
       <div class="row">
         <div class="col-sm-4">
+          {% for qingmei in site.tags.qingmei %}
+            {% if qingmei.language == page.language %}
+              {% assign theurl = qingmei.url %}
+            {% endif %}
+          {% endfor %}
           <img class="img-circle" src="{{ HOME_PATH }}assets/images/head1.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <h2>Qingmei Zhou</h2>
+          <p><strong>Artistic Director and Head of Group</strong></p>
+          <p><a class="btn btn-default" href="{{theurl}}" role="button">View details &raquo;</a></p>
         </div><!-- /.col-md-4 -->
+
         <div class="col-sm-4">
-          <img class="img-circle" src="{{ HOME_PATH }}assets/images/head2.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-md-4 -->
-        <div class="col-sm-4">
-          <img class="img-circle" src="{{ HOME_PATH }}assets/images/head3.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          {% for huijun in site.tags.huijun %}
+            {% if huijun.language == page.language %}
+              {% assign theurl = huijun.url %}
+            {% endif %}
+          {% endfor %}
+          <img class="img-circle" src="{{ HOME_PATH }}assets/images/home/GengHuijun.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>Huijun Geng</h2>
+          <p><strong>Honorary Artistic Director/Choreographer</strong></p>
+          <p><a class="btn btn-default" href="{{theurl}}" role="button">View details &raquo;</a></p>
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
     </div> <!-- /.container -->
@@ -95,8 +99,14 @@ tagline: Supporting tagline
   <div class="row featurette" style="background-color:#f6f6f6">
     <div class="container">
       <div class="col-md-6">
-        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        {% for mei in site.tags.meigroup %}
+          {% if mei.language == page.language %}
+            {% assign theurl = mei.url %}
+          {% endif %}
+        {% endfor %}
+        <h2 class="featurette-heading">The Mei's Dance Group</h2>
+        <p class="lead">The Mei's Dance Group is South Australia's first dance group to combine eastern and western cultural elements, incorporating Chinese flavours upon the original framework of Mei's Dance Company, founded in February 2014 after a long effort owing to the enthusiasm of head of company Qingmei Zhou.</p>
+        <p><a class="btn btn-default" href="{{theurl}}" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-6">
         <img class="featurette-image img-responsive" src="{{ HOME_PATH }}assets/images/feature2.jpg" alt="Generic placeholder image">
@@ -104,8 +114,9 @@ tagline: Supporting tagline
     </div>
   </div>
 
-  <hr class="featurette-divider">
 
+
+  <hr class="featurette-divider">
   <div class="row featurette">
     <div class="container" style="height:300px;">
       <div class="row">
@@ -116,19 +127,23 @@ tagline: Supporting tagline
     </div>
   </div>
 
-  <hr class="featurette-divider">
 
-  <div class="row featurette" style="background-color:#f6f6f6">
+
+
+
+
+<!--   <div class="row featurette" style="background-color:#f6f6f6">
     <div class="container">
-      <div class="col-md-7">
-        <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-      </div>
-      <div class="col-md-5">
-        <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-      </div>
+      <h2 class="featurette-heading" style="text-align: center; font-size: 60px; margin-top: 30px; margin-bottom: 50px;">Choose your favorite class<span class="text-muted"></span></h2>
+      {% for dance in site.dances %} 
+        <div class="col-sm-4 col-md-2">
+          <img  class="homeclasses img-circle"  style="background-color: #f1a7b7">
+          <span class="text-class"><span>{{dance}}</span></span>
+        </div>
+      {% endfor %}
     </div>
-  </div>
+  </div> -->
+
 </div>
 <!-- /END THE FEATURETTES -->
 

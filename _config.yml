@@ -163,3 +163,7 @@ mini_magick:
         destination: assets/images/thumbnail/shandongyishu
         resize: "450x300"
 
+
+##this is for the dance project
+dances: ["Hip-Hop ", "Yoga ", "Stretching ","Aerobics ", "Exercise Classes ", "Martial Arts ", "Zumba ","Chinese Classical and Folk ","Latin","Tap Dancing","Jazz","Salsa","Flamenco","Royal Academy of Dance","Classical Ballet Classes"]
+dancescn: []

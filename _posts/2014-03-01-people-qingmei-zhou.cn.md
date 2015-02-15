@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Qingmei Zhou"
+title: "周庆梅"
 description: ""
-category: 
-tags: [people]
+category: home
+tags: [people, qingmei]
 ---
 {% include JB/setup %}
+
+
 
 艺术总监兼艺术团团长：
 创办人Q.M Zhou是一位专业的舞蹈演员兼舞蹈编导，在母亲这位舞蹈教授的熏陶下，自幼在中国接受了系统的专业训练 - 中国古典舞和中国民族民间舞，芭蕾舞，曾经就读北京舞蹈学院社交系专修国际标准舞，在阿德莱德艺术技术学院学习当代舞蹈，同时也是在阿德莱德华人中一位拥有舞蹈双学位的华人专业舞蹈编导。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yiling Gong"
+title: "龚伊翎"
 description: ""
 category: 
 tags: [people]
@@ -8,7 +8,7 @@ tags: [people]
 {% include JB/setup %}
 
 
-龚伊翎 
+
 艺术团团长秘书
 代理办公室主任
 

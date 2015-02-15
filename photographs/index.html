@@ -76,7 +76,7 @@ description: ""
         <ul class="img-list">
             {% directory path: assets/images/shandongyishu %}
             <li>
-                <a href="/assets/images/shandongyishu/{{file.name}}" data-gallery >
+                <a href="/assets/images/shandongyishu/{{file.name}}" title="{{file.slug}}" data-gallery >
                     <img  class="my-gallery" style=" background-image:url(/assets/images/thumbnail/shandongyishu/{{file.name}});">
                     <span class="text-content"><span>{{file.slug}} </span></span>
                 </a>
@@ -99,7 +99,7 @@ description: ""
         <ul class="img-list">
             {% directory path: assets/images/licheng %}
             <li>
-                <a href="/assets/images/licheng/{{file.name}}" data-gallery >
+                <a href="/assets/images/licheng/{{file.name}}" title="{{file.slug}}" data-gallery >
                     <img  class="my-gallery" style=" background-image:url(/assets/images/thumbnail/licheng/{{file.name}});">
                     <span class="text-content"><span>{{file.slug}} </span></span>
                 </a>

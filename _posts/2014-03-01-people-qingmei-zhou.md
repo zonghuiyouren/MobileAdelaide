@@ -2,8 +2,8 @@
 layout: post
 title: "Qingmei Zhou"
 description: ""
-category: 
-tags: [people]
+category: home
+tags: [people, qingmei]
 ---
 {% include JB/setup %}
 

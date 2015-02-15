@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wen Li"
+title: "李雯"
 description: ""
 category: 
 tags: [people]
@@ -8,7 +8,6 @@ tags: [people]
 {% include JB/setup %}
 
 
-李雯
 专长                                                                            
 中国民族民间舞八级、古典舞
 演出历史                                                                            

@@ -2,8 +2,8 @@
 layout: post
 title: "Huijun Geng"
 description: ""
-category: 
-tags: [people]
+category: home
+tags: [people, huijun]
 ---
 {% include JB/setup %}
 

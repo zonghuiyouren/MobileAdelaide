@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Huijun Geng"
+title: "耿惠君"
 description: ""
-category: 
-tags: [people]
+category: home
+tags: [people, huijun]
 ---
 {% include JB/setup %}
 
 
-耿惠君
 荣誉艺术总监/编导
 
 ###介绍：

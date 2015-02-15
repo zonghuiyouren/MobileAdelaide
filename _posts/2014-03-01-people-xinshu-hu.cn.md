@@ -7,7 +7,6 @@ tags: [people]
 ---
 {% include JB/setup %}
 
-胡心舒:
 
 擅长：民族舞、中国舞、New Jazz、Girl’s Hip-Hop
 
