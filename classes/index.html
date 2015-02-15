@@ -10,78 +10,77 @@ group: navigation
 <div id="wrapper">
     <!-- Sidebar -->
     <div id="sidebar-wrapper">
-            <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                    <a href="/">
-                        <img src="/assets/images/logo.gif" alt="Generic placeholder image" style="height: 50%;width: 50%;">
-                    </a>
-                </li>
-                <li style="background-color:#832641">
-                    <a href="#Group1">Dance Classes</a>
-                    <li>
-                        {% for post in site.tags.class %}
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a href="/">
+                    <img src="/assets/images/logo.gif" alt="Generic placeholder image" style="height: 50%;width: 50%;">
+                </a>
+            </li>
+            <li style="background-color:#832641">
+                <a href="#">Dance Classes</a>
+                <li>
+                    {% for post in site.tags.class %}
                         {% if post.language == page.language %}
-                        <a href="#">{{post.title}}</a> 
+                            <a href="#{{post.title}}">{{post.title}}</a> 
                         {% endif %}
-                        {% endfor %}
-                    </li>
+                    {% endfor %}
                 </li>
-            </ul>
+            </li>
+        </ul>
     </div>  
 
-<div id="page-content-wrapper">
-    <div class="container-fluid">
-
-
-        {% for post in site.tags.class %}
-         {% if post.language == page.language %}
-        <div class="panel panel-default">
-            <div class="panel-body">
-                {{post.content}}
-            </div>
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            {% for post in site.tags.class %}
+                {% if post.language == page.language %}
+                    <div id="#{{post.title}}"></div>
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            {{post.content}}
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
         </div>
-        {% endif %}
-        {% endfor %}
     </div>
-</div>
 </div>
 
 {% else %}
-
 <div id="wrapper">
     <!-- Sidebar -->
     <div id="sidebar-wrapper">
-            <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                    <a href="/">
-                        <img src="/assets/images/logo.gif" alt="Generic placeholder image" style="height: 50%;width: 50%;">
-                    </a>
-                </li>
-                <li style="background-color:#832641">
-                    <a href="#Group1">舞蹈课程</a>
-                    <li>
-                        {% for post in site.tags.class %}
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a href="/cn/">
+                    <img src="/assets/images/logo.gif" alt="Generic placeholder image" style="height: 50%;width: 50%;">
+                </a>
+            </li>
+            <li style="background-color:#832641">
+                <a href="#">舞蹈课程</a>
+                <li>
+                    {% for post in site.tags.class %}
                         {% if post.language == page.language %}
-                        <a href="#">{{post.title}}</a> 
+                            <a href="#{{post.title}}">{{post.title}}</a> 
                         {% endif %}
-                        {% endfor %}
-                    </li>
+                    {% endfor %}
                 </li>
-            </ul>
+            </li>
+        </ul>
     </div>  
 
-<div id="page-content-wrapper">
-    <div class="container-fluid">
-
-
-        {% for page in site.tags.class %}
-        <div class="panel panel-default">
-            <div class="panel-body">
-                {{page.content}}
-            </div>
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            {% for post in site.tags.class %}
+                {% if post.language == page.language %}
+                    <div id="#{{post.title}}"></div>
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            {{post.content}}
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
         </div>
-        {% endfor %}
     </div>
-</div>
 </div>
 {% endif %}

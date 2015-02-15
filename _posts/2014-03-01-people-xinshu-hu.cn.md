@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xinshu Hu"
+title: "胡心舒"
 description: ""
 category: 
 tags: [people]

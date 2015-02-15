@@ -84,7 +84,7 @@
                 <li><a href="/about/" role="button" aria-expanded="false">About Us <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li class="dropdown-header"> Groups </li>
-                    {% for post in site.tags.group reversed%}
+                    {% for post in site.tags.group%}
                       {% if post.language == page.language %}
                         <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}
@@ -92,7 +92,7 @@
 
                     <li class="divider"></li>
                     <li class="dropdown-header">People</li>
-                    {% for post in site.tags.people reversed%}
+                    {% for post in site.tags.people%}
                       {% if post.language == page.language %}
                         <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}
@@ -104,7 +104,7 @@
 
                 <li><a href="/classes/" role="button" aria-expanded="false">Classes<span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    {% for post in site.tags.class reversed%}
+                    {% for post in site.tags.class%}
                       {% if post.language == page.language %}
                         <li><a href="/classes/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}
@@ -150,17 +150,17 @@
                 <li><a href="/cn/about/" role="button" aria-expanded="false">关于我们 <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li class="dropdown-header"> 艺术团 </li>
-                    {% for post in site.tags.group reversed%}
+                    {% for post in site.tags.group%}
                        {% if post.language == page.language %}
-                        <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                        <li><a href="/cn/about/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}
                     {% endfor %}
 
                     <li class="divider"></li>
-                    <li class="dropdown-header">舞蹈家</li>
-                    {% for post in site.tags.dancer reversed%}
+                    <li class="dropdown-header">团队成员</li>
+                    {% for post in site.tags.people%}
                        {% if post.language == page.language %}
-                        <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                        <li><a href="/cn/about/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}
                     {% endfor %}
                   </ul>
@@ -170,9 +170,9 @@
 
                 <li><a href="/cn/classes/" role="button" aria-expanded="false">课程<span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    {% for post in site.tags.class reversed%}
+                    {% for post in site.tags.class%}
                       {% if post.language == page.language %}
-                        <li><a href="/classes/#{{post.title}}">{{post.title}}</a></li>
+                        <li><a href="/cn/classes/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}
                     {% endfor %}
                   </ul>
