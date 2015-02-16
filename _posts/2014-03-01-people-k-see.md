@@ -4,6 +4,7 @@ title: "K See"
 description: ""
 category: 
 tags: [people]
+position: "Honorary dean cultural、Tourism、Business consultant"
 ---
 {% include JB/setup %}
 

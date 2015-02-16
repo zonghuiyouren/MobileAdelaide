@@ -3,7 +3,9 @@ layout: post
 title: "胡心舒"
 description: ""
 category: 
+image: "XinshuHu.jpeg"
 tags: [people]
+position: "助教"
 ---
 {% include JB/setup %}
 

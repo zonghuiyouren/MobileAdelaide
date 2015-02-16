@@ -3,7 +3,9 @@ layout: post
 title: "郭燕"
 description: ""
 category: 
+image: "Guoyan.jpg"
 tags: [people]
+position: "华夏君梅艺术团宣传策划主管"
 ---
 {% include JB/setup %}
 

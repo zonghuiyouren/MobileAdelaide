@@ -4,6 +4,7 @@ title: "Mobo Gao"
 description: ""
 category: 
 tags: [people]
+position: "Honorary dean、language and culture consultant"
 ---
 {% include JB/setup %}
 

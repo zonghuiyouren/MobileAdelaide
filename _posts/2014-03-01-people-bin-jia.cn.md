@@ -3,7 +3,9 @@ layout: post
 title: "贾彬"
 description: ""
 category: 
+image: "Jiabin.jpg"
 tags: [people]
+position: "艺术团文化市场主管"
 ---
 {% include JB/setup %}
 

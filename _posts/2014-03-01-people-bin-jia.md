@@ -3,7 +3,9 @@ layout: post
 title: "Bin Jia"
 description: ""
 category: 
+image: "Jiabin.jpg"
 tags: [people]
+position: "Art Troupe Market Manager"
 ---
 {% include JB/setup %}
 

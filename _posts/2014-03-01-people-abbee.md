@@ -3,7 +3,9 @@ layout: post
 title: "Abbee"
 description: ""
 category: 
+image: "Abbee.jpeg"
 tags: [people]
+position: "Hua Xia Junmei Troupe Resident makeup artist"
 ---
 {% include JB/setup %}
 

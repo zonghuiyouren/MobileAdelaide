@@ -4,6 +4,7 @@ title: "施国华"
 description: ""
 category: 
 tags: [people]
+position: "名誉团长及文化、旅游、商业顾问"
 ---
 {% include JB/setup %}
 

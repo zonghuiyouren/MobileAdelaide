@@ -3,7 +3,9 @@ layout: post
 title: "Xinshu Hu"
 description: ""
 category: 
+image: "XinshuHu.jpeg"
 tags: [people]
+position: "Tutor"
 ---
 {% include JB/setup %}
 

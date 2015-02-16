@@ -3,7 +3,9 @@ layout: post
 title: "钟玉婷（Abbee）"
 description: ""
 category: 
+image: "Abbee.jpeg"
 tags: [people]
+position: "华夏君梅艺术团驻团化妆师"
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,9 @@ layout: post
 title: "Yan Guo"
 description: ""
 category: 
+image: "Guoyan.jpg"
 tags: [people]
+position: "HuaXia Jun Mei’s Art Troupe promotional planning director"
 ---
 {% include JB/setup %}
 

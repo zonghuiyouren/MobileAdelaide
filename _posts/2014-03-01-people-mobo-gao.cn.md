@@ -4,6 +4,7 @@ title: "高默波"
 description: ""
 category: 
 tags: [people]
+position: "名誉团长及语言和文化顾问"
 ---
 {% include JB/setup %}
 
