@@ -5,29 +5,32 @@ description: ""
 ---
 {% include JB/setup %}
 
-<style type="text/css">
-    .featurette-divider {
-        border: 0px; /* Space out the Bootstrap <hr> more */
-    }
-</style>
-
 
 <!-- change the format, don't need to filter, use the global variable can get all the posts with tag news. -->
-<div class="container">
-    <ul class="newslist">
-        {% for post in site.tags.news %}
+<div class="container first " style="padding-top: 20px">
+    {% for post in site.tags.news %}
         {% if post.language == page.language %}
-            <li>
+        <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="page-content-wrapper" style="background-color:#f6f6f6; ">
                 <a href="{{post.url}}">
-                    <h1>{{post.title}}</h1>
+                    <h1 style="margin-top: 0px;">{{post.title}}</h1>
                     <div class="meta">By Dynamism Dance on {{ post.date | date:"%Y-%m-%d" }}</div>
-                    <span class="thumb" style="background-image:url('/assets/images/news/{{post.title}}.jpg');"></span>
-                    <h2></h2>
                 </a>
-                {{ post.excerpt }}
-            </li>
+            </div>
+            <div class="row">
+                <div class="col-md-5">
+                    <br>
+                    <img class="newsimage" src="/assets/images/news/{{post.image}}">
+                </div>
+                <div class="col-md-7">
+                    <br>
+                    {{ post.excerpt }}
+                    <a href="{{ post.url }}">Read more...</a><br><br>
+                </div>
+            </div>
+            </div>
+        </div>
         {% endif %}
-        {% endfor %}
-    </ul>
-
+    {% endfor %}
 </div>

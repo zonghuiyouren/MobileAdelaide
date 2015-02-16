@@ -104,7 +104,6 @@ task :news do
     post.puts "image: \"#{title.gsub(/-/,' ')}.jpg\""
     post.puts "tags: #{tags}"
     post.puts "---"
-    post.puts "{% include JB/setup %}"
   end
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
@@ -133,7 +132,6 @@ task :news do
     post.puts "image: \"#{title.gsub(/-/,' ')}.jpg\""
     post.puts "tags: #{tags}"
     post.puts "---"
-    post.puts "{% include JB/setup %}"
   end
 end # task :post
 
@@ -235,6 +233,7 @@ task :people do
     post.puts 'description: ""'
     post.puts "category: #{category}"
     post.puts "tags: #{tags}"
+    post.puts "image: \"#{title.gsub(/-/,' ')}.jpg\""
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
@@ -264,6 +263,7 @@ task :people do
     post.puts 'description: ""'
     post.puts "category: #{category}"
     post.puts "tags: #{tags}"
+    post.puts "image: \"#{title.gsub(/-/,' ')}.jpg\""
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end

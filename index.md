@@ -129,7 +129,6 @@ tagline: Supporting tagline
   </div> 
 
 
-  <hr class="featurette-divider" >
   <div class="row featurette" style="background-color:rgba(255,255,255,0.8);">
     <div class="container" style="height:300px; text-align: center;">
         <h2>Sponsors</h2>

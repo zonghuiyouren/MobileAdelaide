@@ -194,8 +194,8 @@ Only Needed in Multi-Coloured Variation
     list-style: none;
     padding: 0px;
 }
-li .thumb {
-    width: 100%;
+.thumb {
+    width: 450px;
     height: 300px;
     margin: 20px auto;
     background: #fff 50% 0% no-repeat;
@@ -206,11 +206,13 @@ li .thumb {
     overflow: hidden;
     text-indent: -999px;
     display: block;
+    float: left;
 }
 @media screen and (max-width: 790px) {
-    li .thumb {
+    .thumb {
         float: none;
-        height: 100px;
+        width: 300px;
+        height: 200px;
     }
 }
 
@@ -443,3 +445,28 @@ span.text-class span {
     width: auto;
 }
 
+
+.newsimage {
+  height: auto;
+  width: 100%;
+}
+
+
+
+.first p{
+  font-size: 17px;
+}
+
+
+
+.first p:first-letter{
+    float: left;
+    color: #CA3B44;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+    font-family: Georgia;
+    text-transform: uppercase;
+}
