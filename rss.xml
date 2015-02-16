@@ -5,111 +5,99 @@
         <description>Dynamism Dance - Name Lastname</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2015-02-15T19:19:04+10:30</lastBuildDate>
-        <pubDate>2015-02-15T19:19:04+10:30</pubDate>
+        <lastBuildDate>2015-02-16T14:51:43+10:30</lastBuildDate>
+        <pubDate>2015-02-16T14:51:43+10:30</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>中文新闻第一篇</title>
+                <title>fourth</title>
                 <description>
 </description>
-                <link>http://username.github.io/cn/2015/01/01/news-post</link>
-                <guid>http://username.github.io/cn/2015/01/01/news-post</guid>
-                <pubDate>2015-01-01T00:00:00+10:30</pubDate>
+                <link>http://username.github.io/2015/02/16/news-fourth</link>
+                <guid>http://username.github.io/2015/02/16/news-fourth</guid>
+                <pubDate>2015-02-16T00:00:00+10:30</pubDate>
         </item>
 
         <item>
-                <title>last news</title>
-                <description>&lt;h2 id=&quot;this-is-the-third-pages&quot;&gt;this is the third pages&lt;/h2&gt;
-
-&lt;p&gt;here is the iamge&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;	aa
-
-	bb
-
-	cc
-
-
-
-	aa
-
-	bb
-
-	cc
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This is my first paragraph, show me the contents.
-what this did not work for .
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-                <link>http://username.github.io/cn/2015/01/01/news-3</link>
-                <guid>http://username.github.io/cn/2015/01/01/news-3</guid>
-                <pubDate>2015-01-01T00:00:00+10:30</pubDate>
-        </item>
-
-        <item>
-                <title>last news</title>
-                <description>&lt;h2 id=&quot;this-is-the-third-pages&quot;&gt;this is the third pages&lt;/h2&gt;
-
-&lt;p&gt;here is the iamge&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;	aa
-
-	bb
-
-	cc
-
-
-
-	aa
-
-	bb
-
-	cc
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This is my first paragraph, show me the contents.
-what this did not work for .
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-                <link>http://username.github.io/2015/01/01/news-3</link>
-                <guid>http://username.github.io/2015/01/01/news-3</guid>
-                <pubDate>2015-01-01T00:00:00+10:30</pubDate>
-        </item>
-
-        <item>
-                <title>second news</title>
+                <title>fourth</title>
                 <description>
-&lt;h2 id=&quot;this-is-the-second-news&quot;&gt;this is the second news&lt;/h2&gt;
-&lt;p&gt;hello i am the second news&lt;/p&gt;
 </description>
-                <link>http://username.github.io/cn/2015/01/01/news-2</link>
-                <guid>http://username.github.io/cn/2015/01/01/news-2</guid>
-                <pubDate>2015-01-01T00:00:00+10:30</pubDate>
+                <link>http://username.github.io/cn/2015/02/16/news-fourth</link>
+                <guid>http://username.github.io/cn/2015/02/16/news-fourth</guid>
+                <pubDate>2015-02-16T00:00:00+10:30</pubDate>
         </item>
 
         <item>
-                <title>second news</title>
+                <title>fifth</title>
                 <description>
-&lt;h2 id=&quot;this-is-the-second-news&quot;&gt;this is the second news&lt;/h2&gt;
-&lt;p&gt;hello i am the second news&lt;/p&gt;
 </description>
-                <link>http://username.github.io/2015/01/01/news-2</link>
-                <guid>http://username.github.io/2015/01/01/news-2</guid>
-                <pubDate>2015-01-01T00:00:00+10:30</pubDate>
+                <link>http://username.github.io/cn/2015/02/16/news-fifth</link>
+                <guid>http://username.github.io/cn/2015/02/16/news-fifth</guid>
+                <pubDate>2015-02-16T00:00:00+10:30</pubDate>
         </item>
 
         <item>
-                <title>梅*当代舞蹈团</title>
+                <title>fifth</title>
                 <description>
-&lt;p&gt;梅&lt;em&gt;当代舞蹈团成立为一个以年轻人为核心创作、表演的舞团，集合全国优秀的自由舞者，为他们提供一个艺术服务平台，通过年轻人创造具有时代特征的精品，以满足社会更多层面人士的文化生活需求。当代舞是一门比较抽象的艺术，它的审美意识、艺术概念、舞蹈架构、语汇都与传统的舞蹈艺术截然不同。然而，舞蹈又有它们之间共同点: 生活元素 - 所有艺术来自于我们的生活, 把当代舞和民族民间舞的相通舞蹈语汇相结合，再把不同的概念和架构给予融合性改变并结合，这就是舞蹈团未来创作的重点。
-　　舞蹈文化的本土化实际上是对澳洲和中国文化的一种特殊的表述，舞团舞蹈创作所展示的阿德莱德城市活力和当代文化，说明我们当代舞蹈团如何从一个多元混杂的文化状态走向自我定位，如何追求传统舞和现代舞的“澳洲特色”，如何鼓励本地编舞，如何将现代舞的包容理念转向中西传统舞蹈结合，对应其多元化的文化结构，为中国舞蹈的现代性探索提供一个实验案例。舞团的创作实践是以一种十分个性化的当代方式表达中国文化，我们是以舞蹈表现出“我们”和“他们” 的感受，利用海外地区创作宽松的环境，以舞蹈团重视现代人的思想和感觉、现代人的生活与需求、现代人的追求和理想，追寻本地人的文化内涵， 以本地文化的多种形态为创作原质，融合中西，以一种开放的文化态势，构筑“无边”的舞蹈。通过艺术实践让舞团走向本土的舞蹈文化建设。梅&lt;/em&gt;当代舞蹈团以年轻驻团艺术家为核心优秀现代舞者共同组成。成员都是执著于追求舞蹈艺术的年轻人，在有着多元文化背景的澳洲，舞团的成员当然也是有着多元文化背景的。艺术没有国界，舞蹈没有国界，舞者没有国界。作品均以“原创性、高品质”为原则，以当下时代特征为创作背景，打造贴近生活，反映当代艺术的精品为目标，打造国际化高水平艺术团队品牌。&lt;/p&gt;
 </description>
-                <link>http://username.github.io/cn/2014/04/01/group-the-mei-contemporary-dance-group</link>
-                <guid>http://username.github.io/cn/2014/04/01/group-the-mei-contemporary-dance-group</guid>
-                <pubDate>2014-04-01T00:00:00+10:30</pubDate>
+                <link>http://username.github.io/2015/02/16/news-fifth</link>
+                <guid>http://username.github.io/2015/02/16/news-fifth</guid>
+                <pubDate>2015-02-16T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>This is the Third News</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/15/news-this-is-the-third-news</link>
+                <guid>http://username.github.io/2015/02/15/news-this-is-the-third-news</guid>
+                <pubDate>2015-02-15T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>This is the Third News</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/15/news-this-is-the-third-news</link>
+                <guid>http://username.github.io/cn/2015/02/15/news-this-is-the-third-news</guid>
+                <pubDate>2015-02-15T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>This is the newest news</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/15/news-this-is-the-newest-news</link>
+                <guid>http://username.github.io/cn/2015/02/15/news-this-is-the-newest-news</guid>
+                <pubDate>2015-02-15T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>This is the newest news</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/15/news-this-is-the-newest-news</link>
+                <guid>http://username.github.io/2015/02/15/news-this-is-the-newest-news</guid>
+                <pubDate>2015-02-15T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>This is the latest news</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2015/02/15/news-this-is-the-latest-news</link>
+                <guid>http://username.github.io/cn/2015/02/15/news-this-is-the-latest-news</guid>
+                <pubDate>2015-02-15T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>This is the latest news</title>
+                <description>
+</description>
+                <link>http://username.github.io/2015/02/15/news-this-is-the-latest-news</link>
+                <guid>http://username.github.io/2015/02/15/news-this-is-the-latest-news</guid>
+                <pubDate>2015-02-15T00:00:00+10:30</pubDate>
         </item>
 
         <item>
@@ -125,18 +113,13 @@ what this did not work for .
         </item>
 
         <item>
-                <title>The Dynamism Youth Dance Group</title>
+                <title>梅*当代舞蹈团</title>
                 <description>
-&lt;h2 id=&quot;the-dynamism-youth-dance-group&quot;&gt;The Dynamism Youth Dance Group&lt;/h2&gt;
-
-&lt;p&gt;Dance is an integrated art form, combining the physical, the artistic, the intellectual and the spiritual in one, and as such is an activity that is beneficial to all aspects of development in young people, as well as enriching their lives out of academic study. Dance education is unique in that its effect on primary and secondary school students cannot be provided through other subjects. For example, dance in primary education can contribute to character building, encouraging students to sense and express beauty. At the same time, teachers must seize the opportunity to appeal to students’ psychological needs via rewarding and appreciation, in order for dance to better exert its positive influence on their growth. Generally speaking, extensive use of dance in primary and secondary education would aid the physical and mental development of children and teens in every constructive way, as it is the ideal method in which students may learn to experience, recognise, understand, and convey the concept of beauty.&lt;/p&gt;
-
-&lt;p&gt;Dance can improve fitness and correct bad posture, leading to coordination and grace in one’s movement. Dance training transforms students’ attitudes from passive to assertive, thus training their ability to self-discipline and strengthen willpower. School-aged children are at the stage of life where they are highly curious, active, driven to imitate and perform – traits which can all be fulfilled in a dance lesson. Dance performance requires students to use a high amount of energy, having to practice each move repeatedly, which makes it an activity requiring much hard work, thus, training students’ confidence and motivation to overcome difficulties. Dance also promotes the sense of team pride and honour. Children’s dance classes usually train as a large group initially, then forming set teams during rehearsal and performance. A successful performance is the result of everybody’s work, which gives all involved a sense of team spirit. This sense of team spirit acquired through dance may then be transferred upon the class and the school, perhaps even the culture, the country.&lt;/p&gt;
-
-&lt;p&gt;Because of the many educational roles of dance, we have founded the dance group to be one that is suitable for the developmental needs of primary and high school students, and deeply connected with all its aspects. While studying dance, students are also influenced and inspired by music, so it could be said that dance can also be used to explain music. Quoting famous Chinese musician Wu Zuqiang: “In a certain sense, in the art of dance, music is the voice of dance, while dance is the body of music. It is an artistic imagination’s product of perfection.”&lt;/p&gt;
+&lt;p&gt;梅&lt;em&gt;当代舞蹈团成立为一个以年轻人为核心创作、表演的舞团，集合全国优秀的自由舞者，为他们提供一个艺术服务平台，通过年轻人创造具有时代特征的精品，以满足社会更多层面人士的文化生活需求。当代舞是一门比较抽象的艺术，它的审美意识、艺术概念、舞蹈架构、语汇都与传统的舞蹈艺术截然不同。然而，舞蹈又有它们之间共同点: 生活元素 - 所有艺术来自于我们的生活, 把当代舞和民族民间舞的相通舞蹈语汇相结合，再把不同的概念和架构给予融合性改变并结合，这就是舞蹈团未来创作的重点。
+　　舞蹈文化的本土化实际上是对澳洲和中国文化的一种特殊的表述，舞团舞蹈创作所展示的阿德莱德城市活力和当代文化，说明我们当代舞蹈团如何从一个多元混杂的文化状态走向自我定位，如何追求传统舞和现代舞的“澳洲特色”，如何鼓励本地编舞，如何将现代舞的包容理念转向中西传统舞蹈结合，对应其多元化的文化结构，为中国舞蹈的现代性探索提供一个实验案例。舞团的创作实践是以一种十分个性化的当代方式表达中国文化，我们是以舞蹈表现出“我们”和“他们” 的感受，利用海外地区创作宽松的环境，以舞蹈团重视现代人的思想和感觉、现代人的生活与需求、现代人的追求和理想，追寻本地人的文化内涵， 以本地文化的多种形态为创作原质，融合中西，以一种开放的文化态势，构筑“无边”的舞蹈。通过艺术实践让舞团走向本土的舞蹈文化建设。梅&lt;/em&gt;当代舞蹈团以年轻驻团艺术家为核心优秀现代舞者共同组成。成员都是执著于追求舞蹈艺术的年轻人，在有着多元文化背景的澳洲，舞团的成员当然也是有着多元文化背景的。艺术没有国界，舞蹈没有国界，舞者没有国界。作品均以“原创性、高品质”为原则，以当下时代特征为创作背景，打造贴近生活，反映当代艺术的精品为目标，打造国际化高水平艺术团队品牌。&lt;/p&gt;
 </description>
-                <link>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</link>
-                <guid>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</guid>
+                <link>http://username.github.io/cn/2014/04/01/group-the-mei-contemporary-dance-group</link>
+                <guid>http://username.github.io/cn/2014/04/01/group-the-mei-contemporary-dance-group</guid>
                 <pubDate>2014-04-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -158,6 +141,22 @@ what this did not work for .
 </description>
                 <link>http://username.github.io/cn/2014/04/01/group-the-dynamism-youth-dance-group</link>
                 <guid>http://username.github.io/cn/2014/04/01/group-the-dynamism-youth-dance-group</guid>
+                <pubDate>2014-04-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>The Dynamism Youth Dance Group</title>
+                <description>
+&lt;h2 id=&quot;the-dynamism-youth-dance-group&quot;&gt;The Dynamism Youth Dance Group&lt;/h2&gt;
+
+&lt;p&gt;Dance is an integrated art form, combining the physical, the artistic, the intellectual and the spiritual in one, and as such is an activity that is beneficial to all aspects of development in young people, as well as enriching their lives out of academic study. Dance education is unique in that its effect on primary and secondary school students cannot be provided through other subjects. For example, dance in primary education can contribute to character building, encouraging students to sense and express beauty. At the same time, teachers must seize the opportunity to appeal to students’ psychological needs via rewarding and appreciation, in order for dance to better exert its positive influence on their growth. Generally speaking, extensive use of dance in primary and secondary education would aid the physical and mental development of children and teens in every constructive way, as it is the ideal method in which students may learn to experience, recognise, understand, and convey the concept of beauty.&lt;/p&gt;
+
+&lt;p&gt;Dance can improve fitness and correct bad posture, leading to coordination and grace in one’s movement. Dance training transforms students’ attitudes from passive to assertive, thus training their ability to self-discipline and strengthen willpower. School-aged children are at the stage of life where they are highly curious, active, driven to imitate and perform – traits which can all be fulfilled in a dance lesson. Dance performance requires students to use a high amount of energy, having to practice each move repeatedly, which makes it an activity requiring much hard work, thus, training students’ confidence and motivation to overcome difficulties. Dance also promotes the sense of team pride and honour. Children’s dance classes usually train as a large group initially, then forming set teams during rehearsal and performance. A successful performance is the result of everybody’s work, which gives all involved a sense of team spirit. This sense of team spirit acquired through dance may then be transferred upon the class and the school, perhaps even the culture, the country.&lt;/p&gt;
+
+&lt;p&gt;Because of the many educational roles of dance, we have founded the dance group to be one that is suitable for the developmental needs of primary and high school students, and deeply connected with all its aspects. While studying dance, students are also influenced and inspired by music, so it could be said that dance can also be used to explain music. Quoting famous Chinese musician Wu Zuqiang: “In a certain sense, in the art of dance, music is the voice of dance, while dance is the body of music. It is an artistic imagination’s product of perfection.”&lt;/p&gt;
+</description>
+                <link>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</link>
+                <guid>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</guid>
                 <pubDate>2014-04-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -218,6 +217,35 @@ what this did not work for .
         </item>
 
         <item>
+                <title>龚伊翎</title>
+                <description>
+&lt;p&gt;艺术团团长秘书
+代理办公室主任&lt;/p&gt;
+
+&lt;p&gt;联系方式
+办公号码：（08）70739237
+手机号码:  0451 960 321
+Email: dynamismdance@gmail.com
+地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
+
+&lt;p&gt;学历
+2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
+
+&lt;p&gt;语言
+能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
+
+&lt;p&gt;电脑技能
+能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
+
+&lt;p&gt;兴趣爱好
+音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
+</description>
+                <link>http://username.github.io/cn/2014/03/14/people-yiling-gong</link>
+                <guid>http://username.github.io/cn/2014/03/14/people-yiling-gong</guid>
+                <pubDate>2014-03-14T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
                 <title>Yiling Gong</title>
                 <description>
 &lt;p&gt;Yi Ling Gong
@@ -248,32 +276,16 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
         </item>
 
         <item>
-                <title>龚伊翎</title>
+                <title>郭燕</title>
                 <description>
-&lt;p&gt;艺术团团长秘书
-代理办公室主任&lt;/p&gt;
-
-&lt;p&gt;联系方式
-办公号码：（08）70739237
-手机号码:  0451 960 321
-Email: dynamismdance@gmail.com
-地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
-
-&lt;p&gt;学历
-2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
-
-&lt;p&gt;语言
-能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
-
-&lt;p&gt;电脑技能
-能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
-
-&lt;p&gt;兴趣爱好
-音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
+&lt;p&gt;（华夏君梅艺术团宣传策划主管）
+毕业于南京师范学院中文系及阿德莱德大学亚洲中心，分别获汉语言文学学士学位及亚洲研究荣誉学位。
+出版有小说及散文集若干。
+有多年从事文化活动宣传策划的经历，曾参与组织各种文艺演出、语言比赛及文化宣传活动，有丰富的组织策划各类文化活动的经验。&lt;/p&gt;
 </description>
-                <link>http://username.github.io/cn/2014/03/14/people-yiling-gong</link>
-                <guid>http://username.github.io/cn/2014/03/14/people-yiling-gong</guid>
-                <pubDate>2014-03-14T00:00:00+10:30</pubDate>
+                <link>http://username.github.io/cn/2014/03/01/people-yan-guo</link>
+                <guid>http://username.github.io/cn/2014/03/01/people-yan-guo</guid>
+                <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
         <item>
@@ -291,15 +303,20 @@ Guo’s position in the group is of no relation to her position at her current w
         </item>
 
         <item>
-                <title>郭燕</title>
+                <title>胡心舒</title>
                 <description>
-&lt;p&gt;（华夏君梅艺术团宣传策划主管）
-毕业于南京师范学院中文系及阿德莱德大学亚洲中心，分别获汉语言文学学士学位及亚洲研究荣誉学位。
-出版有小说及散文集若干。
-有多年从事文化活动宣传策划的经历，曾参与组织各种文艺演出、语言比赛及文化宣传活动，有丰富的组织策划各类文化活动的经验。&lt;/p&gt;
+&lt;p&gt;擅长：民族舞、中国舞、New Jazz、Girl’s Hip-Hop&lt;/p&gt;
+
+&lt;p&gt;习舞六年，八岁起跟随云南省知名舞蹈家李永惠学习舞蹈，
+期间加入小麒麟艺术团，排演大型舞蹈舞剧十余场，曾跟随艺术团赴天津、杭州、香港等地进行文化艺术交流与学习。&lt;/p&gt;
+
+&lt;p&gt;母亲亦为舞蹈家，曾担任云南省花灯剧团演员。&lt;/p&gt;
+
+&lt;p&gt;大学期间组建女子校园街舞社团，带领团员商演，校园演出三十余场。&lt;/p&gt;
+
 </description>
-                <link>http://username.github.io/cn/2014/03/01/people-yan-guo</link>
-                <guid>http://username.github.io/cn/2014/03/01/people-yan-guo</guid>
+                <link>http://username.github.io/cn/2014/03/01/people-xinshu-hu</link>
+                <guid>http://username.github.io/cn/2014/03/01/people-xinshu-hu</guid>
                 <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -323,20 +340,24 @@ Guo’s position in the group is of no relation to her position at her current w
         </item>
 
         <item>
-                <title>胡心舒</title>
+                <title>李雯</title>
                 <description>
-&lt;p&gt;擅长：民族舞、中国舞、New Jazz、Girl’s Hip-Hop&lt;/p&gt;
-
-&lt;p&gt;习舞六年，八岁起跟随云南省知名舞蹈家李永惠学习舞蹈，
-期间加入小麒麟艺术团，排演大型舞蹈舞剧十余场，曾跟随艺术团赴天津、杭州、香港等地进行文化艺术交流与学习。&lt;/p&gt;
-
-&lt;p&gt;母亲亦为舞蹈家，曾担任云南省花灯剧团演员。&lt;/p&gt;
-
-&lt;p&gt;大学期间组建女子校园街舞社团，带领团员商演，校园演出三十余场。&lt;/p&gt;
-
+&lt;p&gt;专长                                                                          &lt;br /&gt;
+中国民族民间舞八级、古典舞
+演出历史                                                                          &lt;br /&gt;
+2014年中国农业大学SKY动漫社15周年社庆“妙舞繁音”扇子舞表演
+2014年清华大学舞蹈协会古典舞汇报演出“雪中梅”扇子舞表演
+2012年京交会玄机秦时明月宣传商业演出
+2011年临界·肆“三国杀”群舞古典舞表演
+2011年CJ漫展“三国杀”群舞古典舞表演
+2010年中国农业大学生物学院迎新晚会街舞“Give Me More”表演
+2001年鼓浪屿海峡两岸文化交流节民族民间舞“糖葫芦”
+其他                                                                          &lt;br /&gt;
+性格：踏实肯干、细心谨慎、勤奋好学、严于律己、温和大方
+爱好：摄影、舞蹈、动漫、绘画&lt;/p&gt;
 </description>
-                <link>http://username.github.io/cn/2014/03/01/people-xinshu-hu</link>
-                <guid>http://username.github.io/cn/2014/03/01/people-xinshu-hu</guid>
+                <link>http://username.github.io/cn/2014/03/01/people-wen-li</link>
+                <guid>http://username.github.io/cn/2014/03/01/people-wen-li</guid>
                 <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -368,58 +389,9 @@ Dance, Photography, Animation, Painting&lt;/p&gt;
         </item>
 
         <item>
-                <title>李雯</title>
-                <description>
-&lt;p&gt;专长                                                                          &lt;br /&gt;
-中国民族民间舞八级、古典舞
-演出历史                                                                          &lt;br /&gt;
-2014年中国农业大学SKY动漫社15周年社庆“妙舞繁音”扇子舞表演
-2014年清华大学舞蹈协会古典舞汇报演出“雪中梅”扇子舞表演
-2012年京交会玄机秦时明月宣传商业演出
-2011年临界·肆“三国杀”群舞古典舞表演
-2011年CJ漫展“三国杀”群舞古典舞表演
-2010年中国农业大学生物学院迎新晚会街舞“Give Me More”表演
-2001年鼓浪屿海峡两岸文化交流节民族民间舞“糖葫芦”
-其他                                                                          &lt;br /&gt;
-性格：踏实肯干、细心谨慎、勤奋好学、严于律己、温和大方
-爱好：摄影、舞蹈、动漫、绘画&lt;/p&gt;
-</description>
-                <link>http://username.github.io/cn/2014/03/01/people-wen-li</link>
-                <guid>http://username.github.io/cn/2014/03/01/people-wen-li</guid>
-                <pubDate>2014-03-01T00:00:00+10:30</pubDate>
-        </item>
-
-        <item>
-                <title>周庆梅</title>
-                <description>
-&lt;p&gt;艺术总监兼艺术团团长：
-创办人Q.M Zhou是一位专业的舞蹈演员兼舞蹈编导，在母亲这位舞蹈教授的熏陶下，自幼在中国接受了系统的专业训练 - 中国古典舞和中国民族民间舞，芭蕾舞，曾经就读北京舞蹈学院社交系专修国际标准舞，在阿德莱德艺术技术学院学习当代舞蹈，同时也是在阿德莱德华人中一位拥有舞蹈双学位的华人专业舞蹈编导。
-之前十几年的学习舞蹈过程里我大部分的时间和精力都给了舞蹈事业，付出总有回报的时候，加上母亲一路上的扶持，让我在舞蹈领域里如鱼得水，而且在各种舞蹈比赛里得过无数的奖励，其中大部分是母亲编导的作品。在中国式的舞蹈演出和编舞历练期间我从中得到了宝贵的教学经验和舞台经验，在舞台上演出时不管是自己编导的舞蹈作品还是演示他人的舞蹈作品，都让我用心去完成，不能有丝毫的失误和偏差，尽量做到最完美，有时为了编排一个作品甚至和母亲争执到脸红脖子粗，到最后还要和母亲说对不起，即使是我没有错…..这就是我Q M Zhou. 
-如果说在中国期间的舞蹈学习是经验积累的话，那么在南澳大利亚的省会阿德莱德期间的舞蹈学习应该是实践的提升。从传统的中国舞蹈到西方当代舞蹈我在自己的舞蹈事业上有了质的飞越。从接受中国传统的教育到后来接受西方自由发挥的教育中慢慢学会调节自己的适应能力。在中西舞蹈艺术文化的碰撞中我学到了两国间的艺术精髓，亲身体验到了中澳两国各自的舞蹈艺术语汇的精彩之处，为我能在未来积极推动两国文化交流提供了丰富的信息，同时也为以后的工作奠定了坚固的基础。
-本人是位随和的人，性格开朗、大方，谦虚和聆听、边成长边学习是我的座右铭！在工作之余喜欢和朋友喝咖啡、吃饭、聊天，在澳洲这个有着多元文化的国土上当然朋友也是有着多元文化背景的，我喜欢结交不同工作环境和不同文化背景的朋友，这也是我学习的一种方式。虽然已经在阿德莱德生活了十几年，但是在事业和怎样做人上有自己的原则和底线，三‘不会’和三‘是’是我的基本理念：
-* 不会因为环境的改变而放弃对舞蹈的执着和热情
-* 不会因为暂时的困难而放弃对梦想的实现和坚持
-* 不会因为失败的挫折而放弃对目标的信心和信念
-* 是爱憎分明的人，对没有道德观念和习惯性撒谎的人杜绝来往。
-* 是值得信赖的人，对朋友始终保持宽容和尊重的心态，斤斤计较的小人永远不再朋友圈里。
-* 是知道感恩的人，对父母的培养和家人支持的感恩，周围所有人曾经和现在对我帮助和扶持过的朋友的感恩。&lt;/p&gt;
-
-&lt;p&gt;从母亲怀着只有3个月大的我在舞台上表演舞剧的那时起，命运就注定了我和舞蹈永远的结缘！舞蹈对于我来说不是单纯的手舞足蹈，不仅仅是每天的重复工作演出和基本功训练，舞蹈是流淌在我身体里的沸腾的能量血液，舞蹈是事业上一路走过来的坚信和艰辛，舞蹈是我在编排了无数个失败的作品背后所获得经验和一部成功作品的喜悦，舞蹈是万分感谢母亲在事业上的给予，舞蹈是我对父亲无限的思念，舞蹈是我未来事业目标的定位！&lt;/p&gt;
-
-&lt;p&gt;最后，感谢母亲对我在舞蹈事业上的栽培，感谢父亲教育我做一个品学兼优的舞者，感谢所有教授过我舞蹈技术的老师们。感谢所有朋友一路上的支持和扶持。&lt;/p&gt;
-</description>
-                <link>http://username.github.io/cn/home/2014/03/01/people-qingmei-zhou</link>
-                <guid>http://username.github.io/cn/home/2014/03/01/people-qingmei-zhou</guid>
-                <pubDate>2014-03-01T00:00:00+10:30</pubDate>
-        </item>
-
-        <item>
                 <title>Qingmei Zhou</title>
                 <description>
-&lt;h2 id=&quot;qingmei-zhou&quot;&gt;Qingmei Zhou&lt;/h2&gt;
-
-&lt;p&gt;Artistic Director and Head of Group:
-The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
+&lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
 
 &lt;p&gt;During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. &lt;/p&gt;
 
@@ -437,24 +409,31 @@ The founder Q.M. Zhou is a professional dancer and choreographer. Under the infl
 
 &lt;p&gt;Once again, I would like to give thanks to my mother for fostering my career as a dance artist, to my father for encouraging me to be an all-rounded high achiever, to all of my teachers who had mentored me, to all of my friends who have given me their help and support.&lt;/p&gt;
 </description>
-                <link>http://username.github.io/home/2014/03/01/people-qingmei-zhou</link>
-                <guid>http://username.github.io/home/2014/03/01/people-qingmei-zhou</guid>
+                <link>http://username.github.io/2014/03/01/people-qingmei-zhou</link>
+                <guid>http://username.github.io/2014/03/01/people-qingmei-zhou</guid>
                 <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
         <item>
-                <title>高默波</title>
+                <title>周庆梅</title>
                 <description>
-&lt;p&gt;（名誉团长及语言和文化顾问）
-现任阿德莱德大学亚洲研究中心中文系教授，阿德莱德大学孔子学院院长。
-高教授在英国留学和工作先后八年，后来又先后在格里菲斯和塔斯马尼亚大学任教，于2008 年被阿德莱德大学聘任为中国研究讲座教授。
-高默波教授的英文著作包括：《高家村》， 《汉语引论》， 《汉语指南》 和《为中国的过去而争论：毛和“文革》. 尤其是《高家村》 和《为中国的过去而争论：毛和“文革》两本书使他成为世界知名学者。
-关于学术上的成功，高教授说；成功不过是一种经历，自己从来没有去考量自己走过的道路是否达到了成功的目标，只要做好自己愿意做的事情就足够了。他从来不为赶潮流或是搞研究去研究。 他甚至谦虚地说是自己的运气不错，有些机遇让自己遇到了而且也把握住了。现在只是觉得时间不够用，因为有很多计划要去实现，需要投入时间和精力。
-作为孔子学院的院长，高教授在南澳努力为汉语推广和文化交流做了大量的工作。
-高教授担任艺术团职位与本人在工作单位没有任何关系，属于本人自愿。&lt;/p&gt;
+&lt;p&gt;创办人Q.M Zhou是一位专业的舞蹈演员兼舞蹈编导，在母亲这位舞蹈教授的熏陶下，自幼在中国接受了系统的专业训练 - 中国古典舞和中国民族民间舞，芭蕾舞，曾经就读北京舞蹈学院社交系专修国际标准舞，在阿德莱德艺术技术学院学习当代舞蹈，同时也是在阿德莱德华人中一位拥有舞蹈双学位的华人专业舞蹈编导。
+之前十几年的学习舞蹈过程里我大部分的时间和精力都给了舞蹈事业，付出总有回报的时候，加上母亲一路上的扶持，让我在舞蹈领域里如鱼得水，而且在各种舞蹈比赛里得过无数的奖励，其中大部分是母亲编导的作品。在中国式的舞蹈演出和编舞历练期间我从中得到了宝贵的教学经验和舞台经验，在舞台上演出时不管是自己编导的舞蹈作品还是演示他人的舞蹈作品，都让我用心去完成，不能有丝毫的失误和偏差，尽量做到最完美，有时为了编排一个作品甚至和母亲争执到脸红脖子粗，到最后还要和母亲说对不起，即使是我没有错…..这就是我Q M Zhou. 
+如果说在中国期间的舞蹈学习是经验积累的话，那么在南澳大利亚的省会阿德莱德期间的舞蹈学习应该是实践的提升。从传统的中国舞蹈到西方当代舞蹈我在自己的舞蹈事业上有了质的飞越。从接受中国传统的教育到后来接受西方自由发挥的教育中慢慢学会调节自己的适应能力。在中西舞蹈艺术文化的碰撞中我学到了两国间的艺术精髓，亲身体验到了中澳两国各自的舞蹈艺术语汇的精彩之处，为我能在未来积极推动两国文化交流提供了丰富的信息，同时也为以后的工作奠定了坚固的基础。
+本人是位随和的人，性格开朗、大方，谦虚和聆听、边成长边学习是我的座右铭！在工作之余喜欢和朋友喝咖啡、吃饭、聊天，在澳洲这个有着多元文化的国土上当然朋友也是有着多元文化背景的，我喜欢结交不同工作环境和不同文化背景的朋友，这也是我学习的一种方式。虽然已经在阿德莱德生活了十几年，但是在事业和怎样做人上有自己的原则和底线，三‘不会’和三‘是’是我的基本理念：
+* 不会因为环境的改变而放弃对舞蹈的执着和热情
+* 不会因为暂时的困难而放弃对梦想的实现和坚持
+* 不会因为失败的挫折而放弃对目标的信心和信念
+* 是爱憎分明的人，对没有道德观念和习惯性撒谎的人杜绝来往。
+* 是值得信赖的人，对朋友始终保持宽容和尊重的心态，斤斤计较的小人永远不再朋友圈里。
+* 是知道感恩的人，对父母的培养和家人支持的感恩，周围所有人曾经和现在对我帮助和扶持过的朋友的感恩。&lt;/p&gt;
+
+&lt;p&gt;从母亲怀着只有3个月大的我在舞台上表演舞剧的那时起，命运就注定了我和舞蹈永远的结缘！舞蹈对于我来说不是单纯的手舞足蹈，不仅仅是每天的重复工作演出和基本功训练，舞蹈是流淌在我身体里的沸腾的能量血液，舞蹈是事业上一路走过来的坚信和艰辛，舞蹈是我在编排了无数个失败的作品背后所获得经验和一部成功作品的喜悦，舞蹈是万分感谢母亲在事业上的给予，舞蹈是我对父亲无限的思念，舞蹈是我未来事业目标的定位！&lt;/p&gt;
+
+&lt;p&gt;最后，感谢母亲对我在舞蹈事业上的栽培，感谢父亲教育我做一个品学兼优的舞者，感谢所有教授过我舞蹈技术的老师们。感谢所有朋友一路上的支持和扶持。&lt;/p&gt;
 </description>
-                <link>http://username.github.io/cn/2014/03/01/people-mobo-gao</link>
-                <guid>http://username.github.io/cn/2014/03/01/people-mobo-gao</guid>
+                <link>http://username.github.io/cn/2014/03/01/people-qingmei-zhou</link>
+                <guid>http://username.github.io/cn/2014/03/01/people-qingmei-zhou</guid>
                 <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -471,6 +450,22 @@ Professor Gao’s position in the group is of no relation to his position at his
 </description>
                 <link>http://username.github.io/2014/03/01/people-mobo-gao</link>
                 <guid>http://username.github.io/2014/03/01/people-mobo-gao</guid>
+                <pubDate>2014-03-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>高默波</title>
+                <description>
+&lt;p&gt;（名誉团长及语言和文化顾问）
+现任阿德莱德大学亚洲研究中心中文系教授，阿德莱德大学孔子学院院长。
+高教授在英国留学和工作先后八年，后来又先后在格里菲斯和塔斯马尼亚大学任教，于2008 年被阿德莱德大学聘任为中国研究讲座教授。
+高默波教授的英文著作包括：《高家村》， 《汉语引论》， 《汉语指南》 和《为中国的过去而争论：毛和“文革》. 尤其是《高家村》 和《为中国的过去而争论：毛和“文革》两本书使他成为世界知名学者。
+关于学术上的成功，高教授说；成功不过是一种经历，自己从来没有去考量自己走过的道路是否达到了成功的目标，只要做好自己愿意做的事情就足够了。他从来不为赶潮流或是搞研究去研究。 他甚至谦虚地说是自己的运气不错，有些机遇让自己遇到了而且也把握住了。现在只是觉得时间不够用，因为有很多计划要去实现，需要投入时间和精力。
+作为孔子学院的院长，高教授在南澳努力为汉语推广和文化交流做了大量的工作。
+高教授担任艺术团职位与本人在工作单位没有任何关系，属于本人自愿。&lt;/p&gt;
+</description>
+                <link>http://username.github.io/cn/2014/03/01/people-mobo-gao</link>
+                <guid>http://username.github.io/cn/2014/03/01/people-mobo-gao</guid>
                 <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -505,9 +500,6 @@ See is honoured to be a part of the troupe, honoured to be able to work for the 
         <item>
                 <title>Huijun Geng</title>
                 <description>
-&lt;p&gt;Huijun Geng
-Honorary Artistic Director/Choreographer&lt;/p&gt;
-
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
 &lt;p&gt;Huijun Geng has an exceptionally enthusiastic and persistent attitude towards her dance career. Meticulous and dedicated in her creative work, she is honest, kind, and humorous in her personal life. Having been professionally trained and embracing her love for dance since a young age, the evidence is apparent through her determined pursuit and diligent research into the dance programs she has choreographed. From performer to choreographer, the 40 years of her career has been inundated with an entire life of experience and effort, and has given outstanding contributions to Shandong’s dance and cultural enterprises.&lt;/p&gt;
 
@@ -537,16 +529,14 @@ Honorary Artistic Director/Choreographer&lt;/p&gt;
   &lt;li&gt;2012 - choreographed “Proud Child of the Red Flag” which won second prize at the 3rd University Students Art Festival hosted by the Ministry of Education.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-                <link>http://username.github.io/home/2014/03/01/people-huijun-geng</link>
-                <guid>http://username.github.io/home/2014/03/01/people-huijun-geng</guid>
+                <link>http://username.github.io/2014/03/01/people-huijun-geng</link>
+                <guid>http://username.github.io/2014/03/01/people-huijun-geng</guid>
                 <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
         <item>
                 <title>耿惠君</title>
                 <description>
-&lt;p&gt;荣誉艺术总监/编导&lt;/p&gt;
-
 &lt;h3 id=&quot;section&quot;&gt;介绍：&lt;/h3&gt;
 
 &lt;p&gt;耿惠君对舞蹈事业有着非常的热情和执着。在舞蹈创作里一丝不苟、敬业无私，为人坦荡耿直、善良而幽默。自幼经过专业舞蹈训练，酷爱自己的舞蹈事业，在她执着追求和刻苦钻研的舞蹈领域里舞蹈剧目的编导成绩尤为突出。从演员到舞蹈编导在将近40年的舞蹈生涯中倾注了她毕生的经历和心血，也为山东的舞蹈和文化事业做出了卓越的贡献。&lt;/p&gt;
@@ -579,8 +569,8 @@ Honorary Artistic Director/Choreographer&lt;/p&gt;
 &lt;/ul&gt;
 
 </description>
-                <link>http://username.github.io/cn/home/2014/03/01/people-huijun-geng</link>
-                <guid>http://username.github.io/cn/home/2014/03/01/people-huijun-geng</guid>
+                <link>http://username.github.io/cn/2014/03/01/people-huijun-geng</link>
+                <guid>http://username.github.io/cn/2014/03/01/people-huijun-geng</guid>
                 <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
@@ -613,20 +603,6 @@ Honorary Artistic Director/Choreographer&lt;/p&gt;
         </item>
 
         <item>
-                <title>钟玉婷（Abbee）</title>
-                <description>
-&lt;p&gt;华夏君梅艺术团驻团化妆师
-毕业于 Media Makeup 专业化妝学院，工作从事于结婚照的新娘妆塑、愛情微电影拍攝化妆师、还有各种宴会的妝面造型、廣告拍攝的化妆，不管是亞洲人還是西方人的妝面造型同样熟悉， 堅持為每一位模特打造最适合，独特的妝容和造型。Abbee 在化妆事业的道路上不是太久，但是她有自己的洞察力和创造力，明锐的专业视觉让她在这片领域充分自由发挥着自己独特的风格，在前卫和古典两个完全不同的风格里切换的很得体。
-另外Abbee在小學六年級開始学习古箏，初二完成古箏8級证书，初中毕业学完十級，愛好艺术和一切美的事物。
-在本团未来的演出和作品里，会看到她的化妆风格的。&lt;/p&gt;
-
-</description>
-                <link>http://username.github.io/cn/2014/03/01/people-abbee</link>
-                <guid>http://username.github.io/cn/2014/03/01/people-abbee</guid>
-                <pubDate>2014-03-01T00:00:00+10:30</pubDate>
-        </item>
-
-        <item>
                 <title>Abbee</title>
                 <description>
 &lt;p&gt;Zhong Yuting (Abbee) Hua Xia Junmei Troupe Resident makeup artist 
@@ -640,26 +616,17 @@ You will have the chance to see her makeup style in this group’s future perfor
         </item>
 
         <item>
-                <title>Fork Dance</title>
+                <title>钟玉婷（Abbee）</title>
                 <description>
-&lt;div class=&quot;content-wrapper&quot;&gt;
-	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
-		&lt;h1&gt;Fork Dance&lt;/h1&gt;
-		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
-		&lt;div class=&quot;col-lg-12&quot;&gt;
-		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
-			这是中文页面。
-		&lt;/div&gt;
-		&lt;div class=&quot;col-lg-3&quot;&gt;
-			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
-		&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;华夏君梅艺术团驻团化妆师
+毕业于 Media Makeup 专业化妝学院，工作从事于结婚照的新娘妆塑、愛情微电影拍攝化妆师、还有各种宴会的妝面造型、廣告拍攝的化妆，不管是亞洲人還是西方人的妝面造型同样熟悉， 堅持為每一位模特打造最适合，独特的妝容和造型。Abbee 在化妆事业的道路上不是太久，但是她有自己的洞察力和创造力，明锐的专业视觉让她在这片领域充分自由发挥着自己独特的风格，在前卫和古典两个完全不同的风格里切换的很得体。
+另外Abbee在小學六年級開始学习古箏，初二完成古箏8級证书，初中毕业学完十級，愛好艺术和一切美的事物。
+在本团未来的演出和作品里，会看到她的化妆风格的。&lt;/p&gt;
 
-	&lt;/div&gt;
-&lt;/div&gt;
 </description>
-                <link>http://username.github.io/cn/2014/02/07/class-name</link>
-                <guid>http://username.github.io/cn/2014/02/07/class-name</guid>
-                <pubDate>2014-02-07T00:00:00+10:30</pubDate>
+                <link>http://username.github.io/cn/2014/03/01/people-abbee</link>
+                <guid>http://username.github.io/cn/2014/03/01/people-abbee</guid>
+                <pubDate>2014-03-01T00:00:00+10:30</pubDate>
         </item>
 
         <item>
@@ -686,6 +653,29 @@ You will have the chance to see her makeup style in this group’s future perfor
         </item>
 
         <item>
+                <title>Fork Dance</title>
+                <description>
+&lt;div class=&quot;content-wrapper&quot;&gt;
+	&lt;div class=&quot;row&quot; style=&quot;padding-left: 15px&quot;&gt;
+		&lt;h1&gt;Fork Dance&lt;/h1&gt;
+		&lt;span style=&quot;font-weight: 500; font-size: 20px;&quot;&gt;Introduction:&lt;/span&gt;
+		&lt;div class=&quot;col-lg-12&quot;&gt;
+		&lt;div class=&quot;col-lg-9&quot; style=&quot;float:left; padding-top: 7%;&quot;&gt;
+			这是中文页面。
+		&lt;/div&gt;
+		&lt;div class=&quot;col-lg-3&quot;&gt;
+			&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/images/touxiang2.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;margin-bottom: 7%; float: right; width: 200px; height: 200px;&quot; /&gt;
+		&lt;/div&gt;&lt;/div&gt;
+
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+                <link>http://username.github.io/cn/2014/02/07/class-name</link>
+                <guid>http://username.github.io/cn/2014/02/07/class-name</guid>
+                <pubDate>2014-02-07T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
                 <title>hip hop</title>
                 <description>
 </description>
@@ -701,6 +691,60 @@ You will have the chance to see her makeup style in this group’s future perfor
                 <link>http://username.github.io/cn/2014/02/01/class-hip-hop</link>
                 <guid>http://username.github.io/cn/2014/02/01/class-hip-hop</guid>
                 <pubDate>2014-02-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>carousel3</title>
+                <description>
+</description>
+                <link>http://username.github.io/2014/01/01/carousel-carousel3</link>
+                <guid>http://username.github.io/2014/01/01/carousel-carousel3</guid>
+                <pubDate>2014-01-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>carousel3</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2014/01/01/carousel-carousel3</link>
+                <guid>http://username.github.io/cn/2014/01/01/carousel-carousel3</guid>
+                <pubDate>2014-01-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>carousel2</title>
+                <description>
+</description>
+                <link>http://username.github.io/2014/01/01/carousel-carousel2</link>
+                <guid>http://username.github.io/2014/01/01/carousel-carousel2</guid>
+                <pubDate>2014-01-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>carousel2</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2014/01/01/carousel-carousel2</link>
+                <guid>http://username.github.io/cn/2014/01/01/carousel-carousel2</guid>
+                <pubDate>2014-01-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>carousel1</title>
+                <description>
+</description>
+                <link>http://username.github.io/2014/01/01/carousel-carousel1</link>
+                <guid>http://username.github.io/2014/01/01/carousel-carousel1</guid>
+                <pubDate>2014-01-01T00:00:00+10:30</pubDate>
+        </item>
+
+        <item>
+                <title>carousel1</title>
+                <description>
+</description>
+                <link>http://username.github.io/cn/2014/01/01/carousel-carousel1</link>
+                <guid>http://username.github.io/cn/2014/01/01/carousel-carousel1</guid>
+                <pubDate>2014-01-01T00:00:00+10:30</pubDate>
         </item>
 
 

@@ -78,7 +78,8 @@
 .sidebar-nav li a:hover {
     text-decoration: none;
     color: #fff;
-    background: #8C2641 opacity: 1 !important;
+    background: #8C2641;
+    opacity: 1 !important;
 }
 .sidebar-nav li a:active, .sidebar-nav li a:focus {
     text-decoration: none;
