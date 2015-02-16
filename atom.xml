@@ -4,7 +4,7 @@
  <title>Dynamism Dance</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-02-16T14:51:43+10:30</updated>
+ <updated>2015-02-16T18:24:18+10:30</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Name Lastname</name>
@@ -17,7 +17,19 @@
    <link href="http://username.github.io/2015/02/16/news-fourth"/>
    <updated>2015-02-16T00:00:00+10:30</updated>
    <id>http://username.github.io/2015/02/16/news-fourth</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.&lt;/p&gt;
+
+&lt;p&gt;here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.&lt;/p&gt;
+
+&lt;p&gt;here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.&lt;/p&gt;
+
+&lt;p&gt;here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.&lt;/p&gt;
+
+&lt;p&gt;here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.&lt;/p&gt;
+
+&lt;p&gt;here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.&lt;/p&gt;
+
+&lt;p&gt;here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.here is a sentence.&lt;/p&gt;
 </content>
  </entry>
  
@@ -68,18 +80,18 @@
  
  <entry>
    <title>This is the newest news</title>
-   <link href="http://username.github.io/cn/2015/02/15/news-this-is-the-newest-news"/>
+   <link href="http://username.github.io/2015/02/15/news-this-is-the-newest-news"/>
    <updated>2015-02-15T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2015/02/15/news-this-is-the-newest-news</id>
+   <id>http://username.github.io/2015/02/15/news-this-is-the-newest-news</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>This is the newest news</title>
-   <link href="http://username.github.io/2015/02/15/news-this-is-the-newest-news"/>
+   <link href="http://username.github.io/cn/2015/02/15/news-this-is-the-newest-news"/>
    <updated>2015-02-15T00:00:00+10:30</updated>
-   <id>http://username.github.io/2015/02/15/news-this-is-the-newest-news</id>
+   <id>http://username.github.io/cn/2015/02/15/news-this-is-the-newest-news</id>
    <content type="html">
 </content>
  </entry>
@@ -126,6 +138,22 @@
  </entry>
  
  <entry>
+   <title>The Dynamism Youth Dance Group</title>
+   <link href="http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group"/>
+   <updated>2014-04-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</id>
+   <content type="html">
+&lt;h2 id=&quot;the-dynamism-youth-dance-group&quot;&gt;The Dynamism Youth Dance Group&lt;/h2&gt;
+
+&lt;p&gt;Dance is an integrated art form, combining the physical, the artistic, the intellectual and the spiritual in one, and as such is an activity that is beneficial to all aspects of development in young people, as well as enriching their lives out of academic study. Dance education is unique in that its effect on primary and secondary school students cannot be provided through other subjects. For example, dance in primary education can contribute to character building, encouraging students to sense and express beauty. At the same time, teachers must seize the opportunity to appeal to students’ psychological needs via rewarding and appreciation, in order for dance to better exert its positive influence on their growth. Generally speaking, extensive use of dance in primary and secondary education would aid the physical and mental development of children and teens in every constructive way, as it is the ideal method in which students may learn to experience, recognise, understand, and convey the concept of beauty.&lt;/p&gt;
+
+&lt;p&gt;Dance can improve fitness and correct bad posture, leading to coordination and grace in one’s movement. Dance training transforms students’ attitudes from passive to assertive, thus training their ability to self-discipline and strengthen willpower. School-aged children are at the stage of life where they are highly curious, active, driven to imitate and perform – traits which can all be fulfilled in a dance lesson. Dance performance requires students to use a high amount of energy, having to practice each move repeatedly, which makes it an activity requiring much hard work, thus, training students’ confidence and motivation to overcome difficulties. Dance also promotes the sense of team pride and honour. Children’s dance classes usually train as a large group initially, then forming set teams during rehearsal and performance. A successful performance is the result of everybody’s work, which gives all involved a sense of team spirit. This sense of team spirit acquired through dance may then be transferred upon the class and the school, perhaps even the culture, the country.&lt;/p&gt;
+
+&lt;p&gt;Because of the many educational roles of dance, we have founded the dance group to be one that is suitable for the developmental needs of primary and high school students, and deeply connected with all its aspects. While studying dance, students are also influenced and inspired by music, so it could be said that dance can also be used to explain music. Quoting famous Chinese musician Wu Zuqiang: “In a certain sense, in the art of dance, music is the voice of dance, while dance is the body of music. It is an artistic imagination’s product of perfection.”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>活力青少年舞蹈团</title>
    <link href="http://username.github.io/cn/2014/04/01/group-the-dynamism-youth-dance-group"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
@@ -143,22 +171,6 @@
 
 &lt;p&gt;基于舞蹈的种种教育作用，我们把创建舞蹈社团，使它们相互关联、亲密配合，使之更适合中小学生的发展要求。学生在学习舞蹈的同时，亦受到音乐的熏陶，在某种程度上说，舞蹈亦用来解释音乐，借用我国著名音乐家吴祖强的话说：“从一定意义上说：在舞蹈艺术中，音乐是舞蹈的声音，舞蹈则是音乐的形体，一个有形上反映人的指挥的至美的艺术想象产物之一”。&lt;/p&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>The Dynamism Youth Dance Group</title>
-   <link href="http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group"/>
-   <updated>2014-04-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/04/01/group-the-dynamism-youth-dance-group</id>
-   <content type="html">
-&lt;h2 id=&quot;the-dynamism-youth-dance-group&quot;&gt;The Dynamism Youth Dance Group&lt;/h2&gt;
-
-&lt;p&gt;Dance is an integrated art form, combining the physical, the artistic, the intellectual and the spiritual in one, and as such is an activity that is beneficial to all aspects of development in young people, as well as enriching their lives out of academic study. Dance education is unique in that its effect on primary and secondary school students cannot be provided through other subjects. For example, dance in primary education can contribute to character building, encouraging students to sense and express beauty. At the same time, teachers must seize the opportunity to appeal to students’ psychological needs via rewarding and appreciation, in order for dance to better exert its positive influence on their growth. Generally speaking, extensive use of dance in primary and secondary education would aid the physical and mental development of children and teens in every constructive way, as it is the ideal method in which students may learn to experience, recognise, understand, and convey the concept of beauty.&lt;/p&gt;
-
-&lt;p&gt;Dance can improve fitness and correct bad posture, leading to coordination and grace in one’s movement. Dance training transforms students’ attitudes from passive to assertive, thus training their ability to self-discipline and strengthen willpower. School-aged children are at the stage of life where they are highly curious, active, driven to imitate and perform – traits which can all be fulfilled in a dance lesson. Dance performance requires students to use a high amount of energy, having to practice each move repeatedly, which makes it an activity requiring much hard work, thus, training students’ confidence and motivation to overcome difficulties. Dance also promotes the sense of team pride and honour. Children’s dance classes usually train as a large group initially, then forming set teams during rehearsal and performance. A successful performance is the result of everybody’s work, which gives all involved a sense of team spirit. This sense of team spirit acquired through dance may then be transferred upon the class and the school, perhaps even the culture, the country.&lt;/p&gt;
-
-&lt;p&gt;Because of the many educational roles of dance, we have founded the dance group to be one that is suitable for the developmental needs of primary and high school students, and deeply connected with all its aspects. While studying dance, students are also influenced and inspired by music, so it could be said that dance can also be used to explain music. Quoting famous Chinese musician Wu Zuqiang: “In a certain sense, in the art of dance, music is the voice of dance, while dance is the body of music. It is an artistic imagination’s product of perfection.”&lt;/p&gt;
 </content>
  </entry>
  
@@ -219,35 +231,6 @@
  </entry>
  
  <entry>
-   <title>龚伊翎</title>
-   <link href="http://username.github.io/cn/2014/03/14/people-yiling-gong"/>
-   <updated>2014-03-14T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/14/people-yiling-gong</id>
-   <content type="html">
-&lt;p&gt;艺术团团长秘书
-代理办公室主任&lt;/p&gt;
-
-&lt;p&gt;联系方式
-办公号码：（08）70739237
-手机号码:  0451 960 321
-Email: dynamismdance@gmail.com
-地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
-
-&lt;p&gt;学历
-2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
-
-&lt;p&gt;语言
-能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
-
-&lt;p&gt;电脑技能
-能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
-
-&lt;p&gt;兴趣爱好
-音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Yiling Gong</title>
    <link href="http://username.github.io/2014/03/14/people-yiling-gong"/>
    <updated>2014-03-14T00:00:00+10:30</updated>
@@ -274,6 +257,35 @@ Can use software such as Microsoft Word, Publisher and PowerPoint at advanced le
 
 &lt;p&gt;Hobbies and interests
 Music (singing, violin, piano, electronic production), visual art, creative writing.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>龚伊翎</title>
+   <link href="http://username.github.io/cn/2014/03/14/people-yiling-gong"/>
+   <updated>2014-03-14T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/14/people-yiling-gong</id>
+   <content type="html">
+&lt;p&gt;艺术团团长秘书
+代理办公室主任&lt;/p&gt;
+
+&lt;p&gt;联系方式
+办公号码：（08）70739237
+手机号码:  0451 960 321
+Email: dynamismdance@gmail.com
+地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
+
+&lt;p&gt;学历
+2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
+
+&lt;p&gt;语言
+能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
+
+&lt;p&gt;电脑技能
+能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
+
+&lt;p&gt;兴趣爱好
+音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
 </content>
  </entry>
  
@@ -305,24 +317,6 @@ Guo’s position in the group is of no relation to her position at her current w
  </entry>
  
  <entry>
-   <title>胡心舒</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-xinshu-hu"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-xinshu-hu</id>
-   <content type="html">
-&lt;p&gt;擅长：民族舞、中国舞、New Jazz、Girl’s Hip-Hop&lt;/p&gt;
-
-&lt;p&gt;习舞六年，八岁起跟随云南省知名舞蹈家李永惠学习舞蹈，
-期间加入小麒麟艺术团，排演大型舞蹈舞剧十余场，曾跟随艺术团赴天津、杭州、香港等地进行文化艺术交流与学习。&lt;/p&gt;
-
-&lt;p&gt;母亲亦为舞蹈家，曾担任云南省花灯剧团演员。&lt;/p&gt;
-
-&lt;p&gt;大学期间组建女子校园街舞社团，带领团员商演，校园演出三十余场。&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Xinshu Hu</title>
    <link href="http://username.github.io/2014/03/01/people-xinshu-hu"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -342,24 +336,20 @@ Guo’s position in the group is of no relation to her position at her current w
  </entry>
  
  <entry>
-   <title>李雯</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-wen-li"/>
+   <title>胡心舒</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-xinshu-hu"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-wen-li</id>
+   <id>http://username.github.io/cn/2014/03/01/people-xinshu-hu</id>
    <content type="html">
-&lt;p&gt;专长                                                                          &lt;br /&gt;
-中国民族民间舞八级、古典舞
-演出历史                                                                          &lt;br /&gt;
-2014年中国农业大学SKY动漫社15周年社庆“妙舞繁音”扇子舞表演
-2014年清华大学舞蹈协会古典舞汇报演出“雪中梅”扇子舞表演
-2012年京交会玄机秦时明月宣传商业演出
-2011年临界·肆“三国杀”群舞古典舞表演
-2011年CJ漫展“三国杀”群舞古典舞表演
-2010年中国农业大学生物学院迎新晚会街舞“Give Me More”表演
-2001年鼓浪屿海峡两岸文化交流节民族民间舞“糖葫芦”
-其他                                                                          &lt;br /&gt;
-性格：踏实肯干、细心谨慎、勤奋好学、严于律己、温和大方
-爱好：摄影、舞蹈、动漫、绘画&lt;/p&gt;
+&lt;p&gt;擅长：民族舞、中国舞、New Jazz、Girl’s Hip-Hop&lt;/p&gt;
+
+&lt;p&gt;习舞六年，八岁起跟随云南省知名舞蹈家李永惠学习舞蹈，
+期间加入小麒麟艺术团，排演大型舞蹈舞剧十余场，曾跟随艺术团赴天津、杭州、香港等地进行文化艺术交流与学习。&lt;/p&gt;
+
+&lt;p&gt;母亲亦为舞蹈家，曾担任云南省花灯剧团演员。&lt;/p&gt;
+
+&lt;p&gt;大学期间组建女子校园街舞社团，带领团员商演，校园演出三十余场。&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -387,6 +377,28 @@ Performing Experience                                                           
       Welcome Party of College of Biology in China Agricultural University
 Hobbies                                                                                   &lt;br /&gt;
 Dance, Photography, Animation, Painting&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>李雯</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-wen-li"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/people-wen-li</id>
+   <content type="html">
+&lt;p&gt;专长                                                                          &lt;br /&gt;
+中国民族民间舞八级、古典舞
+演出历史                                                                          &lt;br /&gt;
+2014年中国农业大学SKY动漫社15周年社庆“妙舞繁音”扇子舞表演
+2014年清华大学舞蹈协会古典舞汇报演出“雪中梅”扇子舞表演
+2012年京交会玄机秦时明月宣传商业演出
+2011年临界·肆“三国杀”群舞古典舞表演
+2011年CJ漫展“三国杀”群舞古典舞表演
+2010年中国农业大学生物学院迎新晚会街舞“Give Me More”表演
+2001年鼓浪屿海峡两岸文化交流节民族民间舞“糖葫芦”
+其他                                                                          &lt;br /&gt;
+性格：踏实肯干、细心谨慎、勤奋好学、严于律己、温和大方
+爱好：摄影、舞蹈、动漫、绘画&lt;/p&gt;
 </content>
  </entry>
  
@@ -472,6 +484,19 @@ Professor Gao’s position in the group is of no relation to his position at his
  </entry>
  
  <entry>
+   <title>施国华</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-k-see"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/people-k-see</id>
+   <content type="html">
+&lt;p&gt;名誉团长及文化、旅游、商业顾问
+施先生是中华总商会现任会长、南澳华人福利会副会长、南澳商展促进部特任大使、施兄弟海鲜公司的总经理。这些年的发展有目共睹，对中华总商会施先生倾注了大量的时间和感情，近几年商会的发展迅速活动频繁，他经常要放弃自己的生意和时间去参加和组织商会的各种活动，他说自己是个普通的商人，但热衷于社团的建设发展，热心于华人的事业发展，所以他会花费自己的时间精力、财力物力放在社会活动中。在施先生的领导下总商会致力推动南澳和中国的商贸往来和文化传播。
+对于南澳未来的展示，施先生充满了期待和憧憬，他说：“谁都知道做社团难做，我也深有体会，但是即使难做我也会坚持下去，我们华人不是爱说‘取之社会，用之社会’吗？”
+融入华夏君梅艺术团很荣幸，能为华人的文化生活和文化传播做些工作也是一种荣誉，同时把两国的舞蹈文化艺术互相传播和互相融合创作是艺术团未来的计划和大胆尝试，衷心希望华夏君梅艺术团前途无量！&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>K See</title>
    <link href="http://username.github.io/2014/03/01/people-k-see"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -483,19 +508,6 @@ See is full of anticipation and longing when it comes to South Australia’s fut
 See is honoured to be a part of the troupe, honoured to be able to work for the cultural life and cultural promotion of the Chinese community, especially while the fusion of the two countries’ dance culture is the troupe’s future plan and a brave attempt. He sincerely wishes the troupe a promising future.&lt;/p&gt;
 
 &lt;p&gt;Kok Wah See position in the group is of no relation to his position at his current workplace, and was in accordance with his own will.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>施国华</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-k-see"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-k-see</id>
-   <content type="html">
-&lt;p&gt;名誉团长及文化、旅游、商业顾问
-施先生是中华总商会现任会长、南澳华人福利会副会长、南澳商展促进部特任大使、施兄弟海鲜公司的总经理。这些年的发展有目共睹，对中华总商会施先生倾注了大量的时间和感情，近几年商会的发展迅速活动频繁，他经常要放弃自己的生意和时间去参加和组织商会的各种活动，他说自己是个普通的商人，但热衷于社团的建设发展，热心于华人的事业发展，所以他会花费自己的时间精力、财力物力放在社会活动中。在施先生的领导下总商会致力推动南澳和中国的商贸往来和文化传播。
-对于南澳未来的展示，施先生充满了期待和憧憬，他说：“谁都知道做社团难做，我也深有体会，但是即使难做我也会坚持下去，我们华人不是爱说‘取之社会，用之社会’吗？”
-融入华夏君梅艺术团很荣幸，能为华人的文化生活和文化传播做些工作也是一种荣誉，同时把两国的舞蹈文化艺术互相传播和互相融合创作是艺术团未来的计划和大胆尝试，衷心希望华夏君梅艺术团前途无量！&lt;/p&gt;
 </content>
  </entry>
  
@@ -577,20 +589,6 @@ See is honoured to be a part of the troupe, honoured to be able to work for the 
  </entry>
  
  <entry>
-   <title>Bin Jia</title>
-   <link href="http://username.github.io/2014/03/01/people-bin-jia"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-bin-jia</id>
-   <content type="html">
-&lt;p&gt;Bin (Kit) JIA （Art troupe) &lt;/p&gt;
-
-&lt;p&gt;Bin graduated from Bachelor of Wine Marketing at the University of Adelaide, and later, Master of Accounting and Finance from UniSA. During the past four years, Bin has been involved in diverse cultural events, and through such events, she had the chance to introduce Australian wine and food and diverse culture into different cities in China.&lt;/p&gt;
-
-&lt;p&gt;Bin is currently working at a winery in the Barossa Valley, and responsible for wine tasting in the winery, wine marketing and accounting. Bin is very passionate about wine and has 4 years of experience in wine industry. She passed WSET Level 2 and had worked for a magazine to publish a special edition about Australian wine. Bin is an associate member of CPA Australia, and has 3 years of experience in the field of accounting.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>贾彬</title>
    <link href="http://username.github.io/cn/2014/03/01/people-bin-jia"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
@@ -605,15 +603,16 @@ See is honoured to be a part of the troupe, honoured to be able to work for the 
  </entry>
  
  <entry>
-   <title>Abbee</title>
-   <link href="http://username.github.io/2014/03/01/people-abbee"/>
+   <title>Bin Jia</title>
+   <link href="http://username.github.io/2014/03/01/people-bin-jia"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-abbee</id>
+   <id>http://username.github.io/2014/03/01/people-bin-jia</id>
    <content type="html">
-&lt;p&gt;Zhong Yuting (Abbee) Hua Xia Junmei Troupe Resident makeup artist 
-Graduated from Media Makeup Institute, working in bridal makeup, love-themed micro-filming make-up artist, as well as a variety of banquet makeup styling and makeup for advertising, striving to deliver the most unique and suitable makeup and styling for each and every Asian and Western model alike. Abbee’s career path in makeup is not yet long, but her professional insight and creativity in this field enables her full freedom in the expression of her special style, easily and gracefully transitioning between avant-garde and classical.
-Abbee also commenced studies in the guzheng during her sixth year in primary school, acquiring a Grade 8 certificate in the instrument during her second year in high school, reaching completion of Grade 10 level studies by the time she graduated junior high. 
-You will have the chance to see her makeup style in this group’s future performances and works.&lt;/p&gt;
+&lt;p&gt;Bin (Kit) JIA （Art troupe) &lt;/p&gt;
+
+&lt;p&gt;Bin graduated from Bachelor of Wine Marketing at the University of Adelaide, and later, Master of Accounting and Finance from UniSA. During the past four years, Bin has been involved in diverse cultural events, and through such events, she had the chance to introduce Australian wine and food and diverse culture into different cities in China.&lt;/p&gt;
+
+&lt;p&gt;Bin is currently working at a winery in the Barossa Valley, and responsible for wine tasting in the winery, wine marketing and accounting. Bin is very passionate about wine and has 4 years of experience in wine industry. She passed WSET Level 2 and had worked for a magazine to publish a special edition about Australian wine. Bin is an associate member of CPA Australia, and has 3 years of experience in the field of accounting.&lt;/p&gt;
 </content>
  </entry>
  
@@ -628,6 +627,19 @@ You will have the chance to see her makeup style in this group’s future perfor
 另外Abbee在小學六年級開始学习古箏，初二完成古箏8級证书，初中毕业学完十級，愛好艺术和一切美的事物。
 在本团未来的演出和作品里，会看到她的化妆风格的。&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Abbee</title>
+   <link href="http://username.github.io/2014/03/01/people-abbee"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/03/01/people-abbee</id>
+   <content type="html">
+&lt;p&gt;Zhong Yuting (Abbee) Hua Xia Junmei Troupe Resident makeup artist 
+Graduated from Media Makeup Institute, working in bridal makeup, love-themed micro-filming make-up artist, as well as a variety of banquet makeup styling and makeup for advertising, striving to deliver the most unique and suitable makeup and styling for each and every Asian and Western model alike. Abbee’s career path in makeup is not yet long, but her professional insight and creativity in this field enables her full freedom in the expression of her special style, easily and gracefully transitioning between avant-garde and classical.
+Abbee also commenced studies in the guzheng during her sixth year in primary school, acquiring a Grade 8 certificate in the instrument during her second year in high school, reaching completion of Grade 10 level studies by the time she graduated junior high. 
+You will have the chance to see her makeup style in this group’s future performances and works.&lt;/p&gt;
 </content>
  </entry>
  
@@ -679,18 +691,18 @@ You will have the chance to see her makeup style in this group’s future perfor
  
  <entry>
    <title>hip hop</title>
-   <link href="http://username.github.io/2014/02/01/class-hip-hop"/>
+   <link href="http://username.github.io/cn/2014/02/01/class-hip-hop"/>
    <updated>2014-02-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/02/01/class-hip-hop</id>
+   <id>http://username.github.io/cn/2014/02/01/class-hip-hop</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>hip hop</title>
-   <link href="http://username.github.io/cn/2014/02/01/class-hip-hop"/>
+   <link href="http://username.github.io/2014/02/01/class-hip-hop"/>
    <updated>2014-02-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/02/01/class-hip-hop</id>
+   <id>http://username.github.io/2014/02/01/class-hip-hop</id>
    <content type="html">
 </content>
  </entry>
