@@ -21,7 +21,7 @@ description: ""
                 <a href="{{post.url}}">
                     <h1>{{post.title}}</h1>
                     <div class="meta">By Dynamism Dance on {{ post.date | date:"%Y-%m-%d" }}</div>
-                    <span class="thumb" style="background-image:url({{post.image}});"></span>
+                    <span class="thumb" style="background-image:url('/assets/images/news/{{post.title}}.jpg');"></span>
                     <h2></h2>
                 </a>
                 {{ post.excerpt }}

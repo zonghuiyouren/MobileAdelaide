@@ -385,3 +385,61 @@ span.text-class span {
 .homeclasses:hover{
     background-color: red;
 } 
+
+
+.box
+{
+  padding: 2em;
+}
+.box
+{
+  background: #fff;
+  box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.15), 0px 2px 3px 0px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.box.style h3
+{
+  margin-bottom: 0.25em;
+}
+
+.box.style .image
+{
+  position: relative;
+  left: 2em;
+  top: 2em;
+  margin: -4em 0 4em -4em;
+  width: auto;
+}
+
+
+.image {
+    display: inline-block;
+    position: relative;
+}
+.image img {
+    display: block;
+    width: 100%;
+}
+.image.fit {
+    display: block;
+    width: 100%;
+}
+.image.featured {
+    display: block;
+    width: 100%;
+    margin: 0 0 2em 0;
+}
+.image.left {
+    float: left;
+    margin: 0 2em 2em 0;
+}
+.image.centered {
+    display: block;
+    margin: 0 0 2em 0;
+}
+.image.centered img {
+    margin: 0 auto;
+    width: auto;
+}
+

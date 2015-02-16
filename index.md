@@ -17,32 +17,25 @@ tagline: Supporting tagline
 <!-- Example row of columns -->
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+    {% for carousel in site.tags.carousel %}
+      {% if carousel.language == page.language %}
+        <li data-target="#carousel-example-generic" data-slide-to="{{forloop.index0 | divided_by: 2}}" class="{{carousel.tags[1]}}"></li>
+      {% endif %}
+    {% endfor %}
   </ol>
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel1.jpg'); background-position:center;">
-        <div class="carousel-caption">
-          <p lingdex="133"> Not First slide description</p>
+    {% for carousel in site.tags.carousel %}
+      {% if carousel.language == page.language %}
+        <div class="item {{carousel.tags[1]}}">
+          <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel/{{carousel.image}}');">
+            <div class="carousel-caption">
+              <h3>{{carousel.title}}</h3>
+              <p lingdex="133">{{carousel.description}}</p>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel2.jpg');">
-      <div class="carousel-caption">
-        <p lingdex="133">Second slide description</p>
-      </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="fill" style="background-image:url('{{ HOME_PATH }}assets/images/carousel3.jpg');">
-      <div class="carousel-caption">
-        <p lingdex="133">Third slide description</p>
-      </div>
-      </div>
-    </div>
+      {% endif %}
+    {% endfor %}
   </div>
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -66,29 +59,18 @@ tagline: Supporting tagline
   <div class="container-fluid" style="background-color:rgba(255,255,255,0.8); padding-top: 60px;">
     <div class="container" >
       <div class="row">
-        <div class="col-sm-4">
-          {% for qingmei in site.tags.qingmei %}
-            {% if qingmei.language == page.language %}
-              {% assign theurl = qingmei.url %}
+          {% for vip in site.tags.vip %}
+            {% if vip.language == page.language %}
+              <div class="col-sm-4">
+                <img class="img-circle" src="{{ HOME_PATH }}assets/images/home/{{vip.image}}" alt="{{vip.title}}" style="width: 140px; height: 140px;">
+                <h2>{{vip.title}}</h2>
+                <p><strong>{{vip.position}}</strong></p>
+                <p>{{vip.description}}</p>
+                <p><a class="btn btn-default" href="{{vip.url}}" role="button">View details &raquo;</a></p>
+              </div><!-- /.col-md-4 -->
             {% endif %}
           {% endfor %}
-          <img class="img-circle" src="{{ HOME_PATH }}assets/images/head1.jpeg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Qingmei Zhou</h2>
-          <p><strong>Artistic Director and Head of Group</strong></p>
-          <p><a class="btn btn-default" href="{{theurl}}" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-md-4 -->
 
-        <div class="col-sm-4">
-          {% for huijun in site.tags.huijun %}
-            {% if huijun.language == page.language %}
-              {% assign theurl = huijun.url %}
-            {% endif %}
-          {% endfor %}
-          <img class="img-circle" src="{{ HOME_PATH }}assets/images/home/GengHuijun.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Huijun Geng</h2>
-          <p><strong>Honorary Artistic Director/Choreographer</strong></p>
-          <p><a class="btn btn-default" href="{{theurl}}" role="button">View details &raquo;</a></p>
-        </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
     </div> <!-- /.container -->
   </div>
@@ -109,7 +91,7 @@ tagline: Supporting tagline
         <p><a class="btn btn-default" href="{{theurl}}" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-6">
-        <img class="featurette-image img-responsive" src="{{ HOME_PATH }}assets/images/feature2.jpg" alt="Generic placeholder image">
+        <img class="featurette-image img-responsive" src="{{ HOME_PATH }}assets/images/home/mei.png" alt="Generic placeholder image">
       </div>
     </div>
   </div>
@@ -129,8 +111,30 @@ tagline: Supporting tagline
 
 
 
+  <div class="row featurette" style="background-color:#f6f6f6">
+    <div class="container" style="padding-bottom: 20px;">
+      <!-- the limit here should be the double number of the news you want to post on the home page -->
+      {% for news in site.tags.news limit:6 %}
+        {% if page.language == news.language %}
+          <div class="col-md-4" style="padding-top: 20px;">
+            <article class="box style">
+              <a href="{{news.url}}" class="image featured"><img src="/assets/images/news/{{news.image}}" alt=""></a>
+              <h3><a href="{{news.url}}">{{news.title}}</a></h3>
+              <p>{{news.description}}</p>
+            </article>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div> 
 
 
+  <hr class="featurette-divider" >
+  <div class="row featurette" style="background-color:rgba(255,255,255,0.8);">
+    <div class="container" style="height:300px; text-align: center;">
+        <h2>Sponsors</h2>
+    </div>
+  </div>
 
 <!--   <div class="row featurette" style="background-color:#f6f6f6">
     <div class="container">

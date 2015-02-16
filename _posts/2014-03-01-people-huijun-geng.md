@@ -2,14 +2,13 @@
 layout: post
 title: "Huijun Geng"
 description: ""
-category: home
-tags: [people, huijun]
+category: 
+tags: [people, vip]
+position: "Honorary Artistic Director/Choreographer"
+image: "Huijun Geng.jpg"
 ---
 {% include JB/setup %}
 
-
-Huijun Geng
-Honorary Artistic Director/Choreographer
 
 ###Introduction: 
 Huijun Geng has an exceptionally enthusiastic and persistent attitude towards her dance career. Meticulous and dedicated in her creative work, she is honest, kind, and humorous in her personal life. Having been professionally trained and embracing her love for dance since a young age, the evidence is apparent through her determined pursuit and diligent research into the dance programs she has choreographed. From performer to choreographer, the 40 years of her career has been inundated with an entire life of experience and effort, and has given outstanding contributions to Shandong's dance and cultural enterprises.

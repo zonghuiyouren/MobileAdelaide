@@ -2,14 +2,12 @@
 layout: post
 title: "Qingmei Zhou"
 description: ""
-category: home
-tags: [people, qingmei]
+category: 
+tags: [people, vip]
+position: "Artistic Director and Head of Group"
 ---
 {% include JB/setup %}
 
-##Qingmei Zhou
-
-Artistic Director and Head of Group:
 The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.
 
 During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. 

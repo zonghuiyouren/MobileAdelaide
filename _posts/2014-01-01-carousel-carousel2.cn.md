@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "中文新闻第一篇"
+title: "carousel2"
 description: ""
 category: 
-tags: [news]
+image: "carousel2.jpg"
+tags: [carousel]
 ---
 {% include JB/setup %}

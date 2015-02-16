@@ -2,13 +2,15 @@
 layout: post
 title: "耿惠君"
 description: ""
-category: home
-tags: [people, huijun]
+category:
+tags: [people, vip]
+position: "荣誉艺术总监/编导"
+image: "Huijun Geng.jpg"
 ---
 {% include JB/setup %}
 
 
-荣誉艺术总监/编导
+
 
 ###介绍：
 
