@@ -224,7 +224,7 @@ The localisation of dance culture lends itself to be a unique narrative of Austr
                                 
                                 <div style="text-align: center;margin-left: auto;margin-right: auto; padding: 0px;">
                                     <a data-toggle="collapse" data-parent="#panel-body" href="#TheMeiContemporaryDanceGroupClps">
-                                    <i class="fa fa-chevron-down" style="padding: 0px;"></i>
+                                   <p class="click_advance"> <i class="fa fa-chevron-down" style="padding: 0px;"></i></p>
                                     </a>     
                                 </div>
                             </div>
@@ -262,7 +262,7 @@ Dance can improve fitness and correct bad posture, leading to coordination and g
                                 
                                 <div style="text-align: center;margin-left: auto;margin-right: auto; padding: 0px;">
                                     <a data-toggle="collapse" data-parent="#panel-body" href="#TheDynamismYouthDanceGroupClps">
-                                    <i class="fa fa-chevron-down" style="padding: 0px;"></i>
+                                   <p class="click_advance"> <i class="fa fa-chevron-down" style="padding: 0px;"></i></p>
                                     </a>     
                                 </div>
                             </div>
@@ -296,7 +296,7 @@ The orchestra’s aims are to promote folk music culture and to explore contempo
                                 
                                 <div style="text-align: center;margin-left: auto;margin-right: auto; padding: 0px;">
                                     <a data-toggle="collapse" data-parent="#panel-body" href="#TheDynamismContemporaryFolkOrchestraClps">
-                                    <i class="fa fa-chevron-down" style="padding: 0px;"></i>
+                                   <p class="click_advance"> <i class="fa fa-chevron-down" style="padding: 0px;"></i></p>
                                     </a>     
                                 </div>
                             </div>
@@ -332,7 +332,7 @@ Each group that branches from Mei’s Dance Group aims to deliver the most uniqu
                                 
                                 <div style="text-align: center;margin-left: auto;margin-right: auto; padding: 0px;">
                                     <a data-toggle="collapse" data-parent="#panel-body" href="#MeiClps">
-                                    <i class="fa fa-chevron-down" style="padding: 0px;"></i>
+                                   <p class="click_advance"> <i class="fa fa-chevron-down" style="padding: 0px;"></i></p>
                                     </a>     
                                 </div>
                             </div>
@@ -703,7 +703,12 @@ You will have the chance to see her makeup style in this group’s future perfor
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-
+    <script type="text/javascript">
+            $('.click_advance').click(function(){
+// $('#display_advance').toggle('1000');
+            $("i",this).toggleClass("fa-chevron-up fa-chevron-down");
+});
+    </script>
 </body>
 
 </html>
