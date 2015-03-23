@@ -4,7 +4,7 @@
  <title>Dynamism Dance</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-02-17T17:46:34+10:30</updated>
+ <updated>2015-03-13T01:01:27+10:30</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Name Lastname</name>
@@ -44,18 +44,18 @@
  
  <entry>
    <title>fifth</title>
-   <link href="http://username.github.io/cn/2015/02/16/news-fifth"/>
+   <link href="http://username.github.io/2015/02/16/news-fifth"/>
    <updated>2015-02-16T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2015/02/16/news-fifth</id>
+   <id>http://username.github.io/2015/02/16/news-fifth</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>fifth</title>
-   <link href="http://username.github.io/2015/02/16/news-fifth"/>
+   <link href="http://username.github.io/cn/2015/02/16/news-fifth"/>
    <updated>2015-02-16T00:00:00+10:30</updated>
-   <id>http://username.github.io/2015/02/16/news-fifth</id>
+   <id>http://username.github.io/cn/2015/02/16/news-fifth</id>
    <content type="html">
 </content>
  </entry>
@@ -98,6 +98,15 @@
  
  <entry>
    <title>This is the latest news</title>
+   <link href="http://username.github.io/2015/02/15/news-this-is-the-latest-news"/>
+   <updated>2015-02-15T00:00:00+10:30</updated>
+   <id>http://username.github.io/2015/02/15/news-this-is-the-latest-news</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>This is the latest news</title>
    <link href="http://username.github.io/cn/2015/02/15/news-this-is-the-latest-news"/>
    <updated>2015-02-15T00:00:00+10:30</updated>
    <id>http://username.github.io/cn/2015/02/15/news-this-is-the-latest-news</id>
@@ -106,10 +115,37 @@
  </entry>
  
  <entry>
-   <title>This is the latest news</title>
-   <link href="http://username.github.io/2015/02/15/news-this-is-the-latest-news"/>
-   <updated>2015-02-15T00:00:00+10:30</updated>
-   <id>http://username.github.io/2015/02/15/news-this-is-the-latest-news</id>
+   <title>CCCSA</title>
+   <link href="http://username.github.io/2014/06/02/sponsor-cccsa"/>
+   <updated>2014-06-02T00:00:00+09:30</updated>
+   <id>http://username.github.io/2014/06/02/sponsor-cccsa</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CCCSA</title>
+   <link href="http://username.github.io/cn/2014/06/02/sponsor-cccsa"/>
+   <updated>2014-06-02T00:00:00+09:30</updated>
+   <id>http://username.github.io/cn/2014/06/02/sponsor-cccsa</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hackham</title>
+   <link href="http://username.github.io/2014/06/01/sponsor-hackham"/>
+   <updated>2014-06-01T00:00:00+09:30</updated>
+   <id>http://username.github.io/2014/06/01/sponsor-hackham</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hackham</title>
+   <link href="http://username.github.io/cn/2014/06/01/sponsor-hackham"/>
+   <updated>2014-06-01T00:00:00+09:30</updated>
+   <id>http://username.github.io/cn/2014/06/01/sponsor-hackham</id>
    <content type="html">
 </content>
  </entry>
@@ -174,6 +210,18 @@ Dance can improve fitness and correct bad posture, leading to coordination and g
  </entry>
  
  <entry>
+   <title>The Dynamism Contemporary Folk Orchestra</title>
+   <link href="http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
+   <updated>2014-04-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra</id>
+   <content type="html">
+&lt;p&gt;The Dynamism Contemporary Folk Orchestra is a Chinese-Western fusion ensemble combining Chinese traditional musical instruments and standard modern orchestral instruments, founded in February 2014. It is Adelaide’s youngest, largest, most complete contemporary folk musical ensemble. Our members are experienced hobbyists from all walks of life, including students, makeup artists, company directors and accountants, brought together by a mutual love of music. The orchestra has been known for its unique originality, the symphonic characteristics of repertoire choice, and high level of proficiency since its establishment. Most notably, the ensemble fuses local musical culture, Chinese traditional music, as well as sounds from different eras, regions and styles around the world, which serves as a dazzling proof of the musicians’ capability. Orchestra members utilise rest time to compose and rehearse a range of new works drawing strong influences from the local cultural, social and artistic atmosphere that shine through their superb performance techniques, and of course, their tireless pursuit for musical excellency.
+&lt;!--more--&gt;
+The orchestra’s aims are to promote folk music culture and to explore contemporary music composition. The orchestra’s future plans include continued rehearsal of classical and contemporary works by Chinese and Western composers, while members will also write new pieces in which they present brave ideas and individual expression, combining elements of traditional Chinese culture, folk culture and a global vision in the context of composition, restructuring the modern perspective of unification of multiculturalism. Composition techniques are inventively modified and innovated from the traditional chamber music format, breaking the barriers between the traditional and the modern, the elegant and the down-to-earth, the east and the west. The musical styles of minority ethnic groups, folk art and contemporary sounds are combined perfectly in rich expressions of cultural character.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>活力现代民族乐团</title>
    <link href="http://username.github.io/cn/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
@@ -188,19 +236,7 @@ Dance can improve fitness and correct bad posture, leading to coordination and g
  </entry>
  
  <entry>
-   <title>The Dynamism Contemporary Folk Orchestra</title>
-   <link href="http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra"/>
-   <updated>2014-04-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/04/01/group-the-dynamism-contemporary-folk-orchestra</id>
-   <content type="html">
-&lt;p&gt;The Dynamism Contemporary Folk Orchestra is a Chinese-Western fusion ensemble combining Chinese traditional musical instruments and standard modern orchestral instruments, founded in February 2014. It is Adelaide’s youngest, largest, most complete contemporary folk musical ensemble. Our members are experienced hobbyists from all walks of life, including students, makeup artists, company directors and accountants, brought together by a mutual love of music. The orchestra has been known for its unique originality, the symphonic characteristics of repertoire choice, and high level of proficiency since its establishment. Most notably, the ensemble fuses local musical culture, Chinese traditional music, as well as sounds from different eras, regions and styles around the world, which serves as a dazzling proof of the musicians’ capability. Orchestra members utilise rest time to compose and rehearse a range of new works drawing strong influences from the local cultural, social and artistic atmosphere that shine through their superb performance techniques, and of course, their tireless pursuit for musical excellency.
-&lt;!--more--&gt;
-The orchestra’s aims are to promote folk music culture and to explore contemporary music composition. The orchestra’s future plans include continued rehearsal of classical and contemporary works by Chinese and Western composers, while members will also write new pieces in which they present brave ideas and individual expression, combining elements of traditional Chinese culture, folk culture and a global vision in the context of composition, restructuring the modern perspective of unification of multiculturalism. Composition techniques are inventively modified and innovated from the traditional chamber music format, breaking the barriers between the traditional and the modern, the elegant and the down-to-earth, the east and the west. The musical styles of minority ethnic groups, folk art and contemporary sounds are combined perfectly in rich expressions of cultural character.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Mei</title>
+   <title>Mei's Dance Group</title>
    <link href="http://username.github.io/2014/04/01/group-mei"/>
    <updated>2014-04-01T00:00:00+10:30</updated>
    <id>http://username.github.io/2014/04/01/group-mei</id>
@@ -227,6 +263,35 @@ Each group that branches from Mei’s Dance Group aims to deliver the most uniqu
 &lt;!--more--&gt;
 艺术团下属的所有舞蹈团以创作最具有中澳两国特色的、传统的、民间民族舞蹈艺术和当代舞蹈为目标，立志做高素质、高标准、与国际接轨的专业舞蹈团体，兼收并蓄各类艺术表现形式，以中国灿烂辉煌的民族文化为背景，研究探索民族传统文化与现代文化的结合与传承，借鉴西方现代艺术的表现形式，本着“传播两国舞蹈艺术文化、服务多元艺术文化、创作舞蹈艺术面向国际”的工作宗旨, 有着弘扬东方艺术，促进中澳交流，丰富文化生活,健美健身保青春的艺术宗旨。艺术团的舞蹈风格训练方式以舞蹈基本功训练、舞蹈组合训练、编排各种不同风格不同民族同时融入两国艺术文化的舞蹈成品. 普及现代舞蹈流行艺术；让热爱舞蹈艺术的人们能真正接触到与世界同步的前沿流行舞蹈艺术；挖掘、培养出舞团自己的具有世界级流行潜质的舞蹈艺术人才；提高人民的舞美艺术素质修养与审美意识，给各界朋友带来美的感受，共同为两国的艺术文化传播和交流做出我们的贡献.
 华夏君之梅舞蹈艺术团孕育了创意文化产业品牌 – 梅*当代舞蹈团、活力青少年舞蹈团、活力现代民族乐团。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>龚伊翎</title>
+   <link href="http://username.github.io/cn/2014/03/14/people-yiling-gong"/>
+   <updated>2014-03-14T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/14/people-yiling-gong</id>
+   <content type="html">
+&lt;p&gt;艺术团团长秘书
+代理办公室主任&lt;/p&gt;
+
+&lt;p&gt;联系方式
+办公号码：（08）70739237
+手机号码:  0451 960 321
+Email: dynamismdance@gmail.com
+地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
+
+&lt;p&gt;学历
+2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
+
+&lt;p&gt;语言
+能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
+
+&lt;p&gt;电脑技能
+能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
+
+&lt;p&gt;兴趣爱好
+音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
 </content>
  </entry>
  
@@ -261,31 +326,148 @@ Music (singing, violin, piano, electronic production), visual art, creative writ
  </entry>
  
  <entry>
-   <title>龚伊翎</title>
-   <link href="http://username.github.io/cn/2014/03/14/people-yiling-gong"/>
-   <updated>2014-03-14T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/14/people-yiling-gong</id>
+   <title>周庆梅</title>
+   <link href="http://username.github.io/cn/2014/03/01/vip-qingmei-zhou"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/vip-qingmei-zhou</id>
    <content type="html">
-&lt;p&gt;艺术团团长秘书
-代理办公室主任&lt;/p&gt;
+&lt;p&gt;创办人Q.M Zhou是一位专业的舞蹈演员兼舞蹈编导，在母亲这位舞蹈教授的熏陶下，自幼在中国接受了系统的专业训练 - 中国古典舞和中国民族民间舞，芭蕾舞，曾经就读北京舞蹈学院社交系专修国际标准舞，在阿德莱德艺术技术学院学习当代舞蹈，同时也是在阿德莱德华人中一位拥有舞蹈双学位的华人专业舞蹈编导。
+之前十几年的学习舞蹈过程里我大部分的时间和精力都给了舞蹈事业，付出总有回报的时候，加上母亲一路上的扶持，让我在舞蹈领域里如鱼得水，而且在各种舞蹈比赛里得过无数的奖励，其中大部分是母亲编导的作品。在中国式的舞蹈演出和编舞历练期间我从中得到了宝贵的教学经验和舞台经验，在舞台上演出时不管是自己编导的舞蹈作品还是演示他人的舞蹈作品，都让我用心去完成，不能有丝毫的失误和偏差，尽量做到最完美，有时为了编排一个作品甚至和母亲争执到脸红脖子粗，到最后还要和母亲说对不起，即使是我没有错…..这就是我Q M Zhou. &lt;/p&gt;
 
-&lt;p&gt;联系方式
-办公号码：（08）70739237
-手机号码:  0451 960 321
-Email: dynamismdance@gmail.com
-地址: 201 Sturt ST, Adelaide 5000&lt;/p&gt;
+&lt;p&gt;如果说在中国期间的舞蹈学习是经验积累的话，那么在南澳大利亚的省会阿德莱德期间的舞蹈学习应该是实践的提升。从传统的中国舞蹈到西方当代舞蹈我在自己的舞蹈事业上有了质的飞越。从接受中国传统的教育到后来接受西方自由发挥的教育中慢慢学会调节自己的适应能力。在中西舞蹈艺术文化的碰撞中我学到了两国间的艺术精髓，亲身体验到了中澳两国各自的舞蹈艺术语汇的精彩之处，为我能在未来积极推动两国文化交流提供了丰富的信息，同时也为以后的工作奠定了坚固的基础。&lt;/p&gt;
 
-&lt;p&gt;学历
-2012年高中毕业，现就读于阿德莱德大学健康科学专业，主修公共卫生学。&lt;/p&gt;
+&lt;p&gt;本人是位随和的人，性格开朗、大方，谦虚和聆听、边成长边学习是我的座右铭！在工作之余喜欢和朋友喝咖啡、吃饭、聊天，在澳洲这个有着多元文化的国土上当然朋友也是有着多元文化背景的，我喜欢结交不同工作环境和不同文化背景的朋友，这也是我学习的一种方式。虽然已经在阿德莱德生活了十几年，但是在事业和怎样做人上有自己的原则和底线，三‘不会’和三‘是’是我的基本理念：&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;不会因为环境的改变而放弃对舞蹈的执着和热情&lt;/li&gt;
+	&lt;li&gt;不会因为暂时的困难而放弃对梦想的实现和坚持&lt;/li&gt;
+	&lt;li&gt;不会因为失败的挫折而放弃对目标的信心和信念&lt;/li&gt;
+	&lt;li&gt;是爱憎分明的人，对没有道德观念和习惯性撒谎的人杜绝来往。&lt;/li&gt;
+	&lt;li&gt;是值得信赖的人，对朋友始终保持宽容和尊重的心态，斤斤计较的小人永远不再朋友圈里。&lt;/li&gt;
+	&lt;li&gt;是知道感恩的人，对父母的培养和家人支持的感恩，周围所有人曾经和现在对我帮助和扶持过的朋友的感恩。&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;语言
-能够流利地说、听、读、写中文及英文并作翻译。日语为初级水平。&lt;/p&gt;
+&lt;p&gt;从母亲怀着只有3个月大的我在舞台上表演舞剧的那时起，命运就注定了我和舞蹈永远的结缘！舞蹈对于我来说不是单纯的手舞足蹈，不仅仅是每天的重复工作演出和基本功训练，舞蹈是流淌在我身体里的沸腾的能量血液，舞蹈是事业上一路走过来的坚信和艰辛，舞蹈是我在编排了无数个失败的作品背后所获得经验和一部成功作品的喜悦，舞蹈是万分感谢母亲在事业上的给予，舞蹈是我对父亲无限的思念，舞蹈是我未来事业目标的定位！&lt;/p&gt;
 
-&lt;p&gt;电脑技能
-能够熟练使用Word，Publisher及Powerpoint。&lt;/p&gt;
+&lt;p&gt;最后，感谢母亲对我在舞蹈事业上的栽培，感谢父亲教育我做一个品学兼优的舞者，感谢所有教授过我舞蹈技术的老师们。感谢所有朋友一路上的支持和扶持。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Qingmei Zhou</title>
+   <link href="http://username.github.io/2014/03/01/vip-qingmei-zhou"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/03/01/vip-qingmei-zhou</id>
+   <content type="html">
+&lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
 
-&lt;p&gt;兴趣爱好
-音乐（唱歌、小提琴、钢琴、电子制作），美术，创意写作。&lt;/p&gt;
+&lt;p&gt;During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. &lt;/p&gt;
+
+&lt;p&gt;If my study of dance in China can be counted as accumulation of experience, then my studies here in the capital city of South Australia would be improvement of practice. Moving from Chinese traditional dance to contemporary Western dance offered me the opportunity for a giant leap in my dance career. Through my transition from the Chinese traditional system of education to a much more liberal, self-directed education format, I gradually learnt to regulate my ability to adjust. And through the clashes between the differing dance cultures of Australia and China, I learnt of each of their most treasurable essences, witnessing first-hand the brilliance of each country’s artistic vocabulary. This provided me with abundant information to further cultural exchange between the two nations in future, and also gave me a solid foundation for later work.&lt;/p&gt;
+
+&lt;p&gt;I am an easy-going, cheerful and generous person. To be modest and a good listener, and to learn and grow is my motto. Outside of work, I enjoy chatting with my friends over a coffee or a meal. Of course, in multicultural Australia, I have friends from a variety of cultural backgrounds, since I like to make friends from different work environments and upbringings, and see it as a way of learning. Although I have lived in Adelaide for over a decade, I have always upheld my career and personal ethos, “three nos, three yeses” form my basic principles:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;I will NOT give up my dedication and passion for dance due to changes in my environment.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up determination to achieve my dreams because of temporary difficulties.&lt;/li&gt;
+	&lt;li&gt;I will NOT give up my faith and confidence in my goals because of setbacks from failure.&lt;/li&gt;
+	&lt;li&gt;I am honest in my approaches towards others, and will cut off relations with those who have no morals, or are habitual liars.&lt;/li&gt;
+	&lt;li&gt;I am a trustworthy person, who would always face my friends with a tolerant and respectful attitude, while people who are cunning and selfish will never be in my circle of friends.&lt;/li&gt;
+	&lt;li&gt;I understand the importance of being thankful; I am thankful for that my parents have raised me and that my family have always supported me, thankful for all of my friends who have helped me in the past and present.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since my mother was performing on stage while pregnant with a three-month-old me, fate has decided that I live to dance! To me, dance isn’t as simple as just moving my arms and legs, or repeating cycles of work, performance and skills training. Dance is the driving force of life flowing in my blood, the hardship and determination all along my road to today, the sheer happiness of producing a successful piece of work after gathering experience from having choreographed countless failed works. Dance is my eternal thanks to my mother for what she gave to me and my career, my endless memories of my father, the definitive positioning of my future career target!&lt;/p&gt;
+
+&lt;p&gt;Once again, I would like to give thanks to my mother for fostering my career as a dance artist, to my father for encouraging me to be an all-rounded high achiever, to all of my teachers who had mentored me, to all of my friends who have given me their help and support.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>耿惠君</title>
+   <link href="http://username.github.io/cn/2014/03/01/vip-huijun-geng"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/cn/2014/03/01/vip-huijun-geng</id>
+   <content type="html">
+&lt;h3 id=&quot;section&quot;&gt;介绍：&lt;/h3&gt;
+
+&lt;p&gt;耿惠君对舞蹈事业有着非常的热情和执着。在舞蹈创作里一丝不苟、敬业无私，为人坦荡耿直、善良而幽默。自幼经过专业舞蹈训练，酷爱自己的舞蹈事业，在她执着追求和刻苦钻研的舞蹈领域里舞蹈剧目的编导成绩尤为突出。从演员到舞蹈编导在将近40年的舞蹈生涯中倾注了她毕生的经历和心血，也为山东的舞蹈和文化事业做出了卓越的贡献。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;舞蹈获奖作品：&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1985年受到香港彩翔舞蹈学校聘请去香港教授新疆民族舞，为该校排二组舞“大阪城姑娘”、“俄罗斯踢踏舞”“翱翔”分别获艺术节金银奖。&lt;/li&gt;
+  &lt;li&gt;1988年山东省首届农民运动会大型团体体操民间艺术表演“龙腾虎跃”总导演。&lt;/li&gt;
+  &lt;li&gt;1989年“山楂红了”成人舞蹈参加省文化厅和省文联舞协主办的民族民间舞蹈调演获创作一等奖。&lt;/li&gt;
+  &lt;li&gt;1990年“带银铃的小马驹”、“山楂红了”改编成少儿舞蹈入选山东省小飞天晋京演出团，在中南海及人民大会堂为中央领导和专家们演出受到了很高的评价。&lt;/li&gt;
+  &lt;li&gt;1992年“李二嫂改嫁”（独舞），获省文化厅组织的专业技术比赛金奖。&lt;/li&gt;
+  &lt;li&gt;1994年“山东大嫂闯关东”舞蹈参加省调演一等奖。&lt;/li&gt;
+  &lt;li&gt;1995年“欢腾的果园”舞蹈获得山东省农民艺术节一等奖。&lt;/li&gt;
+  &lt;li&gt;1997年创作的舞蹈“开挖乌金的人”获省职工调演十佳精品奖。&lt;/li&gt;
+  &lt;li&gt;1997年“巾帼三姐妹”舞蹈参加山东省协主办的“四君子杯”青年演员大赛创作一等奖。&lt;/li&gt;
+  &lt;li&gt;1998年舞蹈“田野欢歌”参加法国比利时国际民间艺术节受到了国外专家、观众高度好评，有山东省舞蹈家协会领队参赛。&lt;/li&gt;
+  &lt;li&gt;1999年山东省小飞天舞蹈比赛“绿了，黄河滩”获一等奖。&lt;/li&gt;
+  &lt;li&gt;2000年11月，“绿了，母亲河”参加全国第十届群星奖舞蹈大赛获得山东赛区一等奖，并入选参加由国家文化部主办的群星奖舞蹈大赛获铜奖。&lt;/li&gt;
+  &lt;li&gt;2000年双人舞“热瓦浦故事”获全国第十届群星奖山东赛区创作表演二等奖。&lt;/li&gt;
+  &lt;li&gt;2001年7月由中国文联中国舞协主办的全国首届大学生舞蹈比赛，“热瓦甫的故事”，“绿了，母亲河”二个作品，获创作表演二等奖，舞蹈“红旗飘飘”获创作表演二等奖，（当代舞）。&lt;/li&gt;
+  &lt;li&gt;2002年，11月欢天喜地中国新秧歌大赛我创作的“民间广场舞蹈梆鼓秧歌”，获创作表演大奖（金奖），由中国舞蹈家协会的主办。山东省文联和威海人民政府协办。&lt;/li&gt;
+  &lt;li&gt;2002年，全国首届大学生比赛中三个作品①“绿了，母亲河”②“红旗飘飘”③“热瓦甫的故事”由中国舞蹈家协会录制VCD光盘和其获奖作品全国发行出售。&lt;/li&gt;
+  &lt;li&gt;2007年新疆舞“铃鼓声声”由中央电视台，中央教育电视台，中国文艺报，联合至主办的“第七届全国校园春节晚会”获金奖。表演有山东艺术学院，成教学院、舞蹈专业表演。&lt;/li&gt;
+  &lt;li&gt;2007年编导的群舞“泉韵”获山东省首届农村艺术节民间舞比赛获金奖，由山东省省委宣传部、省文化厅联合主办。&lt;/li&gt;
+  &lt;li&gt;2007年9月“泉韵”由济南市文化局选送、参加全国群星奖选拔赛山东赛区，获一等奖。并参加全国群星奖评比。&lt;/li&gt;
+  &lt;li&gt;2009年2月，由中华人民共和国国家教育部举办的第二届全国大学生艺术展演，我编导的群舞（泉韵）荣获二等奖，由中华女子学院艺术系表演。&lt;/li&gt;
+  &lt;li&gt;2010年，魅力校园第五届全国校园文艺汇演和第十届全国校园春节联欢晚会，我编导的新疆舞（铃鼓声声乐）荣获金奖。&lt;/li&gt;
+  &lt;li&gt;2012年创编《红旗的骄子》舞蹈获得中国教育部举办的第三届大学生艺术节获二等奖。&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Huijun Geng</title>
+   <link href="http://username.github.io/2014/03/01/vip-huijun-geng"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/03/01/vip-huijun-geng</id>
+   <content type="html">
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
+&lt;p&gt;Huijun Geng has an exceptionally enthusiastic and persistent attitude towards her dance career. Meticulous and dedicated in her creative work, she is honest, kind, and humorous in her personal life. Having been professionally trained and embracing her love for dance since a young age, the evidence is apparent through her determined pursuit and diligent research into the dance programs she has choreographed. From performer to choreographer, the 40 years of her career has been inundated with an entire life of experience and effort, and has given outstanding contributions to Shandong’s dance and cultural enterprises.&lt;/p&gt;
+
+&lt;h3 id=&quot;achievements&quot;&gt;Achievements:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1985 - received invitation from Caixiang Dance School in Hong Kong to teach Xinjiang folk dance. The dance routines “Osaka City Girl” and Russian tap dance “Soar” she choreographed won gold and silver respectively at the local art festival.&lt;/li&gt;
+  &lt;li&gt;1988 - was general director of large group folk gymnastic routine “Dragons Fly and Tigers Leap”, performed at the 1st Shandong Peasants’ Games.&lt;/li&gt;
+  &lt;li&gt;1989 - adult dance routine “The Hawthorn Is Red” was awarded first prize for creativity at the folk dance performance organised by the Provincial Department of Culture and the Provincial Dance Association.&lt;/li&gt;
+  &lt;li&gt;1990 - “The Foal With the Silver Bell” and “The Hawthorn Is Red” were arranged for children’s dance groups and selected as part of Shandong children’s troupe tour to Beijing, receiving high praise for their performance at Zhongnanhai and the Great Hall.&lt;/li&gt;
+  &lt;li&gt;1992 - solo dance “Mrs Li’s Remarriage” won gold at the professional skills competition organised by the Department of Culture.&lt;/li&gt;
+  &lt;li&gt;1994 - “Shandong Sister’s Journey to the Northeast” won first prize at provincial performance.&lt;/li&gt;
+  &lt;li&gt;1995 - “The Jubilant Orchard” won first prize at the Shandong Peasants’ Art Festival.&lt;/li&gt;
+  &lt;li&gt;1997 - choreographed “The Excavators of Black Gold” which was awarded top ten at provincial workers’ performance.&lt;/li&gt;
+  &lt;li&gt;1997 - “Three Brave Sisters” won first prize for creativity at the Shandong Provincial Association’s youth acting competition.&lt;/li&gt;
+  &lt;li&gt;1998 - “Song of the Field”, led by performers from the Shandong Dancers Association, received high praise from overseas expert for its performance at the France-Belgium International Folk Art Festival.&lt;/li&gt;
+  &lt;li&gt;1999 - “The Yellow River Bank Is Green” awarded first prize at youth dance competition.&lt;/li&gt;
+  &lt;li&gt;November 2000 - “The Mother River Is Green” was entered for the Tenth National Qunxing Dance Competition organised by the National Department of Culture and awarded first prize for the Shandong region, and third prize at the national competition.&lt;/li&gt;
+  &lt;li&gt;2000 - duet “The Story of Rewapu” won second prize in the Shandong region at the Tenth National Qunxing Dance Competition.&lt;/li&gt;
+  &lt;li&gt;July 2001 - works “The Mother River Is Green” and “The Story of Rewapu” won second prizes at the 1st National Universities Dance Competition organised by the China Cultural Association and the China Dancers Association. The work “Red Flag Flying” also won second prize.&lt;/li&gt;
+  &lt;li&gt;November 2002 - created the folk dance routine which won gold at the China New Yangge Competition, organised by the China Dancers Association and co-hosted by the Shandong Cultural Association and Weihai People’s Council.&lt;/li&gt;
+  &lt;li&gt;2002 - the three works “The Mother River Is Green” “Red Flag Flying” and “The Story of Rewapu” performed at the Universities Dance Competition were recorded on VCD by the Dancers Association and sold nationwide along with all award winning works.&lt;/li&gt;
+  &lt;li&gt;2007 - Xinjiang folk dance “Sounds of Bells and Drums” was awarded gold at the 7th National Schools Spring Festival Gala hosted by China Central Television, China Education Television and China Arts Newspaper. It was performed by members of the Shandong Art Academy and continuing education.&lt;/li&gt;
+  &lt;li&gt;2007 - group dance routine “Sounds of the Spring” awarded gold at the 1st Rural Art Festival’s folk dance competition hosted by the Shandong Provincial Department of Promotion and Department of Culture.&lt;/li&gt;
+  &lt;li&gt;September 2007 - “Sounds of the Spring” nominated by the Jinan City Department of Cultural Affairs to participate in the National Qunxing Awards Shandong area competition and won first prize, as well as being elected for appraisal by comparison.&lt;/li&gt;
+  &lt;li&gt;February 2009 - “Sounds of the Spring” won second prize at the National University Students Art Showcase hosted by the People’s Republic of China Ministry of Education, performed by China Women’s University performing arts students.&lt;/li&gt;
+  &lt;li&gt;2010 - “Sounds of Bells and Drums” won gold at China Art Education’s 5th National Schools Art Showcase and the 10th National Schools Spring Festival Gala.&lt;/li&gt;
+  &lt;li&gt;2012 - choreographed “Proud Child of the Red Flag” which won second prize at the 3rd University Students Art Festival hosted by the Ministry of Education.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Yan Guo</title>
+   <link href="http://username.github.io/2014/03/01/people-yan-guo"/>
+   <updated>2014-03-01T00:00:00+10:30</updated>
+   <id>http://username.github.io/2014/03/01/people-yan-guo</id>
+   <content type="html">
+&lt;p&gt;Guo Yan (HuaXia Jun Mei’s Art Troupe promotional planning director)
+Graduated from Nanjing Normal University and the Centre for Asian Studies at the University of Adelaide, awarded with the qualifications of Bachelor of Chinese Language and Honours Degree in Asian Studies respectively.
+Published novels and prose.
+Has many years of experience in promotion of cultural activities. Participated in the organizations of various performances, language competitions and cultural promotion events, with strong expertise in the field of cultural event organization and planning.
+Guo’s position in the group is of no relation to her position at her current workplace, and was in accordance with her own will.&lt;/p&gt;
 </content>
  </entry>
  
@@ -303,16 +485,20 @@ Email: dynamismdance@gmail.com
  </entry>
  
  <entry>
-   <title>Yan Guo</title>
-   <link href="http://username.github.io/2014/03/01/people-yan-guo"/>
+   <title>胡心舒</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-xinshu-hu"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-yan-guo</id>
+   <id>http://username.github.io/cn/2014/03/01/people-xinshu-hu</id>
    <content type="html">
-&lt;p&gt;Guo Yan (HuaXia Jun Mei’s Art Troupe promotional planning director)
-Graduated from Nanjing Normal University and the Centre for Asian Studies at the University of Adelaide, awarded with the qualifications of Bachelor of Chinese Language and Honours Degree in Asian Studies respectively.
-Published novels and prose.
-Has many years of experience in promotion of cultural activities. Participated in the organizations of various performances, language competitions and cultural promotion events, with strong expertise in the field of cultural event organization and planning.
-Guo’s position in the group is of no relation to her position at her current workplace, and was in accordance with her own will.&lt;/p&gt;
+&lt;p&gt;擅长：民族舞、中国舞、New Jazz、Girl’s Hip-Hop&lt;/p&gt;
+
+&lt;p&gt;习舞六年，八岁起跟随云南省知名舞蹈家李永惠学习舞蹈，
+期间加入小麒麟艺术团，排演大型舞蹈舞剧十余场，曾跟随艺术团赴天津、杭州、香港等地进行文化艺术交流与学习。&lt;/p&gt;
+
+&lt;p&gt;母亲亦为舞蹈家，曾担任云南省花灯剧团演员。&lt;/p&gt;
+
+&lt;p&gt;大学期间组建女子校园街舞社团，带领团员商演，校园演出三十余场。&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -336,20 +522,24 @@ Guo’s position in the group is of no relation to her position at her current w
  </entry>
  
  <entry>
-   <title>胡心舒</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-xinshu-hu"/>
+   <title>李雯</title>
+   <link href="http://username.github.io/cn/2014/03/01/people-wen-li"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-xinshu-hu</id>
+   <id>http://username.github.io/cn/2014/03/01/people-wen-li</id>
    <content type="html">
-&lt;p&gt;擅长：民族舞、中国舞、New Jazz、Girl’s Hip-Hop&lt;/p&gt;
-
-&lt;p&gt;习舞六年，八岁起跟随云南省知名舞蹈家李永惠学习舞蹈，
-期间加入小麒麟艺术团，排演大型舞蹈舞剧十余场，曾跟随艺术团赴天津、杭州、香港等地进行文化艺术交流与学习。&lt;/p&gt;
-
-&lt;p&gt;母亲亦为舞蹈家，曾担任云南省花灯剧团演员。&lt;/p&gt;
-
-&lt;p&gt;大学期间组建女子校园街舞社团，带领团员商演，校园演出三十余场。&lt;/p&gt;
-
+&lt;p&gt;专长                                                                          &lt;br /&gt;
+中国民族民间舞八级、古典舞
+演出历史                                                                          &lt;br /&gt;
+2014年中国农业大学SKY动漫社15周年社庆“妙舞繁音”扇子舞表演
+2014年清华大学舞蹈协会古典舞汇报演出“雪中梅”扇子舞表演
+2012年京交会玄机秦时明月宣传商业演出
+2011年临界·肆“三国杀”群舞古典舞表演
+2011年CJ漫展“三国杀”群舞古典舞表演
+2010年中国农业大学生物学院迎新晚会街舞“Give Me More”表演
+2001年鼓浪屿海峡两岸文化交流节民族民间舞“糖葫芦”
+其他                                                                          &lt;br /&gt;
+性格：踏实肯干、细心谨慎、勤奋好学、严于律己、温和大方
+爱好：摄影、舞蹈、动漫、绘画&lt;/p&gt;
 </content>
  </entry>
  
@@ -377,77 +567,6 @@ Performing Experience                                                           
       Welcome Party of College of Biology in China Agricultural University
 Hobbies                                                                                   &lt;br /&gt;
 Dance, Photography, Animation, Painting&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>李雯</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-wen-li"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-wen-li</id>
-   <content type="html">
-&lt;p&gt;专长                                                                          &lt;br /&gt;
-中国民族民间舞八级、古典舞
-演出历史                                                                          &lt;br /&gt;
-2014年中国农业大学SKY动漫社15周年社庆“妙舞繁音”扇子舞表演
-2014年清华大学舞蹈协会古典舞汇报演出“雪中梅”扇子舞表演
-2012年京交会玄机秦时明月宣传商业演出
-2011年临界·肆“三国杀”群舞古典舞表演
-2011年CJ漫展“三国杀”群舞古典舞表演
-2010年中国农业大学生物学院迎新晚会街舞“Give Me More”表演
-2001年鼓浪屿海峡两岸文化交流节民族民间舞“糖葫芦”
-其他                                                                          &lt;br /&gt;
-性格：踏实肯干、细心谨慎、勤奋好学、严于律己、温和大方
-爱好：摄影、舞蹈、动漫、绘画&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Qingmei Zhou</title>
-   <link href="http://username.github.io/2014/03/01/people-qingmei-zhou"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-qingmei-zhou</id>
-   <content type="html">
-&lt;p&gt;The founder Q.M. Zhou is a professional dancer and choreographer. Under the influence of the dance coach she had who is her mother, Zhou received systematic professional training as a child, in styles including classical Chinese dance, Chinese folk and ethnic dance, and ballet. Zhou has majored in ballroom dancing at the Beijing Dance Academy, studied contemporary dance at TAFE SA, and is a prolific choreographer in Adelaide’s Chinese community holding dual degrees in dance.&lt;/p&gt;
-
-&lt;p&gt;During the past decade or so in my learning, I have given most of my time and energy to my dance career. I knew that there comes a time where I must pay back. My mother has supported me on my way throughout this journey, allowing me to navigate the field of dance with ease. I have received countless awards in various dance competitions, in which most of my performances were choreographed by my mother. I earned valuable teaching and stage experience during my time participating in Chinese style dance performance and choreography. When I was on the stage, whether I was performing a self-written routine or other people’s work, my mother always required that I face the task with utmost passion, not allowing me to commit even the slightest error. &lt;/p&gt;
-
-&lt;p&gt;If my study of dance in China can be counted as accumulation of experience, then my studies here in the capital city of South Australia would be improvement of practice. Moving from Chinese traditional dance to contemporary Western dance offered me the opportunity for a giant leap in my dance career. Through my transition from the Chinese traditional system of education to a much more liberal, self-directed education format, I gradually learnt to regulate my ability to adjust. And through the clashes between the differing dance cultures of Australia and China, I learnt of each of their most treasurable essences, witnessing first-hand the brilliance of each country’s artistic vocabulary. This provided me with abundant information to further cultural exchange between the two nations in future, and also gave me a solid foundation for later work.&lt;/p&gt;
-
-&lt;p&gt;I am an easy-going, cheerful and generous person. To be modest and a good listener, and to learn and grow is my motto. Outside of work, I enjoy chatting with my friends over a coffee or a meal. Of course, in multicultural Australia, I have friends from a variety of cultural backgrounds, since I like to make friends from different work environments and upbringings, and see it as a way of learning. Although I have lived in Adelaide for over a decade, I have always upheld my career and personal ethos, “three nos, three yeses” form my basic principles:
-	I will NOT give up my dedication and passion for dance due to changes in my environment.
-	I will NOT give up determination to achieve my dreams because of temporary difficulties.
-	I will NOT give up my faith and confidence in my goals because of setbacks from failure.
-	I am honest in my approaches towards others, and will cut off relations with those who have no morals, or are habitual liars.
-	I am a trustworthy person, who would always face my friends with a tolerant and respectful attitude, while people who are cunning and selfish will never be in my circle of friends.
-	I understand the importance of being thankful; I am thankful for that my parents have raised me and that my family have always supported me, thankful for all of my friends who have helped me in the past and present.&lt;/p&gt;
-
-&lt;p&gt;Since my mother was performing on stage while pregnant with a three-month-old me, fate has decided that I live to dance! To me, dance isn’t as simple as just moving my arms and legs, or repeating cycles of work, performance and skills training. Dance is the driving force of life flowing in my blood, the hardship and determination all along my road to today, the sheer happiness of producing a successful piece of work after gathering experience from having choreographed countless failed works. Dance is my eternal thanks to my mother for what she gave to me and my career, my endless memories of my father, the definitive positioning of my future career target!&lt;/p&gt;
-
-&lt;p&gt;Once again, I would like to give thanks to my mother for fostering my career as a dance artist, to my father for encouraging me to be an all-rounded high achiever, to all of my teachers who had mentored me, to all of my friends who have given me their help and support.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>周庆梅</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-qingmei-zhou"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-qingmei-zhou</id>
-   <content type="html">
-&lt;p&gt;创办人Q.M Zhou是一位专业的舞蹈演员兼舞蹈编导，在母亲这位舞蹈教授的熏陶下，自幼在中国接受了系统的专业训练 - 中国古典舞和中国民族民间舞，芭蕾舞，曾经就读北京舞蹈学院社交系专修国际标准舞，在阿德莱德艺术技术学院学习当代舞蹈，同时也是在阿德莱德华人中一位拥有舞蹈双学位的华人专业舞蹈编导。
-之前十几年的学习舞蹈过程里我大部分的时间和精力都给了舞蹈事业，付出总有回报的时候，加上母亲一路上的扶持，让我在舞蹈领域里如鱼得水，而且在各种舞蹈比赛里得过无数的奖励，其中大部分是母亲编导的作品。在中国式的舞蹈演出和编舞历练期间我从中得到了宝贵的教学经验和舞台经验，在舞台上演出时不管是自己编导的舞蹈作品还是演示他人的舞蹈作品，都让我用心去完成，不能有丝毫的失误和偏差，尽量做到最完美，有时为了编排一个作品甚至和母亲争执到脸红脖子粗，到最后还要和母亲说对不起，即使是我没有错…..这就是我Q M Zhou. 
-如果说在中国期间的舞蹈学习是经验积累的话，那么在南澳大利亚的省会阿德莱德期间的舞蹈学习应该是实践的提升。从传统的中国舞蹈到西方当代舞蹈我在自己的舞蹈事业上有了质的飞越。从接受中国传统的教育到后来接受西方自由发挥的教育中慢慢学会调节自己的适应能力。在中西舞蹈艺术文化的碰撞中我学到了两国间的艺术精髓，亲身体验到了中澳两国各自的舞蹈艺术语汇的精彩之处，为我能在未来积极推动两国文化交流提供了丰富的信息，同时也为以后的工作奠定了坚固的基础。
-本人是位随和的人，性格开朗、大方，谦虚和聆听、边成长边学习是我的座右铭！在工作之余喜欢和朋友喝咖啡、吃饭、聊天，在澳洲这个有着多元文化的国土上当然朋友也是有着多元文化背景的，我喜欢结交不同工作环境和不同文化背景的朋友，这也是我学习的一种方式。虽然已经在阿德莱德生活了十几年，但是在事业和怎样做人上有自己的原则和底线，三‘不会’和三‘是’是我的基本理念：
-* 不会因为环境的改变而放弃对舞蹈的执着和热情
-* 不会因为暂时的困难而放弃对梦想的实现和坚持
-* 不会因为失败的挫折而放弃对目标的信心和信念
-* 是爱憎分明的人，对没有道德观念和习惯性撒谎的人杜绝来往。
-* 是值得信赖的人，对朋友始终保持宽容和尊重的心态，斤斤计较的小人永远不再朋友圈里。
-* 是知道感恩的人，对父母的培养和家人支持的感恩，周围所有人曾经和现在对我帮助和扶持过的朋友的感恩。&lt;/p&gt;
-
-&lt;p&gt;从母亲怀着只有3个月大的我在舞台上表演舞剧的那时起，命运就注定了我和舞蹈永远的结缘！舞蹈对于我来说不是单纯的手舞足蹈，不仅仅是每天的重复工作演出和基本功训练，舞蹈是流淌在我身体里的沸腾的能量血液，舞蹈是事业上一路走过来的坚信和艰辛，舞蹈是我在编排了无数个失败的作品背后所获得经验和一部成功作品的喜悦，舞蹈是万分感谢母亲在事业上的给予，舞蹈是我对父亲无限的思念，舞蹈是我未来事业目标的定位！&lt;/p&gt;
-
-&lt;p&gt;最后，感谢母亲对我在舞蹈事业上的栽培，感谢父亲教育我做一个品学兼优的舞者，感谢所有教授过我舞蹈技术的老师们。感谢所有朋友一路上的支持和扶持。&lt;/p&gt;
 </content>
  </entry>
  
@@ -512,79 +631,16 @@ See is honoured to be a part of the troupe, honoured to be able to work for the 
  </entry>
  
  <entry>
-   <title>Huijun Geng</title>
-   <link href="http://username.github.io/2014/03/01/people-huijun-geng"/>
+   <title>Bin Jia</title>
+   <link href="http://username.github.io/2014/03/01/people-bin-jia"/>
    <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-huijun-geng</id>
+   <id>http://username.github.io/2014/03/01/people-bin-jia</id>
    <content type="html">
-&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
-&lt;p&gt;Huijun Geng has an exceptionally enthusiastic and persistent attitude towards her dance career. Meticulous and dedicated in her creative work, she is honest, kind, and humorous in her personal life. Having been professionally trained and embracing her love for dance since a young age, the evidence is apparent through her determined pursuit and diligent research into the dance programs she has choreographed. From performer to choreographer, the 40 years of her career has been inundated with an entire life of experience and effort, and has given outstanding contributions to Shandong’s dance and cultural enterprises.&lt;/p&gt;
+&lt;p&gt;Bin (Kit) JIA （Art troupe) &lt;/p&gt;
 
-&lt;h3 id=&quot;achievements&quot;&gt;Achievements:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;1985 - received invitation from Caixiang Dance School in Hong Kong to teach Xinjiang folk dance. The dance routines “Osaka City Girl” and Russian tap dance “Soar” she choreographed won gold and silver respectively at the local art festival.&lt;/li&gt;
-  &lt;li&gt;1988 - was general director of large group folk gymnastic routine “Dragons Fly and Tigers Leap”, performed at the 1st Shandong Peasants’ Games.&lt;/li&gt;
-  &lt;li&gt;1989 - adult dance routine “The Hawthorn Is Red” was awarded first prize for creativity at the folk dance performance organised by the Provincial Department of Culture and the Provincial Dance Association.&lt;/li&gt;
-  &lt;li&gt;1990 - “The Foal With the Silver Bell” and “The Hawthorn Is Red” were arranged for children’s dance groups and selected as part of Shandong children’s troupe tour to Beijing, receiving high praise for their performance at Zhongnanhai and the Great Hall.&lt;/li&gt;
-  &lt;li&gt;1992 - solo dance “Mrs Li’s Remarriage” won gold at the professional skills competition organised by the Department of Culture.&lt;/li&gt;
-  &lt;li&gt;1994 - “Shandong Sister’s Journey to the Northeast” won first prize at provincial performance.&lt;/li&gt;
-  &lt;li&gt;1995 - “The Jubilant Orchard” won first prize at the Shandong Peasants’ Art Festival.&lt;/li&gt;
-  &lt;li&gt;1997 - choreographed “The Excavators of Black Gold” which was awarded top ten at provincial workers’ performance.&lt;/li&gt;
-  &lt;li&gt;1997 - “Three Brave Sisters” won first prize for creativity at the Shandong Provincial Association’s youth acting competition.&lt;/li&gt;
-  &lt;li&gt;1998 - “Song of the Field”, led by performers from the Shandong Dancers Association, received high praise from overseas expert for its performance at the France-Belgium International Folk Art Festival.&lt;/li&gt;
-  &lt;li&gt;1999 - “The Yellow River Bank Is Green” awarded first prize at youth dance competition.&lt;/li&gt;
-  &lt;li&gt;November 2000 - “The Mother River Is Green” was entered for the Tenth National Qunxing Dance Competition organised by the National Department of Culture and awarded first prize for the Shandong region, and third prize at the national competition.&lt;/li&gt;
-  &lt;li&gt;2000 - duet “The Story of Rewapu” won second prize in the Shandong region at the Tenth National Qunxing Dance Competition.&lt;/li&gt;
-  &lt;li&gt;July 2001 - works “The Mother River Is Green” and “The Story of Rewapu” won second prizes at the 1st National Universities Dance Competition organised by the China Cultural Association and the China Dancers Association. The work “Red Flag Flying” also won second prize.&lt;/li&gt;
-  &lt;li&gt;November 2002 - created the folk dance routine which won gold at the China New Yangge Competition, organised by the China Dancers Association and co-hosted by the Shandong Cultural Association and Weihai People’s Council.&lt;/li&gt;
-  &lt;li&gt;2002 - the three works “The Mother River Is Green” “Red Flag Flying” and “The Story of Rewapu” performed at the Universities Dance Competition were recorded on VCD by the Dancers Association and sold nationwide along with all award winning works.&lt;/li&gt;
-  &lt;li&gt;2007 - Xinjiang folk dance “Sounds of Bells and Drums” was awarded gold at the 7th National Schools Spring Festival Gala hosted by China Central Television, China Education Television and China Arts Newspaper. It was performed by members of the Shandong Art Academy and continuing education.&lt;/li&gt;
-  &lt;li&gt;2007 - group dance routine “Sounds of the Spring” awarded gold at the 1st Rural Art Festival’s folk dance competition hosted by the Shandong Provincial Department of Promotion and Department of Culture.&lt;/li&gt;
-  &lt;li&gt;September 2007 - “Sounds of the Spring” nominated by the Jinan City Department of Cultural Affairs to participate in the National Qunxing Awards Shandong area competition and won first prize, as well as being elected for appraisal by comparison.&lt;/li&gt;
-  &lt;li&gt;February 2009 - “Sounds of the Spring” won second prize at the National University Students Art Showcase hosted by the People’s Republic of China Ministry of Education, performed by China Women’s University performing arts students.&lt;/li&gt;
-  &lt;li&gt;2010 - “Sounds of Bells and Drums” won gold at China Art Education’s 5th National Schools Art Showcase and the 10th National Schools Spring Festival Gala.&lt;/li&gt;
-  &lt;li&gt;2012 - choreographed “Proud Child of the Red Flag” which won second prize at the 3rd University Students Art Festival hosted by the Ministry of Education.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>耿惠君</title>
-   <link href="http://username.github.io/cn/2014/03/01/people-huijun-geng"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/03/01/people-huijun-geng</id>
-   <content type="html">
-&lt;h3 id=&quot;section&quot;&gt;介绍：&lt;/h3&gt;
+&lt;p&gt;Bin graduated from Bachelor of Wine Marketing at the University of Adelaide, and later, Master of Accounting and Finance from UniSA. During the past four years, Bin has been involved in diverse cultural events, and through such events, she had the chance to introduce Australian wine and food and diverse culture into different cities in China.&lt;/p&gt;
 
-&lt;p&gt;耿惠君对舞蹈事业有着非常的热情和执着。在舞蹈创作里一丝不苟、敬业无私，为人坦荡耿直、善良而幽默。自幼经过专业舞蹈训练，酷爱自己的舞蹈事业，在她执着追求和刻苦钻研的舞蹈领域里舞蹈剧目的编导成绩尤为突出。从演员到舞蹈编导在将近40年的舞蹈生涯中倾注了她毕生的经历和心血，也为山东的舞蹈和文化事业做出了卓越的贡献。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;舞蹈获奖作品：&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1985年受到香港彩翔舞蹈学校聘请去香港教授新疆民族舞，为该校排二组舞“大阪城姑娘”、“俄罗斯踢踏舞”“翱翔”分别获艺术节金银奖。&lt;/li&gt;
-  &lt;li&gt;1988年山东省首届农民运动会大型团体体操民间艺术表演“龙腾虎跃”总导演。&lt;/li&gt;
-  &lt;li&gt;1989年“山楂红了”成人舞蹈参加省文化厅和省文联舞协主办的民族民间舞蹈调演获创作一等奖。&lt;/li&gt;
-  &lt;li&gt;1990年“带银铃的小马驹”、“山楂红了”改编成少儿舞蹈入选山东省小飞天晋京演出团，在中南海及人民大会堂为中央领导和专家们演出受到了很高的评价。&lt;/li&gt;
-  &lt;li&gt;1992年“李二嫂改嫁”（独舞），获省文化厅组织的专业技术比赛金奖。&lt;/li&gt;
-  &lt;li&gt;1994年“山东大嫂闯关东”舞蹈参加省调演一等奖。&lt;/li&gt;
-  &lt;li&gt;1995年“欢腾的果园”舞蹈获得山东省农民艺术节一等奖。&lt;/li&gt;
-  &lt;li&gt;1997年创作的舞蹈“开挖乌金的人”获省职工调演十佳精品奖。&lt;/li&gt;
-  &lt;li&gt;1997年“巾帼三姐妹”舞蹈参加山东省协主办的“四君子杯”青年演员大赛创作一等奖。&lt;/li&gt;
-  &lt;li&gt;1998年舞蹈“田野欢歌”参加法国比利时国际民间艺术节受到了国外专家、观众高度好评，有山东省舞蹈家协会领队参赛。&lt;/li&gt;
-  &lt;li&gt;1999年山东省小飞天舞蹈比赛“绿了，黄河滩”获一等奖。&lt;/li&gt;
-  &lt;li&gt;2000年11月，“绿了，母亲河”参加全国第十届群星奖舞蹈大赛获得山东赛区一等奖，并入选参加由国家文化部主办的群星奖舞蹈大赛获铜奖。&lt;/li&gt;
-  &lt;li&gt;2000年双人舞“热瓦浦故事”获全国第十届群星奖山东赛区创作表演二等奖。&lt;/li&gt;
-  &lt;li&gt;2001年7月由中国文联中国舞协主办的全国首届大学生舞蹈比赛，“热瓦甫的故事”，“绿了，母亲河”二个作品，获创作表演二等奖，舞蹈“红旗飘飘”获创作表演二等奖，（当代舞）。&lt;/li&gt;
-  &lt;li&gt;2002年，11月欢天喜地中国新秧歌大赛我创作的“民间广场舞蹈梆鼓秧歌”，获创作表演大奖（金奖），由中国舞蹈家协会的主办。山东省文联和威海人民政府协办。&lt;/li&gt;
-  &lt;li&gt;2002年，全国首届大学生比赛中三个作品①“绿了，母亲河”②“红旗飘飘”③“热瓦甫的故事”由中国舞蹈家协会录制VCD光盘和其获奖作品全国发行出售。&lt;/li&gt;
-  &lt;li&gt;2007年新疆舞“铃鼓声声”由中央电视台，中央教育电视台，中国文艺报，联合至主办的“第七届全国校园春节晚会”获金奖。表演有山东艺术学院，成教学院、舞蹈专业表演。&lt;/li&gt;
-  &lt;li&gt;2007年编导的群舞“泉韵”获山东省首届农村艺术节民间舞比赛获金奖，由山东省省委宣传部、省文化厅联合主办。&lt;/li&gt;
-  &lt;li&gt;2007年9月“泉韵”由济南市文化局选送、参加全国群星奖选拔赛山东赛区，获一等奖。并参加全国群星奖评比。&lt;/li&gt;
-  &lt;li&gt;2009年2月，由中华人民共和国国家教育部举办的第二届全国大学生艺术展演，我编导的群舞（泉韵）荣获二等奖，由中华女子学院艺术系表演。&lt;/li&gt;
-  &lt;li&gt;2010年，魅力校园第五届全国校园文艺汇演和第十届全国校园春节联欢晚会，我编导的新疆舞（铃鼓声声乐）荣获金奖。&lt;/li&gt;
-  &lt;li&gt;2012年创编《红旗的骄子》舞蹈获得中国教育部举办的第三届大学生艺术节获二等奖。&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;p&gt;Bin is currently working at a winery in the Barossa Valley, and responsible for wine tasting in the winery, wine marketing and accounting. Bin is very passionate about wine and has 4 years of experience in wine industry. She passed WSET Level 2 and had worked for a magazine to publish a special edition about Australian wine. Bin is an associate member of CPA Australia, and has 3 years of experience in the field of accounting.&lt;/p&gt;
 </content>
  </entry>
  
@@ -599,20 +655,6 @@ See is honoured to be a part of the troupe, honoured to be able to work for the 
 &lt;p&gt;曾就读于阿德莱德大学和南澳大学，拥有葡萄酒营销学学士学位和会计金融硕士学位。贾彬在过去的四年中协助推广澳洲文化，将澳洲红酒，美食以及多元文化介绍到中国。协助举办不同的文化交流活动，促进中国学生和不同国家的学生之间的交流与合作。&lt;/p&gt;
 
 &lt;p&gt;现就职于巴罗萨一家酒庄，主管酒庄品尝，葡萄酒营销和公司会计。贾彬对葡萄酒有着丰富的热情，并通过了葡萄酒资格认证（WSET）的二级考试，曾为一家杂志社编辑并制作了一期澳洲葡萄酒特刊，在葡萄酒界拥有四年的经验。 另外贾彬现为国际注册会计师公司会员，在会计领域拥有三年学习和工作经验。&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Bin Jia</title>
-   <link href="http://username.github.io/2014/03/01/people-bin-jia"/>
-   <updated>2014-03-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/03/01/people-bin-jia</id>
-   <content type="html">
-&lt;p&gt;Bin (Kit) JIA （Art troupe) &lt;/p&gt;
-
-&lt;p&gt;Bin graduated from Bachelor of Wine Marketing at the University of Adelaide, and later, Master of Accounting and Finance from UniSA. During the past four years, Bin has been involved in diverse cultural events, and through such events, she had the chance to introduce Australian wine and food and diverse culture into different cities in China.&lt;/p&gt;
-
-&lt;p&gt;Bin is currently working at a winery in the Barossa Valley, and responsible for wine tasting in the winery, wine marketing and accounting. Bin is very passionate about wine and has 4 years of experience in wine industry. She passed WSET Level 2 and had worked for a magazine to publish a special edition about Australian wine. Bin is an associate member of CPA Australia, and has 3 years of experience in the field of accounting.&lt;/p&gt;
 </content>
  </entry>
  
@@ -709,18 +751,18 @@ You will have the chance to see her makeup style in this group’s future perfor
  
  <entry>
    <title>carousel3</title>
-   <link href="http://username.github.io/2014/01/01/carousel-carousel3"/>
+   <link href="http://username.github.io/cn/2014/01/01/carousel-carousel3"/>
    <updated>2014-01-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/2014/01/01/carousel-carousel3</id>
+   <id>http://username.github.io/cn/2014/01/01/carousel-carousel3</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>carousel3</title>
-   <link href="http://username.github.io/cn/2014/01/01/carousel-carousel3"/>
+   <link href="http://username.github.io/2014/01/01/carousel-carousel3"/>
    <updated>2014-01-01T00:00:00+10:30</updated>
-   <id>http://username.github.io/cn/2014/01/01/carousel-carousel3</id>
+   <id>http://username.github.io/2014/01/01/carousel-carousel3</id>
    <content type="html">
 </content>
  </entry>
