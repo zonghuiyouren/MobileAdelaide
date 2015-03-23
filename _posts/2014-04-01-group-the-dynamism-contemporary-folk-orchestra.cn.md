@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: group
 title: "活力现代民族乐团"
 description: ""
 category: 
 tags: [group]
+background: ""
 ---
 {% include JB/setup %}
 

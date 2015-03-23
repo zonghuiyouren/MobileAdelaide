@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: group
 title: "The Mei* Contemporary Dance Group"
 description: ""
 category: 
 tags: [group]
+background: ""
 ---
 {% include JB/setup %}
 The Mei* Contemporary Dance Group was founded to have young people at the core of dance production and performance, bringing together the country's most prolific dance enthusiasts to provide them with a platform for artistic expression and communication. The cultural needs of viewers from all walks of society can be fulfilled via these young dancers' creations that reflect the trends and characteristics of the modern era. Contemporary dance can be said to be an abstract art form, in which its sense of aesthetic, artistic concepts, dance structure, lexicon etc. are all distinctively different from that of traditional dance. Even so, different forms of dance all share one commonality: life. Essentially, all art comes from our daily lives. Connecting the lexicon common to traditional and contemporary dance, then reforming and combining the concepts and structures make the key point of the group's future production.

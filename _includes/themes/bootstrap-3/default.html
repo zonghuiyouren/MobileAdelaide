@@ -81,12 +81,20 @@
               <ul class="nav navbar-nav">
                 <li><a href="/">Home</a></li>
 
-                <li><a href="/about/" role="button" aria-expanded="false">About Us <span class="caret"></span></a>
+                <li><a  role="button" aria-expanded="false">About Us <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li class="dropdown-header"> Groups </li>
                     {% for post in site.tags.group%}
                       {% if post.language == page.language %}
-                        <li><a href="/about/#{{post.title}}">{{post.title}}</a></li>
+                        <li><a href="{{post.url}}">{{post.title}}</a></li>
+                      {% endif %}
+                    {% endfor %}
+
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Founder</li>
+                    {% for post in site.tags.vip %}
+                      {% if post.language == page.language %}
+                        <li><a href="{{post.url}}">{{post.title}}</a></li>
                       {% endif %}
                     {% endfor %}
 
@@ -147,14 +155,23 @@
               <ul class="nav navbar-nav">
                 <li><a href="/cn/">首页</a></li>
 
-                <li><a href="/cn/about/" role="button" aria-expanded="false">关于我们 <span class="caret"></span></a>
+                <li><a role="button" aria-expanded="false">关于我们 <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li class="dropdown-header"> 艺术团 </li>
                     {% for post in site.tags.group%}
                        {% if post.language == page.language %}
-                        <li><a href="/cn/about/#{{post.title}}">{{post.title}}</a></li>
+                        <li><a href="{{post.url}}">{{post.title}}</a></li>
                       {% endif %}
                     {% endfor %}
+
+                    <li class="divider"></li>
+                    <li class="dropdown-header">创始人</li>
+                    {% for post in site.tags.vip %}
+                      {% if post.language == page.language %}
+                        <li><a href="{{post.url}}">{{post.title}}</a></li>
+                      {% endif %}
+                    {% endfor %}
+
 
                     <li class="divider"></li>
                     <li class="dropdown-header">团队成员</li>
@@ -163,6 +180,8 @@
                         <li><a href="/cn/about/#{{post.title}}">{{post.title}}</a></li>
                       {% endif %}
                     {% endfor %}
+
+
                   </ul>
                 </li>
                 
@@ -226,7 +245,8 @@
 
         <div class="col-md-3 ">
           <div>
-            <a href="https://www.facebook.com/qian.minming"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+            <a href="https://www.facebook.com/dynamismdance"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+            <a href="https://twitter.com/ACculturefusion"><i id="social" class="fa fa-twitter-square fa-3x social-tw"></i></a>
             <a href="https://minmingqian.github.io"><i id="social" class="fa fa-weibo fa-3x social-wb"></i></a>
             <a href="mailto:dynamismdance@gmail.com" title="dynamismdance@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em"></i></a>
             <a href="tel:+61 469 880 699" title="+61 469 880 699"><i id="social" class="fa fa-phone-square fa-3x social-ph"></i></a>
@@ -275,6 +295,7 @@
         <div class="col-md-3 ">
           <div>
             <a href="https://www.facebook.com/dynamismdance"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+            <a href="https://twitter.com/ACculturefusion"><i id="social" class="fa fa-twitter-square fa-3x social-tw"></i></a>
             <a href="https://minmingqian.github.io"><i id="social" class="fa fa-weibo fa-3x social-wb"></i></a>
             <a href="mailto:dynamismdance@gmail.com" title="dynamismdance@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em"></i></a>
             <a href="tel:+61 469 880 699" title="+61 469 880 699"><i id="social" class="fa fa-phone-square fa-3x social-ph"></i></a>

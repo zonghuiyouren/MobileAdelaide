@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: group
 title: "梅*当代舞蹈团"
 description: ""
 category: 
 tags: [group]
+background: ""
 ---
 {% include JB/setup %}
 

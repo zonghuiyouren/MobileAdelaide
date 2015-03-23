@@ -131,7 +131,19 @@ tagline: Supporting tagline
 
   <div class="row featurette" style="background-color:rgba(255,255,255,0.8);">
     <div class="container" style="height:300px; text-align: center;">
-        <h2>Sponsors</h2>
+        <h2>SPONSORS</h2>
+        <div class="row sponsor-container">
+          {% for sponsor in site.tags.sponsor %}
+          {% if sponsor.language == page.language %}
+            <div class="col-md-6">
+              <a href="{{sponsor.website}}">
+                <img class="img-thumbnail sponsor-height" src="/assets/images/sponsors/{{sponsor.image}}" alt="{{sponsor.title}}">
+                <p>{{sponsor.description}}</p>
+              </a>
+            </div>
+          {% endif %}
+          {% endfor %}
+        </div>
     </div>
   </div>
 

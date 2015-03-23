@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: group
 title: "The Dynamism Contemporary Folk Orchestra"
 description: ""
 category: 
 tags: [group]
+background: ""
 ---
 {% include JB/setup %}
 

@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: group
 title: "The Dynamism Youth Dance Group"
 description: ""
 category: 
 tags: [group]
+background: "/assets/images/about/children_background.jpg"
 ---
 {% include JB/setup %}
 

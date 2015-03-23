@@ -269,6 +269,79 @@ task :people do
   end
 end # task :people
 
+
+
+
+# added by minming-qian, add people and add both English and Chinese version.
+# Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1,tag2]] [category="category"]
+desc "Begin a new post in #{CONFIG['posts']}"
+task :sponsor do
+  abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
+  title = ENV["title"] || "new-post"
+  tags = ENV["tags"] || "[sponsor]"
+  category = ENV["category"] || ""
+  category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  begin
+    date = "2014-06-01"
+  rescue => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
+  end
+  filename = File.join(CONFIG['posts'], "#{date}-sponsor-#{slug}.#{CONFIG['post_ext']}")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts 'description: ""'
+    post.puts "category: #{category}"
+    post.puts "tags: #{tags}"
+    post.puts "image: \"#{title.gsub(/-/,' ')}.jpg\""
+    post.puts "---"
+    post.puts "{% include JB/setup %}"
+  end
+
+  abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
+  title = ENV["title"] || "new-post"
+  tags = ENV["tags"] || "[sponsor]"
+  category = ENV["category"] || ""
+  category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  begin
+    date = "2014-06-01"
+  rescue => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
+  end
+  filename = File.join(CONFIG['posts'], "#{date}-sponsor-#{slug}.cn.#{CONFIG['post_ext']}")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts 'description: ""'
+    post.puts "category: #{category}"
+    post.puts "tags: #{tags}"
+    post.puts "image: \"#{title.gsub(/-/,' ')}.jpg\""
+    post.puts "---"
+    post.puts "{% include JB/setup %}"
+  end
+end # task :sponsor
+
+
+
+
+
+
 # added by minming-qian, add people and add both English and Chinese version.
 # Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1,tag2]] [category="category"]
 desc "Begin a new post in #{CONFIG['posts']}"

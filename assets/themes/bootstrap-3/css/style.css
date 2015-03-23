@@ -151,6 +151,9 @@ Only Needed in Multi-Coloured Variation
 .social-fb:hover {
     color: #3B5998;
 }
+.social-tw:hover {
+    color: #59ADEC;
+}
 .social-ph:hover {
     color: #4099FF;
 }
@@ -469,4 +472,35 @@ span.text-class span {
     padding-left: 3px;
     font-family: Georgia;
     text-transform: uppercase;
+}
+
+
+#HEIGHT_100,
+.sponsor-height
+{
+  height: 100px;
+}
+
+
+#PADDING_TOP_100,
+.sponsor-container
+{
+  padding-top: 40px;
+}
+
+#EXTEND_MARGIN,
+.group-content,
+.vip-content
+{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 15px;
+  margin-right: 40px;
+}
+
+#JUSTIFY_TEXT,
+.group-content,
+.vip-content
+{
+  text-align: justify;
 }

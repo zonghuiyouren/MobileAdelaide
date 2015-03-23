@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="container-fluid" style="background-image: url({{page.background}}); background-size: cover;">
+	<div class="container">
+		<div class="page-header">
+		  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row post-full" >
+		  <div class="col-md-5">
+		  </div>
+		  <div class="row">
+		    <div class="col-md-6 vip-content">
+		      {{content}}
+		    </div>
+		  </div>
+		</div>
+	</div>
+</div>

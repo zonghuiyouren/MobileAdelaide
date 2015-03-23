@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: group
 title: "活力青少年舞蹈团"
 description: ""
 category: 
 tags: [group]
+background: "/assets/images/about/children_background.jpg"
 ---
 {% include JB/setup %}
 

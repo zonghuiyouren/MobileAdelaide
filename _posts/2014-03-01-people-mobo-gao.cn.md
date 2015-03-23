@@ -5,6 +5,7 @@ description: ""
 category: 
 tags: [people]
 position: "名誉团长及语言和文化顾问"
+image: "gaomobo.jpg"
 ---
 {% include JB/setup %}
 

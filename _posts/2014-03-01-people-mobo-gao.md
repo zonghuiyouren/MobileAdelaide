@@ -5,6 +5,7 @@ description: ""
 category: 
 tags: [people]
 position: "Honorary dean、language and culture consultant"
+image: "gaomobo.jpg"
 ---
 {% include JB/setup %}
 

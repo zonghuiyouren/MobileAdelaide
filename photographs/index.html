@@ -42,6 +42,27 @@ description: ""
     </div>
 </div>
 
+<div class="container-fluid" style="background-color: #f1f1ea;">
+    <div class="container gallery-title">
+    <h2>2015年中国城演出剧照</h2>
+    </div>
+
+    <div class="container galcontainer">
+        <div id="links">
+        <ul class="img-list">
+            {% directory path: assets/images/zhongguocheng %}
+            <li>
+                <a href="/assets/images/zhongguocheng/{{file.name}}" title="{{file.slug}}" data-gallery >
+                    <img  class="my-gallery" style=" background-image:url(/assets/images/thumbnail/zhongguocheng/{{file.name}});">
+                    <span class="text-content"><span>{{file.slug}} </span></span>
+                </a>
+            </li>
+            {% enddirectory %}
+        </ul>
+        </div>
+    </div>
+</div>
+
 
 <div class="container-fluid" style="background-color: #E6E6E0;">
 
